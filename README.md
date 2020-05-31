@@ -42,4 +42,11 @@ glacier vault sync <vaultname>
 ```
 The name I am using is `FotoDylanAnn` , make sure it is there.
 
+Then finally
+```bash
+git annex get thefilewithphotos.tar --from glacier
+```
+wait for half a day, then get it again. It should work... 
+
+
 
