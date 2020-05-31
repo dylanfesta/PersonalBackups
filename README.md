@@ -22,6 +22,24 @@ git annex add bigfile.tar
 git annex copy bigfile.tar --to glacier
 ```
 
+When pushing on github, alwasy push both branches!
+```bash
+git push origin master git-annex
+```
 
+On the new compter, also have annex, and glacier-cli 
+```bash
+pip install git+https://github.com/basak/glacier-cli.git
+sudo ln -s $(which glacier-cli) /usr/local/bin/glacier 
+```
+
+Then clone the repository, and **reconstruct the inventory** 
+
+```bash
+git annex sync
+glacier vault list
+glacier vault sync <vaultname>
+```
+The name I am using is `FotoDylanAnn` , make sure it is there.
 
 
