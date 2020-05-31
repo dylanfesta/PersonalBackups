@@ -48,5 +48,16 @@ git annex get thefilewithphotos.tar --from glacier
 ```
 wait for half a day, then get it again. It should work... 
 
+## GitHub and branches
+
+This might help or not... but you may want to synch all the branches
+
+Or you will get an error with `git push origin master git-annex`
+
+```bash
+git checkout git-annex
+git branch --set-upstream-to=origin/git-annex
+git pull
+```
 
 
