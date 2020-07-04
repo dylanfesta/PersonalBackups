@@ -1,0 +1,180 @@
+2002
+├── Amici
+│   ├── Alberto.JPG
+│   ├── Auguri Vito.jpg
+│   ├── Deficiente.JPG
+│   ├── Pigna1.JPG
+│   ├── Pigna2.JPG
+│   ├── Pigna.JPG
+│   └── Pignalosa.JPG
+├── Animali
+│   ├── gatto1.JPG
+│   ├── gatto2.JPG
+│   ├── gatto3.JPG
+│   ├── gatto4.JPG
+│   ├── Grotta1.JPG
+│   ├── Grotta2.JPG
+│   ├── Grotta3.JPG
+│   ├── Leone2.JPG
+│   ├── Leone.JPG
+│   ├── Lumaca.jpg
+│   ├── Orango1.JPG
+│   ├── Orango2.JPG
+│   ├── Paesaggio.JPG
+│   ├── quadro.JPG
+│   ├── Ragno1.JPG
+│   ├── zazza3.JPG
+│   └── Zazzà.JPG
+├── CompleannoGaetano
+│   ├── Antonella.JPG
+│   ├── Boh.....JPG
+│   ├── Enzo.JPG
+│   ├── Franca.JPG
+│   ├── GaetanoC1.JPG
+│   ├── GaetanoC2.JPG
+│   ├── GaetanoC3.JPG
+│   ├── GaetanoC4.JPG
+│   ├── GaetanoC5.JPG
+│   ├── GaetanoC6.JPG
+│   ├── GaetanoC8.JPG
+│   ├── GaetanoProfilo.JPG
+│   ├── Gianni1.JPG
+│   ├── Gianni2.JPG
+│   ├── Giulia e Antonella.JPG
+│   ├── Giulia e Zia Rosetta.JPG
+│   ├── Giuseppe2.JPG
+│   ├── Giuseppe.JPG
+│   ├── Ippolita1.JPG
+│   ├── Ippolita2.JPG
+│   ├── Ippolita3.JPG
+│   ├── IppolitaProfilo.JPG
+│   ├── Ninuccio e Rosetta.JPG
+│   ├── Zia Rosetta.JPG
+│   └── Zio Ninuccio.JPG
+├── Desktop
+│   ├── sfondo0.tif
+│   └── Sorpresa!.psd
+├── Dylan
+│   ├── 6beers.gif
+│   ├── Io2.JPG
+│   ├── Io3.JPG
+│   ├── Io4.JPG
+│   ├── ioc1.JPG
+│   ├── ioc2.JPG
+│   ├── io.JPG
+│   └── teschio.gif
+├── fam.Festa
+│   ├── Giacinta.JPG
+│   ├── gianni2
+│   ├── Gianni.JPG
+│   ├── Nicola 2.JPG
+│   ├── Nicola.JPG
+│   ├── Tina 2.JPG
+│   ├── Tina 3.JPG
+│   └── Tina.JPG
+├── Fotomontaggi
+│   ├── AuguriAlberto.jpg
+│   ├── Ele Pentagono vampira Red.jpg
+│   ├── Ele Strega Fuma.jpg
+│   ├── Ele Strega.jpg
+│   ├── Pubblicità3 .jpg
+│   ├── Pubblicità progresso1.jpg
+│   ├── Pubblicità progresso2.jpg
+│   ├── Pubblicità progresso4.jpg
+│   ├── Pubblicità progresso5.jpg
+│   └── Pubblicità progresso6.jpg
+├── Franca-enzo
+│   ├── Colonna1.JPG
+│   ├── Colonna2.JPG
+│   ├── Enzo.JPG
+│   ├── enzo occhi.jpg
+│   ├── Franca2.JPG
+│   ├── Franca3.JPG
+│   ├── Franca e Enzo.JPG
+│   ├── franca.JPG
+│   ├── Roma.JPG
+│   ├── S.Pietro2.JPG
+│   └── S.Pietro.JPG
+├── Gaetano
+│   ├── Gaetano1.JPG
+│   ├── Gaetano2.JPG
+│   ├── Gaetano3.JPG
+│   └── Gaetano4.JPG
+├── Giulia
+│   ├── giulia2.JPG
+│   ├── Giulia3.JPG
+│   ├── Giulia4.JPG
+│   ├── Giulia5.JPG
+│   ├── Giulia6.JPG
+│   ├── Giulia buffa.JPG
+│   ├── Giulia.JPG
+│   ├── Giulia pioggia.JPG
+│   ├── Giulia senza ombrello.JPG
+│   └── Tramonto.JPG
+├── Mamma
+│   ├── Ippolita e Giuseppe.JPG
+│   ├── Mamma 2.JPG
+│   ├── Mamma 3.JPG
+│   ├── Mamma 6.JPG
+│   ├── Mamma con occhiali.JPG
+│   └── Mamma senza occhiali.JPG
+├── Maresca
+│   ├── altalena2.JPG
+│   ├── altalena3.JPG
+│   ├── altalena.JPG
+│   ├── Boccaccia.JPG
+│   ├── dito nell'occhio.JPG
+│   ├── Dopo la recita2.JPG
+│   ├── Dopo la recita.JPG
+│   ├── fiori1.JPG
+│   ├── fiori2.JPG
+│   ├── fiori3.JPG
+│   ├── fiori4.JPG
+│   ├── fiori5.JPG
+│   ├── guancia(12).JPG
+│   ├── linguaccia.JPG
+│   ├── Mamma e maresca 2.JPG
+│   ├── Maresca1.JPG
+│   ├── maresca 2dita.JPG
+│   ├── Maresca 2.JPG
+│   ├── Maresca3.JPG
+│   ├── Maresca 4.JPG
+│   ├── Maresca 5.JPG
+│   ├── Maresca5.JPG
+│   ├── Maresca 6.JPG
+│   ├── Maresca a Miglionico1.JPG
+│   ├── Maresca a Miglionico2.JPG
+│   ├── Maresca a Miglionico3.JPG
+│   ├── Maresca a Miglionico4.JPG
+│   ├── Maresca balla 1(12).JPG
+│   ├── Maresca balla 2.JPG
+│   ├── Maresca dito.JPG
+│   ├── Maresca meditabonda.JPG
+│   ├── Maresca Natalizia10.JPG
+│   ├── Maresca natalizia 2.JPG
+│   ├── Maresca natalizia 3.JPG
+│   ├── Maresca Natalizia3.JPG
+│   ├── Maresca Natalizia4.JPG
+│   ├── Maresca Natalizia5.JPG
+│   ├── Maresca Natalizia6.JPG
+│   ├── Maresca Natalizia7.JPG
+│   ├── Maresca Natalizia9.JPG
+│   ├── Maresca natalizia.JPG
+│   ├── Maresca vasca2.JPG
+│   ├── Maresca vasca3.JPG
+│   ├── Maresca vasca4.JPG
+│   ├── Maresca vasca.JPG
+│   ├── nutella(12).JPG
+│   ├── Recita.JPG
+│   ├── sbadiglio.JPG
+│   ├── Sofferenza 2.JPG
+│   └── Sofferenza.JPG
+└── Paesaggi
+    ├── Mare1.JPG
+    ├── Mare2.JPG
+    ├── Mare3.JPG
+    ├── Mare4.JPG
+    ├── Trulli1.JPG
+    └── Trulli2.JPG
+
+13 directories, 164 files

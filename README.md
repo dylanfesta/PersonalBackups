@@ -80,6 +80,11 @@ git annex copy bigfile.tar --to glacier
 
 Finally, you may also want to sync the external HD in a similar way (see local backup section)
 
+Also, let's add a nice tree
+```bash
+tree bigfilefolder > bigfilefolderTree.txt
+```
+
 
 ## Local backup
 
@@ -112,6 +117,10 @@ gpg --decrypt mysecretfile.gpg
 Compression
 ```bash
 tar -Jcvf mycompressedfiles.tar.xz files... 
+```
+(or simpler compression)
+```bash
+tar -Jcvf mycompressedfiles.tar.gz files... 
 ```
 
 Extraction
