@@ -3,7 +3,7 @@
 
 Goal: use git annex and Amazon glacier for long-term cloud storage of my personal pictures.
 
-## Instructions
+## Initializing
 
 Have git-annex
 
@@ -60,4 +60,61 @@ git branch --set-upstream-to=origin/git-annex
 git pull
 ```
 
+## Adding new files
 
+First, makes sure the vault is there.
+
+```bash
+git annex sync
+glacier vault list
+glacier vault sync FotoDylanAnn
+```
+
+Then same as above
+```bash
+export AWS_ACCESS_KEY_ID="08TJMT99S3511WOZEP91"
+export AWS_SECRET_ACCESS_KEY="s3kr1t"
+git annex add bigfile.tar
+git annex copy bigfile.tar --to glacier
+```
+
+Finally, you may also want to sync the external HD in a similar way (see local backup section)
+
+
+## Local backup
+
+For this, I just followed verbatim the instruction on the website [link here](https://git-annex.branchable.com/walkthrough/)
+
+The commands I used are:
+```bash
+git clone ~/Documents/Dylan/PhotoBackups
+cd PhotoBackups/
+git pull
+git annex init "dylan's portable HD"
+git remote add blackshard ~/Documents/Dylan/PhotoBackups
+git annex synch blackshard
+git annex get Fotografie/FotoPisa2009A.tar 
+```
+
+## Cryptography ! 
+
+Simple version: no key files
+```bash
+gpg --batch --passprhase "blah blah" -c mysecretfile
+```
+And back
+```bash
+gpg --decrypt mysecretfile.gpg
+```
+
+## And compression
+
+Compression
+```bash
+tar -Jcvf mycompressedfiles.tar.xz files... 
+```
+
+Extraction
+```bash
+tar -Jxvf mycompressedfiles.tar.xz -c NewFolder/ 
+```
