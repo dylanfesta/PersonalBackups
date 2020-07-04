@@ -1,0 +1,2579 @@
+20062007
+├── 2006_09_Prime_foto
+│   ├── Dito.JPG
+│   ├── Dylan_1.JPG
+│   ├── Dylan_Devil.JPG
+│   ├── Luigi_e_Susanna_2.JPG
+│   ├── Luigi_e_Susanna.JPG
+│   ├── Macro.JPG
+│   ├── Torre_1.JPG
+│   └── Torre_2.JPG
+├── 2006_09_Stormi_dal_balcone
+│   ├── Fly_me_to_the_moon_1.JPG
+│   ├── Fly_me_to_the_moon_1.psd
+│   ├── Fly_me_to_the_moon_2.JPG
+│   ├── IMG_0130.JPG
+│   ├── IMG_0131.JPG
+│   ├── IMG_0132.JPG
+│   ├── IMG_0139.JPG
+│   ├── IMG_0140.JPG
+│   ├── IMG_0141.JPG
+│   ├── IMG_0143.JPG
+│   ├── IMG_0144.JPG
+│   ├── IMG_0145.JPG
+│   ├── IMG_0146.JPG
+│   ├── IMG_0147.JPG
+│   └── IMG_0148.JPG
+├── 2006_10_Animali_Vari
+│   ├── Coda_di_lucertola_#01.JPG
+│   ├── Coda_di_lucertola_#02.JPG
+│   ├── Coda_di_lucertola_#03.JPG
+│   ├── Coda_di_lucertola_#04.JPG
+│   ├── Geco.JPG
+│   ├── IMG_0459.JPG
+│   ├── IMG_1067.JPG
+│   ├── IMG_1082.JPG
+│   ├── IMG_1083.JPG
+│   ├── IMG_1084.JPG
+│   ├── Moscerino_#01.JPG
+│   ├── Moscerino_#02.JPG
+│   ├── Qualcosa_di_organico.JPG
+│   ├── Snail_1.JPG
+│   ├── Snail_2.JPG
+│   ├── Zanzara_morta_#01.JPG
+│   ├── Zanzara_morta_#02.JPG
+│   ├── Zanzara_morta_#03.JPG
+│   ├── Zanzara_morta_#04.JPG
+│   ├── Zanzara_morta_#05.JPG
+│   └── Zanzara_morta_#06.JPG
+├── 2006_10_Statua_Urlante
+│   ├── IMG_0174.JPG
+│   ├── IMG_0175.JPG
+│   └── IMG_0176.JPG
+├── 2007_01_Paesaggi
+│   ├── Campi_di_Grano_#01.JPG
+│   ├── Campi_di_Grano_#02.JPG
+│   ├── Campi_di_Grano_#03.JPG
+│   ├── Canale_#01.JPG
+│   ├── Canale_#02.JPG
+│   ├── Canale_#03.JPG
+│   ├── Canale_#04.JPG
+│   ├── Il_Grano_Matura_#01.JPG
+│   ├── Il_Grano_Matura_#02.JPG
+│   ├── Il_Grano_Matura_#03.JPG
+│   ├── Il_Grano_Matura_#04.JPG
+│   ├── Il_Grano_Matura_#05.JPG
+│   ├── Il_Grano_Matura_#06.JPG
+│   ├── IMG_1137.JPG
+│   ├── IMG_1138.JPG
+│   ├── IMG_1139.JPG
+│   ├── IMG_1140.JPG
+│   ├── IMG_1141.JPG
+│   ├── Lungarno_#01.JPG
+│   ├── Lungarno_#02.JPG
+│   ├── Lungarno_#03.jpg
+│   ├── Strada_di_Campagna.JPG
+│   ├── Tramonto_#01.JPG
+│   ├── Tramonto_#02.JPG
+│   ├── Tramonto_#03.JPG
+│   └── Tramonto_#04.JPG
+├── 2007_02_Carnevale_Viareggio
+│   ├── Carnevale_Viareggio_#01.JPG
+│   ├── Carnevale_Viareggio_#02.JPG
+│   ├── Carnevale_Viareggio_#03.JPG
+│   ├── Carnevale_Viareggio_#04.JPG
+│   ├── Carnevale_Viareggio_#05.JPG
+│   ├── Carnevale_Viareggio_#06.JPG
+│   ├── Carnevale_Viareggio_#07.JPG
+│   ├── Carnevale_Viareggio_#08.JPG
+│   ├── Carnevale_Viareggio_#09.JPG
+│   ├── Carnevale_Viareggio_#10.JPG
+│   ├── Carnevale_Viareggio_#11.JPG
+│   ├── Carnevale_Viareggio_#12.JPG
+│   ├── Carnevale_Viareggio_#13.JPG
+│   ├── Carnevale_Viareggio_#14.JPG
+│   ├── Carnevale_Viareggio_#15.JPG
+│   ├── Carnevale_Viareggio_#16.JPG
+│   ├── Carnevale_Viareggio_#17.JPG
+│   ├── Carnevale_Viareggio_#18.JPG
+│   ├── Carnevale_Viareggio_#19.JPG
+│   └── Carnevale_Viareggio_#20.JPG
+├── 2007_02_Primi_piani
+│   ├── IMG_0379.JPG
+│   ├── IMG_0380_1.JPG
+│   ├── IMG_0380.JPG
+│   ├── IMG_0381_1.JPG
+│   ├── IMG_0381.JPG
+│   ├── IMG_0383.JPG
+│   ├── IMG_0385_1.JPG
+│   ├── IMG_0385.JPG
+│   ├── IMG_0386_1.JPG
+│   ├── IMG_0386.JPG
+│   ├── IMG_0387_1.JPG
+│   ├── IMG_0387.JPG
+│   ├── IMG_0388_1.JPG
+│   ├── IMG_0388.JPG
+│   ├── IMG_0389_1.JPG
+│   ├── IMG_0389.JPG
+│   ├── IMG_0390_1.JPG
+│   ├── IMG_0390.JPG
+│   ├── IMG_0391.JPG
+│   ├── IMG_0392.JPG
+│   ├── IMG_0393.JPG
+│   ├── IMG_0394.JPG
+│   ├── IMG_0395.JPG
+│   ├── IMG_0396.JPG
+│   ├── IMG_0421.JPG
+│   ├── IMG_0425.JPG
+│   ├── IMG_0427.JPG
+│   ├── IMG_0428_1.JPG
+│   ├── IMG_0428.JPG
+│   ├── IMG_0924.JPG
+│   ├── IMG_0926.JPG
+│   ├── IMG_0927.JPG
+│   ├── IMG_0928.JPG
+│   ├── Leo_&_Mamta_#01.JPG
+│   ├── Leo_&_Mamta_#02.JPG
+│   ├── Leo_&_Mamta_#03.JPG
+│   ├── Leo_&_Mamta_#04.JPG
+│   ├── Leo_&_Mamta_#05.JPG
+│   ├── Leo_&_Mamta_#06.JPG
+│   ├── Mamta_Curriculum_#01.JPG
+│   ├── Mamta_Curriculum_#02.JPG
+│   ├── Mamta_Curriculum_#03.JPG
+│   ├── Mamta_Curriculum_#04.JPG
+│   ├── Mamta_Curriculum_#05.JPG
+│   ├── Mamta_Curriculum_#06.JPG
+│   ├── Mamta_Curriculum_#07.JPG
+│   └── Mamta_Curriculum_#08.JPG
+├── 2007_02_VoltoMuro
+│   ├── Aula_Chimica.JPG
+│   ├── IMG_0418.JPG
+│   ├── IMG_0419.JPG
+│   ├── Strada.psd
+│   └── Volto.psd
+├── 2007_03_Foto_Uli
+│   ├── IMG_0282.JPG
+│   ├── IMG_0283.JPG
+│   ├── IMG_0284.JPG
+│   ├── IMG_0285.JPG
+│   ├── IMG_0286.JPG
+│   ├── IMG_0288.JPG
+│   ├── IMG_0289.JPG
+│   ├── IMG_0290.JPG
+│   ├── IMG_0291.JPG
+│   ├── IMG_0293.JPG
+│   ├── IMG_0294.JPG
+│   ├── IMG_0295.JPG
+│   ├── IMG_0296.JPG
+│   ├── IMG_0297.JPG
+│   ├── IMG_0298.JPG
+│   ├── IMG_0299.JPG
+│   ├── IMG_0300.JPG
+│   ├── IMG_0301.JPG
+│   ├── IMG_0302.JPG
+│   ├── IMG_0303.JPG
+│   ├── IMG_0304.JPG
+│   ├── IMG_0305.JPG
+│   ├── IMG_0306.JPG
+│   ├── IMG_0307.JPG
+│   ├── IMG_0309.JPG
+│   ├── IMG_0311.JPG
+│   ├── IMG_0312.JPG
+│   ├── IMG_0313.JPG
+│   ├── IMG_0314.JPG
+│   ├── IMG_0315.JPG
+│   ├── IMG_0316.JPG
+│   ├── IMG_0318.JPG
+│   ├── IMG_0319.JPG
+│   ├── IMG_0320.JPG
+│   ├── IMG_0321.JPG
+│   ├── IMG_0322.JPG
+│   ├── IMG_0323.JPG
+│   ├── IMG_0325.JPG
+│   ├── IMG_0326.JPG
+│   ├── IMG_0327.JPG
+│   ├── IMG_0328.JPG
+│   ├── IMG_0329.JPG
+│   ├── IMG_0330.JPG
+│   ├── IMG_0331.JPG
+│   ├── IMG_0332.JPG
+│   ├── IMG_0333.JPG
+│   ├── IMG_0334.JPG
+│   ├── IMG_0430.JPG
+│   ├── IMG_0431.JPG
+│   ├── IMG_0433.JPG
+│   └── IMG_0434.JPG
+├── 2007_04_A_Cassino
+│   ├── Alla_Luna_#01.JPG
+│   ├── Alla_Luna_#02.JPG
+│   ├── Monte_Cassino_#01.JPG
+│   ├── Monte_Cassino_#02.JPG
+│   ├── Monte_Cassino_#03.JPG
+│   ├── Monte_Cassino_#04.JPG
+│   ├── Monte_Cassino_#05.JPG
+│   ├── Monte_Cassino_#06.JPG
+│   ├── Monte_Cassino_#07.JPG
+│   ├── Monte_Cassino_#08.JPG
+│   ├── Monte_Cassino_#09.JPG
+│   ├── Monte_Cassino_#10.JPG
+│   ├── Monte_Cassino_#11.JPG
+│   ├── Monte_Cassino_#12.JPG
+│   ├── Roma_2007_#01.JPG
+│   ├── Roma_2007_#02.JPG
+│   ├── Roma_2007_#03.JPG
+│   ├── Roma_2007_#04.JPG
+│   ├── Roma_2007_#05.JPG
+│   ├── Roma_2007_#06.JPG
+│   ├── Roma_2007_#07.JPG
+│   ├── Roma_2007_#08.JPG
+│   ├── Roma_2007_#09.JPG
+│   ├── Roma_2007_#10.JPG
+│   ├── Roma_2007_#11.JPG
+│   ├── Roma_2007_#12.JPG
+│   ├── Roma_2007_#13.JPG
+│   ├── Roma_2007_#14.JPG
+│   ├── Roma_2007_#15.JPG
+│   ├── Roma_2007_#16.JPG
+│   ├── Roma_2007_#17.JPG
+│   └── Roma_2007_#18.JPG
+├── 2007_04_Pasqua
+│   ├── Agriturismo_#01.JPG
+│   ├── Agriturismo_#02.JPG
+│   ├── Agriturismo_#03.JPG
+│   ├── Agriturismo_#04.JPG
+│   ├── Agriturismo_#05.JPG
+│   ├── Agriturismo_#06.JPG
+│   ├── Agriturismo_#07.JPG
+│   ├── Agriturismo_#08.JPG
+│   ├── Agriturismo_#09.JPG
+│   ├── Capra_#01.JPG
+│   ├── Capra_#02.JPG
+│   ├── Capra_#03.JPG
+│   ├── Capra_#04.JPG
+│   ├── Cucina.JPG
+│   ├── Francesca_#01.JPG
+│   ├── Francesca_#02.JPG
+│   ├── Francesca_#03.JPG
+│   ├── Francesca_#04.JPG
+│   ├── Francesca_#05.JPG
+│   ├── Maresca_&_Alice_#01.JPG
+│   ├── Maresca_&_Alice_#02.JPG
+│   ├── Maresca_&_Alice_#03.JPG
+│   ├── Maresca_&_Alice_#04.JPG
+│   ├── Maresca_&_Alice_#05.JPG
+│   ├── Maresca_&_Alice_#06.JPG
+│   ├── Maresca_&_Alice_#07.JPG
+│   ├── Maresca_&_Alice_#08.JPG
+│   ├── Maresca_&_Alice_#09.JPG
+│   ├── Maresca_&_Alice_#10.JPG
+│   ├── Maresca_&_Alice_#11.JPG
+│   ├── Maresca_&_Alice_#12.JPG
+│   ├── Maresca_&_Alice_#13.JPG
+│   ├── Maresca_&_Alice_#14.JPG
+│   ├── Maresca_&_Alice_#15.JPG
+│   ├── Maresca_&_Alice_#16.JPG
+│   ├── Maresca_&_Alice_#17.JPG
+│   ├── Maresca_&_Alice_#18.JPG
+│   ├── Maresca_&_Alice_#19.JPG
+│   ├── Maresca_&_Alice_#20.JPG
+│   ├── Maresca_&_Alice_#21.JPG
+│   ├── Maresca_&_Alice_#22.JPG
+│   ├── Maresca_&_Alice_#23.JPG
+│   ├── Maresca_&_Alice_#24.JPG
+│   ├── Maresca_&_Alice_#25.JPG
+│   ├── Maresc_a_e_Dylan.JPG
+│   ├── Maresca_e_Franca_#01.JPG
+│   ├── Maresca_e_Franca_#02.JPG
+│   ├── Maresca_Verde.JPG
+│   ├── Sul_Prato_#01.JPG
+│   ├── Sul_Prato_#02.JPG
+│   ├── Sul_Prato_#03.JPG
+│   ├── Sul_Prato_#04.JPG
+│   ├── Sul_Prato_#05.JPG
+│   ├── Sul_Prato_#06.JPG
+│   ├── Sul_Prato_#07.JPG
+│   ├── Sul_Prato_#08.JPG
+│   └── Sul_Prato_#09.JPG
+├── 2007_04_Pasquetta
+│   ├── Pasquetta_#01.JPG
+│   ├── Pasquetta_#02.JPG
+│   ├── Pasquetta_#03.JPG
+│   ├── Pasquetta_#04.JPG
+│   ├── Pasquetta_#05.JPG
+│   ├── Pasquetta_#06.JPG
+│   ├── Pasquetta_#07.JPG
+│   ├── Pasquetta_#08.JPG
+│   ├── Pasquetta_#09.JPG
+│   ├── Pasquetta_#10.JPG
+│   ├── Pasquetta_#11.JPG
+│   ├── Pasquetta_#12.JPG
+│   ├── Pasquetta_#13.JPG
+│   ├── Pasquetta_#14.JPG
+│   ├── Pasquetta_#15.JPG
+│   ├── Pasquetta_#16.JPG
+│   ├── Pasquetta_#17.JPG
+│   ├── Pasquetta_#18.JPG
+│   ├── Pasquetta_#19.JPG
+│   ├── Pasquetta_#20.JPG
+│   ├── Pasquetta_#21.JPG
+│   ├── Pasquetta_#22.JPG
+│   └── Pasquetta_#23.JPG
+├── 2007_04_PreGrenoble
+│   ├── Castagnaccio_Macro.JPG
+│   ├── Da_Pablo_#01.JPG
+│   ├── Da_Pablo_#02.JPG
+│   ├── Da_Pablo_#03.JPG
+│   ├── Da_Pablo_#04.JPG
+│   ├── IMG_0593.JPG
+│   ├── IMG_0594.JPG
+│   ├── IMG_0595.JPG
+│   ├── IMG_0596.JPG
+│   ├── Lapo_con_castagnaccio.JPG
+│   ├── Lapo_esulta.JPG
+│   └── Sarah_con_Crepes.JPG
+├── 2007_04_Serate_a_Matera
+│   ├── Collasso.JPG
+│   ├── Imbecilli_#01.JPG
+│   ├── Imbecilli_#02.JPG
+│   ├── Imbecilli_#03.JPG
+│   ├── Imbecilli_#04.JPG
+│   ├── Imbecilli_#05.JPG
+│   ├── Imbecilli_#06.JPG
+│   ├── Imbecilli_#07.JPG
+│   ├── Imbecilli_#08.JPG
+│   ├── Imbecilli_#09.JPG
+│   ├── Imbecilli_#10.JPG
+│   ├── Imbecilli_#11.JPG
+│   ├── Lumaca_#01.JPG
+│   ├── Lumaca_#02.JPG
+│   ├── Lumaca_#03.JPG
+│   ├── Lumaca_#04.JPG
+│   ├── Lumaca_#05.JPG
+│   ├── Marina_e_Michele.JPG
+│   ├── Michele.JPG
+│   └── Rosaria_e_Marina.JPG
+├── 2007_05_01_Primo_Maggio
+│   ├── Chuck_Berry_#01.AVI
+│   ├── Chuck_Berry_#02.AVI
+│   ├── MVI_1052.THM
+│   ├── MVI_1053.THM
+│   ├── Primo_Maggio_2007_#01.JPG
+│   ├── Primo_Maggio_2007_#02.JPG
+│   ├── Primo_Maggio_2007_#03.JPG
+│   ├── Primo_Maggio_2007_#04.JPG
+│   ├── Primo_Maggio_2007_#05.JPG
+│   ├── Primo_Maggio_2007_#06.JPG
+│   ├── Primo_Maggio_2007_#07.JPG
+│   ├── Primo_Maggio_2007_#08.JPG
+│   ├── Primo_Maggio_2007_#09.JPG
+│   ├── Primo_Maggio_2007_#10.JPG
+│   ├── Primo_Maggio_2007_#11.JPG
+│   ├── Primo_Maggio_2007_#12.JPG
+│   ├── Primo_Maggio_2007_#13.JPG
+│   ├── Primo_Maggio_2007_#14.JPG
+│   ├── Primo_Maggio_2007_#15.JPG
+│   ├── Primo_Maggio_2007_#16.JPG
+│   ├── Primo_Maggio_2007_#17.JPG
+│   ├── Primo_Maggio_2007_#18.JPG
+│   ├── Primo_Maggio_2007_#19.JPG
+│   ├── Primo_Maggio_2007_#20.JPG
+│   ├── Primo_Maggio_2007_#21.JPG
+│   ├── Primo_Maggio_2007_#22.JPG
+│   ├── Primo_Maggio_2007_#23.JPG
+│   ├── Primo_Maggio_2007_#24.JPG
+│   ├── Primo_Maggio_2007_#25.JPG
+│   ├── Primo_Maggio_2007_#26.JPG
+│   ├── Primo_Maggio_2007_#27.JPG
+│   ├── Primo_Maggio_2007_#28.JPG
+│   ├── Primo_Maggio_2007_#29.JPG
+│   ├── Primo_Maggio_2007_#30.JPG
+│   ├── Primo_Maggio_2007_#31.JPG
+│   ├── Primo_Maggio_2007_#32.JPG
+│   ├── Primo_Maggio_2007_#33.JPG
+│   ├── Primo_Maggio_2007_#34.JPG
+│   ├── Primo_Maggio_2007_#35.JPG
+│   ├── Primo_Maggio_2007_#36.JPG
+│   ├── Primo_Maggio_2007_#37.JPG
+│   ├── Primo_Maggio_2007_#38.JPG
+│   ├── Primo_Maggio_2007_#39.JPG
+│   ├── Primo_Maggio_2007_#40.JPG
+│   ├── Primo_Maggio_2007_#41.JPG
+│   ├── Primo_Maggio_2007_#42.JPG
+│   ├── Primo_Maggio_2007_#43.JPG
+│   ├── Primo_Maggio_2007_#44.JPG
+│   ├── Primo_Maggio_2007_#45.JPG
+│   ├── Primo_Maggio_2007_#46.JPG
+│   ├── Primo_Maggio_2007_#47.JPG
+│   ├── Primo_Maggio_2007_#48.JPG
+│   ├── Primo_Maggio_2007_#49.JPG
+│   ├── Primo_Maggio_2007_#50.JPG
+│   ├── Primo_Maggio_2007_#51.JPG
+│   ├── Primo_Maggio_2007_#52.JPG
+│   ├── Primo_Maggio_2007_#53.JPG
+│   ├── Primo_Maggio_2007_#54.JPG
+│   ├── Primo_Maggio_2007_#55.JPG
+│   ├── Primo_Maggio_2007_#56.JPG
+│   ├── Primo_Maggio_2007_#57.JPG
+│   ├── Primo_Maggio_2007_#58.JPG
+│   ├── Primo_Maggio_2007_#59.JPG
+│   ├── Primo_Maggio_2007_#60.JPG
+│   ├── Primo_Maggio_2007_#61.JPG
+│   ├── Primo_Maggio_2007_#62.JPG
+│   ├── Primo_Maggio_2007_#63.JPG
+│   ├── Primo_Maggio_2007_#64.JPG
+│   ├── Primo_Maggio_2007_#65.JPG
+│   ├── Primo_Maggio_2007_#66.JPG
+│   ├── Primo_Maggio_2007_#67.JPG
+│   ├── Primo_Maggio_2007_#68.JPG
+│   └── Primo_Maggio_2007_#69.JPG
+├── 2007_05_Quanto_rimane
+│   ├── Dal_Messico.JPG
+│   ├── IMG_1065.JPG
+│   ├── IMG_1066.JPG
+│   ├── IMG_1086.JPG
+│   ├── IMG_1087.JPG
+│   ├── IMG_1088.JPG
+│   ├── Quante_altre_#01.JPG
+│   ├── Quante_altre_#02.JPG
+│   ├── Quante_altre_#03.JPG
+│   └── Ultima.JPG
+├── 2007_06_29_Compleanno_Sarah
+│   ├── #01_Arrivo.JPG
+│   ├── #02_Attesa.JPG
+│   ├── #03_Ancora_in_attesa.JPG
+│   ├── #04_Ritardatari.JPG
+│   ├── #05_Riservato.JPG
+│   ├── #06_Osservazioni.JPG
+│   ├── #07_Smileeee.JPG
+│   ├── #08_Facezie.JPG
+│   ├── #09_Osservando_pizze.JPG
+│   ├── #10_Sguardo_a_destra.JPG
+│   ├── #11_No_glutine.JPG
+│   ├── #12_kiss.JPG
+│   ├── #13_Arriva_la_torta.JPG
+│   ├── #14_Esprimi_un_desiderio.JPG
+│   ├── #15_Taglio_della_torta.JPG
+│   ├── #16_Mezza_torta.JPG
+│   ├── #17_In_posa.JPG
+│   ├── #18_Altra_posa.JPG
+│   ├── #19_Sguardo_a_sinistra.JPG
+│   ├── #20_Ci_penso_io.JPG
+│   ├── #21_Volti_seri.JPG
+│   ├── #22_Primo_regalo.JPG
+│   ├── #23_Sarah_Soppesa.JPG
+│   ├── #24_Profumo.JPG
+│   ├── #25_Sorriso.JPG
+│   ├── #26_Ragno.JPG
+│   ├── #27_Scatola_chiusa.JPG
+│   ├── #28_Ugh.JPG
+│   ├── #29_AAAAHH.JPG
+│   ├── Buon_Compleanno_#1.JPG
+│   └── Buon_Compleanno_#2.JPG
+├── 2007_06_Al_Mare_con_Mamta
+│   ├── IMG_1097.JPG
+│   ├── IMG_1098.JPG
+│   ├── IMG_1099.JPG
+│   ├── IMG_1105.JPG
+│   ├── IMG_1123.JPG
+│   ├── IMG_1125.JPG
+│   ├── IMG_1126.JPG
+│   ├── IMG_1127.JPG
+│   ├── IMG_1128.JPG
+│   ├── IMG_1129.JPG
+│   ├── IMG_1130.JPG
+│   ├── IMG_1131.JPG
+│   ├── IMG_1132.JPG
+│   ├── IMG_1133.JPG
+│   ├── IMG_1134.JPG
+│   ├── Mamta_e_Leonardo_#01.JPG
+│   ├── Mamta_e_Leonardo_#02.JPG
+│   ├── Mamta_e_Leonardo_#03.JPG
+│   ├── Mamta_Leonardo_e_Luigi_#01.JPG
+│   └── Mamta_Leonardo_e_Luigi_#02.JPG
+├── 2007_07_Duomo_a_distanza
+│   ├── IMG_1186.JPG
+│   ├── IMG_1187.JPG
+│   └── IMG_1191.JPG
+├── 2007_07_Gita_in_bici
+│   ├── Gita_in_bici_#01.JPG
+│   ├── Gita_in_bici_#02.JPG
+│   ├── Gita_in_bici_#03.JPG
+│   ├── Gita_in_bici_#04.JPG
+│   ├── Gita_in_bici_#05.JPG
+│   ├── Gita_in_bici_#06.JPG
+│   ├── Gita_in_bici_#07.JPG
+│   ├── Gita_in_bici_#08.JPG
+│   ├── Gita_in_bici_#09.JPG
+│   ├── Gita_in_bici_#10.JPG
+│   ├── Gita_in_bici_#11.JPG
+│   ├── Gita_in_bici_#12.JPG
+│   ├── Gita_in_bici_#13.JPG
+│   ├── Gita_in_bici_#14.JPG
+│   ├── Gita_in_bici_#15.JPG
+│   ├── Gita_in_bici_#16.JPG
+│   ├── Gita_in_bici_#17.JPG
+│   ├── Gita_in_bici_#18.JPG
+│   ├── Gita_in_bici_#19.JPG
+│   ├── Gita_in_bici_#20.JPG
+│   └── Gita_in_bici_#21.JPG
+├── 2007_07_Partenza_Leonardo
+│   ├── Citofono.JPG
+│   ├── Davanti_a_casa_#01.JPG
+│   ├── Davanti_a_casa_#02.JPG
+│   ├── I_tre_di_Piazzale_Ravenna_#01.JPG
+│   ├── I_tre_di_Piazzale_Ravenna_#02.JPG
+│   ├── I_tre_di_Piazzale_Ravenna_#03.JPG
+│   ├── Leo_&_Brother.JPG
+│   ├── Luigi_alla_porta.JPG
+│   └── Piazzale_Ravenna_5.JPG
+├── 2007_08_Concerto_al_Pollino
+│   ├── Concerto_al_Pollino_#01.JPG
+│   ├── Concerto_al_Pollino_#02.JPG
+│   ├── Concerto_al_Pollino_#03.JPG
+│   ├── Concerto_al_Pollino_#04.JPG
+│   ├── Concerto_al_Pollino_#05.JPG
+│   ├── Concerto_al_Pollino_#06.JPG
+│   ├── Concerto_al_Pollino_#07.JPG
+│   ├── Concerto_al_Pollino_#08.JPG
+│   ├── Concerto_al_Pollino_#09.JPG
+│   ├── Concerto_al_Pollino_#10.JPG
+│   ├── Concerto_al_Pollino_#11.JPG
+│   ├── Concerto_al_Pollino_#12.JPG
+│   ├── Concerto_al_Pollino_#13.JPG
+│   ├── Concerto_al_Pollino_#14.JPG
+│   ├── Concerto_al_Pollino_#15.JPG
+│   ├── Concerto_al_Pollino_#16.JPG
+│   ├── Concerto_al_Pollino_#17.JPG
+│   ├── Concerto_al_Pollino_#18.JPG
+│   ├── Concerto_al_Pollino_#19.JPG
+│   ├── Concerto_al_Pollino_#20.JPG
+│   ├── Concerto_al_Pollino_#21.JPG
+│   ├── Concerto_al_Pollino_#22.JPG
+│   ├── Concerto_al_Pollino_#23.JPG
+│   ├── Concerto_al_Pollino_#24.JPG
+│   ├── Concerto_al_Pollino_#25.JPG
+│   ├── Concerto_al_Pollino_#26.JPG
+│   ├── Concerto_al_Pollino_#27.JPG
+│   ├── Concerto_al_Pollino_#28.JPG
+│   ├── Concerto_al_Pollino_#29.JPG
+│   ├── Concerto_al_Pollino_#30.JPG
+│   ├── Concerto_al_Pollino_#31.JPG
+│   ├── Concerto_al_Pollino_#32.JPG
+│   ├── Concerto_al_Pollino_#33.JPG
+│   ├── Concerto_al_Pollino_#34.JPG
+│   ├── Concerto_al_Pollino_#35.JPG
+│   ├── Concerto_al_Pollino_#36.JPG
+│   ├── Concerto_al_Pollino_#37.JPG
+│   ├── Concerto_al_Pollino_#38.JPG
+│   ├── Concerto_al_Pollino_#39.JPG
+│   ├── Concerto_al_Pollino_#40.JPG
+│   ├── Concerto_al_Pollino_#41.JPG
+│   ├── Concerto_al_Pollino_#42.JPG
+│   ├── Concerto_al_Pollino_#43.JPG
+│   ├── Concerto_al_Pollino_#44.JPG
+│   ├── Concerto_al_Pollino_#45.JPG
+│   ├── Concerto_al_Pollino_#46.JPG
+│   ├── Concerto_al_Pollino_#47.JPG
+│   ├── Concerto_al_Pollino_#48.JPG
+│   ├── Concerto_al_Pollino_#49.JPG
+│   ├── Concerto_al_Pollino_#50.JPG
+│   ├── Concerto_al_Pollino_#51.JPG
+│   ├── Concerto_al_Pollino_#52.JPG
+│   ├── Concerto_al_Pollino_#53.JPG
+│   ├── Concerto_al_Pollino_#54.JPG
+│   ├── Concerto_al_Pollino_#55.JPG
+│   ├── Concerto_al_Pollino_#56.JPG
+│   ├── Concerto_al_Pollino_#57.JPG
+│   ├── Concerto_al_Pollino_#58.JPG
+│   ├── Concerto_al_Pollino_#59.JPG
+│   ├── Concerto_al_Pollino_#60.JPG
+│   ├── Concerto_al_Pollino_#61.JPG
+│   ├── Concerto_al_Pollino_#62.JPG
+│   ├── Concerto_al_Pollino_#63.JPG
+│   ├── Concerto_al_Pollino_#64.JPG
+│   ├── Concerto_al_Pollino_#65.JPG
+│   ├── Concerto_al_Pollino_#66.JPG
+│   ├── Il_giorno_dopo_#01.JPG
+│   ├── Il_giorno_dopo_#02.JPG
+│   ├── Il_giorno_dopo_#03.JPG
+│   ├── Il_giorno_dopo_#04.JPG
+│   ├── Il_giorno_dopo_#05.JPG
+│   ├── Il_giorno_dopo_#06.JPG
+│   ├── Il_giorno_dopo_#07.JPG
+│   ├── Il_giorno_dopo_#08.JPG
+│   ├── Il_giorno_dopo_#09.JPG
+│   ├── Il_giorno_dopo_#10.JPG
+│   ├── Il_giorno_dopo_#11.JPG
+│   ├── Il_giorno_dopo_#12.JPG
+│   ├── Il_giorno_dopo_#13.JPG
+│   ├── Il_giorno_dopo_#14.JPG
+│   ├── Il_giorno_dopo_#15.JPG
+│   ├── Il_giorno_dopo_#16.JPG
+│   ├── Il_giorno_dopo_#17.JPG
+│   ├── Il_giorno_dopo_#18.JPG
+│   ├── Il_giorno_dopo_#19.JPG
+│   ├── Il_giorno_dopo_#20.JPG
+│   ├── Il_giorno_dopo_#21.JPG
+│   ├── Il_giorno_dopo_#22.JPG
+│   ├── Il_giorno_dopo_#23.JPG
+│   ├── Il_giorno_dopo_#24.JPG
+│   ├── Il_giorno_dopo_#25.JPG
+│   ├── Il_giorno_dopo_#26.JPG
+│   ├── Il_giorno_dopo_#27.JPG
+│   ├── Il_giorno_dopo_#28.JPG
+│   ├── Il_giorno_dopo_#29.JPG
+│   ├── Il_giorno_dopo_#30.JPG
+│   ├── Il_giorno_dopo_#31.JPG
+│   ├── Il_giorno_dopo_#32.JPG
+│   ├── Il_giorno_dopo_#33.JPG
+│   ├── Il_giorno_dopo_#34.JPG
+│   ├── Il_giorno_dopo_#35.JPG
+│   ├── Il_giorno_dopo_#36.JPG
+│   ├── Il_giorno_dopo_#37.JPG
+│   ├── Il_giorno_dopo_#38.JPG
+│   ├── Il_giorno_dopo_#39.JPG
+│   ├── Il_giorno_dopo_#40.JPG
+│   ├── Il_giorno_dopo_#41.JPG
+│   ├── Il_giorno_dopo_#42.JPG
+│   ├── Il_giorno_dopo_#43.JPG
+│   ├── Il_giorno_dopo_#44.JPG
+│   ├── Il_giorno_dopo_#45.JPG
+│   ├── Il_giorno_dopo_#46.JPG
+│   ├── Il_giorno_dopo_#47.JPG
+│   ├── Il_giorno_dopo_#48.JPG
+│   ├── Il_giorno_dopo_#49.JPG
+│   ├── Il_giorno_dopo_#50.JPG
+│   ├── Il_giorno_dopo_#51.JPG
+│   ├── Il_giorno_dopo_#52.JPG
+│   ├── Il_giorno_dopo_#53.JPG
+│   ├── Il_giorno_dopo_#54.JPG
+│   ├── Il_giorno_dopo_#55.JPG
+│   ├── Il_giorno_dopo_#56.JPG
+│   ├── Il_giorno_dopo_#57.JPG
+│   ├── Il_giorno_dopo_#58.JPG
+│   ├── Il_giorno_dopo_#59.JPG
+│   ├── Il_giorno_dopo_#60.JPG
+│   ├── Il_giorno_dopo_#61.JPG
+│   ├── Il_giorno_dopo_#62.JPG
+│   ├── Il_giorno_dopo_#63.JPG
+│   ├── Il_giorno_dopo_#64.JPG
+│   ├── Il_giorno_dopo_#65.JPG
+│   ├── Il_giorno_dopo_#66.JPG
+│   ├── Il_giorno_dopo_#67.JPG
+│   ├── Il_giorno_dopo_#68.JPG
+│   ├── Il_giorno_dopo_#69.JPG
+│   ├── Il_giorno_dopo_#70.JPG
+│   ├── Intervista_a_Varenne.AVI
+│   └── MVI_1386.THM
+├── 2007_08_Serata_al_Camera
+│   ├── IMG_1400.JPG
+│   ├── IMG_1401.JPG
+│   └── IMG_1402.JPG
+├── 2007_10_5Terre
+│   ├── 5_Terre_con_Mamta_#01.JPG
+│   ├── 5_Terre_con_Mamta_#02.JPG
+│   ├── 5_Terre_con_Mamta_#03.JPG
+│   ├── 5_Terre_con_Mamta_#04.JPG
+│   ├── 5_Terre_con_Mamta_#05.JPG
+│   ├── 5_Terre_con_Mamta_#06.JPG
+│   ├── 5_Terre_con_Mamta_#07.JPG
+│   ├── 5_Terre_con_Mamta_#08.JPG
+│   ├── 5_Terre_con_Mamta_#09.JPG
+│   ├── 5_Terre_con_Mamta_#10.JPG
+│   ├── 5_Terre_con_Mamta_#11.JPG
+│   ├── 5_Terre_con_Mamta_#12.JPG
+│   ├── 5_Terre_con_Mamta_#13.JPG
+│   ├── 5_Terre_con_Mamta_#14.JPG
+│   ├── 5_Terre_con_Mamta_#15.JPG
+│   ├── 5_Terre_con_Mamta_#16.JPG
+│   ├── 5_Terre_con_Mamta_#17.JPG
+│   ├── 5_Terre_con_Mamta_#18.JPG
+│   ├── 5_Terre_con_Mamta_#19.JPG
+│   ├── 5_Terre_con_Mamta_#20.JPG
+│   ├── 5_Terre_con_Mamta_#21.JPG
+│   ├── 5_Terre_con_Mamta_#22.JPG
+│   ├── 5_Terre_con_Mamta_#23.JPG
+│   ├── 5_Terre_con_Mamta_#24.JPG
+│   ├── 5_Terre_con_Mamta_#25.JPG
+│   ├── 5_Terre_con_Mamta_#26.JPG
+│   ├── 5_Terre_con_Mamta_#27.JPG
+│   ├── 5_Terre_con_Mamta_#28.JPG
+│   ├── 5_Terre_con_Mamta_#29.JPG
+│   ├── 5_Terre_con_Mamta_#30.JPG
+│   ├── 5_Terre_con_Mamta_#31.JPG
+│   ├── 5_Terre_con_Mamta_#32.JPG
+│   ├── 5_Terre_con_Mamta_#33.JPG
+│   ├── 5_Terre_con_Mamta_#34.JPG
+│   ├── 5_Terre_con_Mamta_#35.JPG
+│   ├── 5_Terre_con_Mamta_#36.JPG
+│   ├── 5_Terre_con_Mamta_#37.JPG
+│   ├── 5_Terre_con_Mamta_#38.JPG
+│   ├── 5_Terre_con_Mamta_#39.JPG
+│   ├── 5_Terre_con_Mamta_#40.JPG
+│   ├── 5_Terre_con_Mamta_#41.JPG
+│   ├── 5_Terre_con_Mamta_#42.JPG
+│   ├── 5_Terre_con_Mamta_#43.JPG
+│   ├── 5_Terre_con_Mamta_#44.JPG
+│   ├── 5_Terre_con_Mamta_#45.JPG
+│   ├── 5_Terre_con_Mamta_#46.JPG
+│   ├── 5_Terre_con_Mamta_#47.JPG
+│   ├── 5_Terre_con_Mamta_#48.JPG
+│   ├── 5_Terre_con_Mamta_#49.JPG
+│   ├── 5_Terre_con_Mamta_#50.JPG
+│   ├── 5_Terre_con_Mamta_#51.JPG
+│   ├── 5_Terre_con_Mamta_#52.JPG
+│   ├── 5_Terre_con_Mamta_#53.JPG
+│   ├── 5_Terre_con_Mamta_#54.JPG
+│   ├── 5_Terre_con_Mamta_#55.JPG
+│   ├── 5_Terre_con_Mamta_#56.JPG
+│   ├── 5_Terre_con_Mamta_#57.JPG
+│   ├── 5_Terre_con_Mamta_#58.JPG
+│   ├── 5_Terre_con_Mamta_#59.JPG
+│   ├── 5_Terre_con_Mamta_#60.JPG
+│   ├── 5_Terre_con_Mamta_#61.JPG
+│   ├── 5_Terre_con_Mamta_#62.JPG
+│   ├── 5_Terre_con_Mamta_#63.JPG
+│   ├── 5_Terre_con_Mamta_#64.JPG
+│   ├── 5_Terre_con_Mamta_#65.JPG
+│   ├── 5_Terre_con_Mamta_#66.JPG
+│   ├── 5_Terre_con_Mamta_#67.JPG
+│   ├── 5_Terre_con_Mamta_#68.JPG
+│   ├── 5_Terre_con_Mamta_#69.JPG
+│   ├── 5_Terre_con_Mamta_#70.JPG
+│   ├── 5_Terre_con_Mamta_#71.JPG
+│   ├── 5_Terre_con_Mamta_#72.JPG
+│   ├── 5_Terre_con_Mamta_#73.JPG
+│   ├── 5_Terre_con_Mamta_#74.JPG
+│   ├── 5_Terre_con_Mamta_#75.JPG
+│   ├── 5_Terre_con_Mamta_#76.JPG
+│   ├── 5_Terre_con_Mamta_#77.JPG
+│   ├── 5_Terre_con_Mamta_#78.JPG
+│   ├── 5_Terre_con_Mamta_#79.JPG
+│   ├── 5_Terre_con_Mamta_#80.JPG
+│   ├── 5_Terre_con_Mamta_#81.JPG
+│   ├── 5_Terre_con_Mamta_#82.JPG
+│   ├── 5_Terre_con_Mamta_#83.JPG
+│   ├── 5_Terre_con_Mamta_#84.JPG
+│   ├── 5_Terre_con_Mamta_#85.JPG
+│   ├── pan19.jpg
+│   ├── pan43.jpg
+│   ├── pan54.jpg
+│   └── pan55.jpg
+├── 2007_10_Compleanno_Letizia_&_Altri
+│   ├── Compleanno_Letizia_#01.JPG
+│   ├── Compleanno_Letizia_#02.JPG
+│   ├── Compleanno_Letizia_#03.JPG
+│   ├── Compleanno_Letizia_#04.JPG
+│   ├── Compleanno_Letizia_#05.JPG
+│   ├── Compleanno_Letizia_#06.JPG
+│   ├── Compleanno_Letizia_#08.JPG
+│   ├── Compleanno_Letizia_#09.JPG
+│   ├── Compleanno_Letizia_#10.JPG
+│   ├── Compleanno_Letizia_#11.JPG
+│   ├── Compleanno_Letizia_#12.JPG
+│   ├── Compleanno_Letizia_#13.JPG
+│   ├── Compleanno_Letizia_#14.JPG
+│   ├── Compleanno_Letizia_#15.JPG
+│   ├── Compleanno_Letizia_#16.JPG
+│   ├── Compleanno_Letizia_#17.JPG
+│   ├── Compleanno_Letizia_#18.JPG
+│   ├── Compleanno_Letizia_#19.JPG
+│   ├── Compleanno_Letizia_#20.JPG
+│   ├── Compleanno_Letizia_#21.JPG
+│   └── Compleanno_Letizia_#22.JPG
+├── 2007_10_Gita_WWF
+│   ├── Gita_WWF_#01.JPG
+│   ├── Gita_WWF_#02.JPG
+│   ├── Gita_WWF_#03.JPG
+│   ├── Gita_WWF_#04.JPG
+│   ├── Gita_WWF_#05.JPG
+│   ├── Gita_WWF_#06.JPG
+│   ├── Gita_WWF_#07.JPG
+│   ├── Gita_WWF_#08.JPG
+│   ├── Gita_WWF_#09.JPG
+│   ├── Gita_WWF_#10.JPG
+│   ├── Gita_WWF_#11.JPG
+│   ├── Gita_WWF_#12.JPG
+│   ├── Gita_WWF_#13.JPG
+│   ├── Gita_WWF_#14.JPG
+│   ├── Gita_WWF_#15.JPG
+│   ├── Gita_WWF_#16.JPG
+│   ├── Gita_WWF_#17.JPG
+│   ├── Gita_WWF_#18.JPG
+│   ├── Gita_WWF_#19.JPG
+│   ├── Gita_WWF_#20.JPG
+│   ├── Gita_WWF_#21.JPG
+│   ├── Gita_WWF_#22.JPG
+│   ├── Gita_WWF_#23.JPG
+│   ├── Gita_WWF_#24.JPG
+│   ├── Gita_WWF_#25.JPG
+│   ├── Gita_WWF_#26.JPG
+│   ├── Gita_WWF_#27.JPG
+│   ├── Gita_WWF_#28.JPG
+│   ├── Gita_WWF_#29.JPG
+│   ├── Gita_WWF_#30.JPG
+│   ├── Gita_WWF_#31.JPG
+│   ├── Gita_WWF_#32.JPG
+│   ├── Gita_WWF_#33.JPG
+│   ├── Gita_WWF_#34.JPG
+│   ├── Gita_WWF_#35.JPG
+│   ├── Gita_WWF_#36.JPG
+│   ├── Gita_WWF_#37.JPG
+│   ├── Gita_WWF_#38.JPG
+│   ├── Gita_WWF_#39.JPG
+│   ├── Gita_WWF_#40.JPG
+│   ├── Gita_WWF_#41.JPG
+│   ├── Gita_WWF_#42.JPG
+│   ├── Gita_WWF_#43.JPG
+│   ├── Gita_WWF_#44.JPG
+│   ├── Gita_WWF_#45.JPG
+│   ├── Gita_WWF_#46.JPG
+│   ├── Gita_WWF_#47.JPG
+│   ├── Gita_WWF_#48.JPG
+│   ├── Gita_WWF_#49.JPG
+│   ├── Gita_WWF_#50.JPG
+│   ├── Gita_WWF_#51.jpg
+│   ├── Gita_WWF_#52.jpg
+│   └── Gita_WWF_#53.jpg
+├── 2007_10_Outlet
+│   ├── Outlet_#01.JPG
+│   ├── Outlet_#02.JPG
+│   ├── Outlet_#03.JPG
+│   ├── Outlet_#04.JPG
+│   ├── Outlet_#05.JPG
+│   ├── Outlet_#06.JPG
+│   └── Outlet_#07.JPG
+├── 2007_11_04
+│   ├── IMG_2598.JPG
+│   ├── IMG_2599.JPG
+│   ├── IMG_2617.JPG
+│   ├── IMG_2618.JPG
+│   └── IMG_2619.JPG
+├── 2007_11_5Terre_Bis
+│   ├── 5_Terre_#01.JPG
+│   ├── 5_Terre_#02.JPG
+│   ├── 5_Terre_#03.JPG
+│   ├── 5_Terre_#04.JPG
+│   ├── 5_Terre_#05.JPG
+│   ├── 5_Terre_#06.JPG
+│   ├── 5_Terre_#07.JPG
+│   ├── 5_Terre_#08.JPG
+│   ├── 5_Terre_#09.JPG
+│   ├── 5_Terre_#10.JPG
+│   ├── 5_Terre_#11.JPG
+│   ├── 5_Terre_#12.JPG
+│   ├── 5_Terre_#13.JPG
+│   ├── 5_Terre_#14.JPG
+│   ├── 5_Terre_#15.JPG
+│   ├── 5_Terre_#16.JPG
+│   ├── 5_Terre_#17.JPG
+│   ├── 5_Terre_#18.JPG
+│   ├── 5_Terre_#19.JPG
+│   ├── 5_Terre_#20.JPG
+│   ├── 5_Terre_#21.JPG
+│   ├── 5_Terre_#22.JPG
+│   ├── 5_Terre_#23.JPG
+│   ├── 5_Terre_#24.JPG
+│   ├── 5_Terre_#25.JPG
+│   ├── 5_Terre_#26.JPG
+│   ├── 5_Terre_#27.JPG
+│   ├── 5_Terre_#28.JPG
+│   ├── 5_Terre_#29.JPG
+│   ├── 5_Terre_#30.JPG
+│   ├── 5_Terre_#31.JPG
+│   ├── 5_Terre_#32.JPG
+│   ├── 5_Terre_#33.JPG
+│   ├── 5_Terre_#34.JPG
+│   ├── 5_Terre_#35.JPG
+│   ├── 5_Terre_#36.JPG
+│   ├── 5_Terre_#37.JPG
+│   ├── 5_Terre_#38.JPG
+│   ├── 5_Terre_#39.JPG
+│   ├── 5_Terre_#40.JPG
+│   ├── 5_Terre_#41.JPG
+│   ├── 5_Terre_#42.JPG
+│   ├── 5_Terre_#43.JPG
+│   ├── 5_Terre_#44.JPG
+│   ├── 5_Terre_#45.JPG
+│   ├── 5_Terre_#46.JPG
+│   ├── 5_Terre_#47.JPG
+│   ├── 5_Terre_#48.JPG
+│   ├── 5_Terre_#49.JPG
+│   ├── 5_Terre_#50.JPG
+│   ├── 5_Terre_#51.JPG
+│   ├── 5_Terre_#52.JPG
+│   ├── 5_Terre_#53.JPG
+│   ├── 5_Terre_#54.JPG
+│   ├── 5_Terre_#55.JPG
+│   ├── 5_Terre_#56.JPG
+│   ├── 5_Terre_#57.JPG
+│   ├── 5_Terre_#58.JPG
+│   ├── 5_Terre_#59.JPG
+│   ├── 5_Terre_#60.JPG
+│   ├── 5_Terre_#61.JPG
+│   ├── 5_Terre_#62.JPG
+│   ├── 5_Terre_#63.JPG
+│   ├── 5_Terre_#64.JPG
+│   ├── 5_Terre_#65.JPG
+│   ├── 5_Terre_#66.JPG
+│   ├── 5_Terre_#67.JPG
+│   └── 5_Terre_#68.jpg
+├── 2007_11_Volterra
+│   ├── Volterra_#01.JPG
+│   ├── Volterra_#02.JPG
+│   ├── Volterra_#03.JPG
+│   ├── Volterra_#04.JPG
+│   ├── Volterra_#05.JPG
+│   ├── Volterra_#06.JPG
+│   ├── Volterra_#07.JPG
+│   ├── Volterra_#08.JPG
+│   ├── Volterra_#09.JPG
+│   ├── Volterra_#10.JPG
+│   ├── Volterra_#11.JPG
+│   ├── Volterra_#12.JPG
+│   ├── Volterra_#13.JPG
+│   ├── Volterra_#14.JPG
+│   ├── Volterra_#15.JPG
+│   ├── Volterra_#16.JPG
+│   ├── Volterra_#17.jpg
+│   └── Volterra_#18.jpg
+├── 2007_12_31
+│   ├── Amici_di_Eleonora.JPG
+│   ├── Antonella_&_Stefania.JPG
+│   ├── Antonella_&_Valentina.JPG
+│   ├── Eleonora_Natalizia.JPG
+│   ├── Finestrino.JPG
+│   ├── Giovanni_Caldone.JPG
+│   ├── Giuseppe.JPG
+│   ├── Ilaria_2.JPG
+│   ├── Ilaria.JPG
+│   ├── IMG_2895.JPG
+│   ├── IMG_2907.JPG
+│   ├── IMG_2956.JPG
+│   ├── IMG_2958.JPG
+│   ├── IMG_2959.JPG
+│   ├── In_gruppo.JPG
+│   ├── Lucio_&_Nadia.JPG
+│   ├── motocarro.JPG
+│   ├── Nadia_#1.JPG
+│   ├── Nadia_#2.JPG
+│   ├── Nadia_#3.JPG
+│   ├── Sara.JPG
+│   ├── Spettrale.JPG
+│   └── Stefania.JPG
+├── 2007_12_Fine_2007
+│   ├── Fine_2007_#01.JPG
+│   ├── Fine_2007_#02.JPG
+│   ├── Fine_2007_#03.JPG
+│   ├── Fine_2007_#04.JPG
+│   ├── Fine_2007_#05.JPG
+│   ├── Fine_2007_#06.JPG
+│   ├── Fine_2007_#07.JPG
+│   ├── Fine_2007_#08.JPG
+│   ├── Fine_2007_#09.JPG
+│   ├── Fine_2007_#10.JPG
+│   ├── Fine_2007_#11.JPG
+│   ├── Fine_2007_#12.JPG
+│   ├── Fine_2007_#13.JPG
+│   ├── Fine_2007_#14.JPG
+│   ├── Fine_2007_#15.JPG
+│   ├── Fine_2007_#16.JPG
+│   ├── Fine_2007_#17.JPG
+│   ├── Fine_2007_#18.JPG
+│   ├── Fine_2007_#19.JPG
+│   ├── Fine_2007_#20.JPG
+│   ├── Fine_2007_#21.JPG
+│   ├── Fine_2007_#22.JPG
+│   ├── Fine_2007_#23.JPG
+│   ├── Fine_2007_#24.JPG
+│   ├── Fine_2007_#25.JPG
+│   ├── Fine_2007_#26.JPG
+│   ├── Fine_2007_#27.JPG
+│   ├── Fine_2007_#28.JPG
+│   ├── Fine_2007_#29.JPG
+│   ├── Fine_2007_#30.JPG
+│   ├── Fine_2007_#31.JPG
+│   ├── Fine_2007_#32.JPG
+│   ├── Fine_2007_#33.JPG
+│   ├── Fine_2007_#34.JPG
+│   ├── Fine_2007_#35.JPG
+│   ├── Fine_2007_#36.JPG
+│   ├── Fine_2007_#37.JPG
+│   ├── Fine_2007_#38.JPG
+│   ├── Fine_2007_#39.JPG
+│   ├── Fine_2007_#40.JPG
+│   ├── Fine_2007_#41.JPG
+│   ├── Fine_2007_#42.JPG
+│   ├── Fine_2007_#43.JPG
+│   ├── Fine_2007_#44.JPG
+│   ├── Fine_2007_#45.JPG
+│   ├── Fine_2007_#46.JPG
+│   ├── Fine_2007_#47.JPG
+│   ├── Fine_2007_#48.JPG
+│   ├── Fine_2007_#49.JPG
+│   ├── Fine_2007_#50.JPG
+│   ├── Fine_2007_#51.JPG
+│   ├── Fine_2007_#52.JPG
+│   ├── Fine_2007_#53.JPG
+│   ├── Fine_2007_#54.JPG
+│   ├── Fine_2007_#55.JPG
+│   ├── Fine_2007_#56.JPG
+│   ├── Fine_2007_#57.JPG
+│   ├── Fine_2007_#58.JPG
+│   ├── Fine_2007_#59.JPG
+│   ├── Fine_2007_#60.JPG
+│   ├── Fine_2007_#61.JPG
+│   ├── Fine_2007_#62.JPG
+│   ├── Fine_2007_#63.JPG
+│   ├── Fine_2007_#64.JPG
+│   ├── Fine_2007_#65.JPG
+│   ├── Fine_2007_#66.JPG
+│   ├── Fine_2007_#67.JPG
+│   ├── Fine_2007_#68.JPG
+│   ├── Fine_2007_#69.JPG
+│   ├── Fine_2007_#70.JPG
+│   ├── Fine_2007_#71.JPG
+│   ├── Fine_2007_#72.JPG
+│   ├── Fine_2007_#73.JPG
+│   ├── Fine_2007_#74.JPG
+│   ├── Fine_2007_#75.JPG
+│   ├── Fine_2007_#76.JPG
+│   ├── Fine_2007_#77.JPG
+│   ├── Fine_2007_#78.JPG
+│   ├── Fine_2007_#79.JPG
+│   ├── Fine_2007_#80.JPG
+│   ├── Fine_2007_#81.JPG
+│   ├── Fine_2007_#82.JPG
+│   └── Fine_2007_#83.JPG
+├── 2007_12_Viareggio
+│   ├── Viareggio_#01.JPG
+│   ├── Viareggio_#02.JPG
+│   ├── Viareggio_#03.JPG
+│   ├── Viareggio_#04.JPG
+│   ├── Viareggio_#05.JPG
+│   ├── Viareggio_#06.JPG
+│   ├── Viareggio_#07.JPG
+│   ├── Viareggio_#08.JPG
+│   ├── Viareggio_#09.JPG
+│   ├── Viareggio_#10.JPG
+│   ├── Viareggio_#11.JPG
+│   ├── Viareggio_#12.JPG
+│   ├── Viareggio_#13.JPG
+│   ├── Viareggio_#14.JPG
+│   ├── Viareggio_#15.JPG
+│   ├── Viareggio_#16.JPG
+│   ├── Viareggio_#17.JPG
+│   ├── Viareggio_#18.JPG
+│   ├── Viareggio_#19.JPG
+│   ├── Viareggio_#20.JPG
+│   ├── Viareggio_#21.JPG
+│   └── Viareggio_#22.JPG
+├── 2008_01_04
+│   ├── IMG_2974.JPG
+│   ├── IMG_2976.JPG
+│   ├── IMG_2977.JPG
+│   ├── IMG_2978.JPG
+│   └── IMG_2979.JPG
+├── Baja_California
+│   ├── 2007_08_13
+│   │   ├── Baja_#001.JPG
+│   │   ├── Baja_#002.JPG
+│   │   ├── Baja_#003.JPG
+│   │   ├── Baja_#004.JPG
+│   │   ├── Baja_#005.JPG
+│   │   ├── Baja_#006.JPG
+│   │   ├── Baja_#007.JPG
+│   │   ├── Baja_#008.JPG
+│   │   ├── Baja_#009.JPG
+│   │   ├── Baja_#010.JPG
+│   │   ├── Baja_#011.JPG
+│   │   ├── Baja_#012.JPG
+│   │   ├── Baja_#013.JPG
+│   │   ├── Baja_#014.JPG
+│   │   ├── Baja_#015.JPG
+│   │   ├── Baja_#016.JPG
+│   │   ├── Baja_#017.JPG
+│   │   ├── Baja_#018.JPG
+│   │   ├── Baja_#019.JPG
+│   │   ├── Baja_#020.JPG
+│   │   ├── Baja_#021.JPG
+│   │   └── Baja_#022.JPG
+│   ├── 2007_08_14
+│   │   ├── Baja_#023.JPG
+│   │   ├── Baja_#024.JPG
+│   │   ├── Baja_#025.JPG
+│   │   ├── Baja_#026.JPG
+│   │   ├── Baja_#027.JPG
+│   │   ├── Baja_#028.JPG
+│   │   ├── Baja_#029.JPG
+│   │   ├── Baja_#030.JPG
+│   │   ├── Baja_#031.JPG
+│   │   ├── Baja_#032.JPG
+│   │   ├── Baja_#033.JPG
+│   │   ├── Baja_#034.JPG
+│   │   ├── Baja_#035.JPG
+│   │   ├── Baja_#036.JPG
+│   │   ├── Baja_#037.JPG
+│   │   ├── Baja_#038.JPG
+│   │   ├── Baja_#039.JPG
+│   │   ├── Baja_#040.JPG
+│   │   ├── Baja_#041.JPG
+│   │   ├── Baja_#042.JPG
+│   │   ├── Baja_#043.JPG
+│   │   ├── Baja_#044.JPG
+│   │   ├── Baja_#045.JPG
+│   │   ├── Baja_#046.JPG
+│   │   ├── Baja_#047.JPG
+│   │   ├── Baja_#048.JPG
+│   │   ├── Baja_#049.JPG
+│   │   ├── Baja_#050.JPG
+│   │   ├── Baja_#051.JPG
+│   │   ├── Baja_#052.JPG
+│   │   ├── Baja_#053.JPG
+│   │   ├── Baja_#054.JPG
+│   │   ├── Baja_#055.JPG
+│   │   ├── Baja_#056.JPG
+│   │   ├── Baja_#057.JPG
+│   │   ├── Baja_#058.JPG
+│   │   ├── Baja_#059.JPG
+│   │   ├── Baja_#060.JPG
+│   │   ├── Baja_#061.JPG
+│   │   ├── Baja_#062.JPG
+│   │   ├── Baja_#063.JPG
+│   │   ├── Baja_#064.JPG
+│   │   ├── Baja_#065.JPG
+│   │   ├── Baja_#066.JPG
+│   │   ├── Baja_#067.JPG
+│   │   ├── Baja_#068.JPG
+│   │   ├── Baja_#069.JPG
+│   │   ├── Baja_#070.JPG
+│   │   ├── Baja_#071.JPG
+│   │   ├── Baja_#072.JPG
+│   │   ├── Baja_#073.JPG
+│   │   ├── Baja_#074.JPG
+│   │   ├── Baja_#075.JPG
+│   │   ├── Baja_#076.JPG
+│   │   ├── Baja_#077.JPG
+│   │   ├── Baja_#078.JPG
+│   │   ├── Baja_#079.JPG
+│   │   ├── Baja_#080.JPG
+│   │   ├── Baja_#081.JPG
+│   │   ├── Baja_#082.JPG
+│   │   ├── Baja_#083.JPG
+│   │   ├── Baja_#084.JPG
+│   │   ├── Baja_#085.JPG
+│   │   ├── Baja_#086.JPG
+│   │   ├── Baja_#087.JPG
+│   │   ├── Baja_#088.JPG
+│   │   ├── Baja_#089.JPG
+│   │   ├── Baja_#090.JPG
+│   │   ├── Baja_#091.JPG
+│   │   ├── Baja_#092.JPG
+│   │   ├── Baja_#093.JPG
+│   │   ├── Baja_#094.JPG
+│   │   ├── Baja_#095.JPG
+│   │   ├── Baja_#096.JPG
+│   │   ├── Baja_#097.JPG
+│   │   ├── Baja_#098.JPG
+│   │   ├── Baja_#099.JPG
+│   │   ├── Baja_#100.JPG
+│   │   ├── Baja_#101.JPG
+│   │   ├── Baja_#102.JPG
+│   │   ├── Baja_#103.JPG
+│   │   ├── Baja_#104.JPG
+│   │   ├── Baja_#105.JPG
+│   │   ├── Baja_#106.JPG
+│   │   ├── Baja_#107.JPG
+│   │   ├── Baja_#108.JPG
+│   │   ├── Baja_#109.JPG
+│   │   ├── Baja_#110.JPG
+│   │   ├── Baja_#111.JPG
+│   │   ├── Baja_#112.JPG
+│   │   ├── Baja_#113.JPG
+│   │   ├── Baja_#114.JPG
+│   │   ├── Baja_#115.JPG
+│   │   ├── Baja_#116.JPG
+│   │   ├── Baja_#117.JPG
+│   │   ├── Baja_#118.JPG
+│   │   ├── MVI_1510.AVI
+│   │   ├── MVI_1510.THM
+│   │   ├── MVI_1511.AVI
+│   │   └── MVI_1511.THM
+│   ├── 2007_08_15
+│   │   ├── Baja_#119.JPG
+│   │   ├── Baja_#120.JPG
+│   │   ├── Baja_#121.JPG
+│   │   ├── Baja_#122.JPG
+│   │   ├── Baja_#123.JPG
+│   │   ├── Baja_#124.JPG
+│   │   ├── Baja_#125.JPG
+│   │   ├── Baja_#126.JPG
+│   │   ├── Baja_#127.JPG
+│   │   ├── Baja_#128.JPG
+│   │   ├── Baja_#129.JPG
+│   │   ├── Baja_#130.JPG
+│   │   ├── Baja_#131.JPG
+│   │   ├── Baja_#132.JPG
+│   │   ├── Baja_#133.JPG
+│   │   ├── Baja_#134.JPG
+│   │   ├── Baja_#135.JPG
+│   │   ├── Baja_#136.JPG
+│   │   ├── Baja_#137.JPG
+│   │   ├── Baja_#138.JPG
+│   │   ├── Baja_#139.JPG
+│   │   ├── Baja_#140.JPG
+│   │   ├── Baja_#141.JPG
+│   │   ├── Baja_#142.JPG
+│   │   ├── Baja_#143.JPG
+│   │   └── Baja_#144.JPG
+│   ├── 2007_08_16
+│   │   ├── Baja_#145.JPG
+│   │   ├── Baja_#146.JPG
+│   │   ├── Baja_#147.JPG
+│   │   ├── Baja_#148.JPG
+│   │   ├── Baja_#149.JPG
+│   │   ├── Baja_#150.JPG
+│   │   ├── Baja_#151.JPG
+│   │   ├── Baja_#152.JPG
+│   │   ├── Baja_#153.JPG
+│   │   ├── Baja_#154.JPG
+│   │   ├── Baja_#155.JPG
+│   │   ├── Baja_#156.JPG
+│   │   ├── Baja_#157.JPG
+│   │   ├── Baja_#158.JPG
+│   │   ├── Baja_#159.JPG
+│   │   ├── Baja_#160.JPG
+│   │   ├── Baja_#161.JPG
+│   │   ├── Baja_#162.JPG
+│   │   ├── Baja_#163.JPG
+│   │   ├── Baja_#164.JPG
+│   │   ├── Baja_#165.JPG
+│   │   ├── Baja_#166.JPG
+│   │   ├── Baja_#167.JPG
+│   │   ├── Baja_#168.JPG
+│   │   ├── Baja_#169.JPG
+│   │   ├── Baja_#170.JPG
+│   │   ├── Baja_#171.JPG
+│   │   ├── Baja_#172.JPG
+│   │   ├── Baja_#173.JPG
+│   │   ├── Baja_#174.JPG
+│   │   ├── Baja_#175.JPG
+│   │   ├── Baja_#176.JPG
+│   │   ├── Baja_#177.JPG
+│   │   ├── Baja_#178.JPG
+│   │   ├── Baja_#179.JPG
+│   │   ├── Baja_#180.JPG
+│   │   ├── Baja_#181.JPG
+│   │   ├── Baja_#182.JPG
+│   │   ├── Baja_#183.JPG
+│   │   ├── Baja_#184.JPG
+│   │   ├── Baja_#185.JPG
+│   │   ├── Baja_#186.JPG
+│   │   ├── Baja_#187.JPG
+│   │   ├── Baja_#188.JPG
+│   │   ├── Baja_#189.JPG
+│   │   ├── Baja_#190.JPG
+│   │   ├── Baja_#191.JPG
+│   │   ├── Baja_#192.JPG
+│   │   ├── Baja_#193.JPG
+│   │   ├── Baja_#194.JPG
+│   │   ├── Baja_#195.JPG
+│   │   ├── Baja_#196.JPG
+│   │   ├── Baja_#197.JPG
+│   │   ├── Baja_#198.JPG
+│   │   ├── Baja_#199.JPG
+│   │   ├── Baja_#200.JPG
+│   │   ├── Baja_#201.JPG
+│   │   ├── Baja_#202.JPG
+│   │   ├── Baja_#203.JPG
+│   │   ├── Baja_#204.JPG
+│   │   ├── Baja_#205.JPG
+│   │   ├── Baja_#206.JPG
+│   │   ├── Baja_#207.JPG
+│   │   ├── Baja_#208.JPG
+│   │   ├── Baja_#209.JPG
+│   │   ├── Baja_#210.JPG
+│   │   ├── Baja_#211.JPG
+│   │   ├── Baja_#212.JPG
+│   │   ├── Baja_#213.JPG
+│   │   ├── Baja_#214.JPG
+│   │   ├── Baja_#215.JPG
+│   │   ├── Baja_#216.JPG
+│   │   ├── Baja_#217.JPG
+│   │   ├── Baja_#218.JPG
+│   │   ├── Baja_#219.JPG
+│   │   ├── Baja_#220.JPG
+│   │   ├── Baja_#221.jpg
+│   │   ├── Baja_#222.JPG
+│   │   ├── Baja_#223.JPG
+│   │   ├── Baja_#224.JPG
+│   │   ├── Baja_#225.JPG
+│   │   ├── Baja_#226.JPG
+│   │   ├── Baja_#227.JPG
+│   │   ├── Baja_#228.JPG
+│   │   ├── Baja_#229.JPG
+│   │   ├── Baja_#230.JPG
+│   │   ├── Baja_#231.JPG
+│   │   ├── Baja_#232.JPG
+│   │   ├── Baja_#233.JPG
+│   │   ├── Baja_#234.JPG
+│   │   ├── Baja_#235.JPG
+│   │   ├── Baja_#236.JPG
+│   │   ├── Baja_#237.JPG
+│   │   ├── Baja_#238.JPG
+│   │   ├── Baja_#239.JPG
+│   │   ├── Baja_#240.JPG
+│   │   ├── Baja_#241.JPG
+│   │   ├── Baja_#242.JPG
+│   │   ├── Baja_#243.JPG
+│   │   ├── Baja_#244.JPG
+│   │   ├── Baja_#245.JPG
+│   │   ├── Baja_#246.JPG
+│   │   ├── Baja_#247.JPG
+│   │   ├── Baja_#248.JPG
+│   │   ├── Baja_#249.JPG
+│   │   ├── Baja_#250.JPG
+│   │   ├── Baja_#251.JPG
+│   │   └── STITCH_1689
+│   │       ├── STA_1689.JPG
+│   │       ├── STB_1690.JPG
+│   │       └── STC_1691.JPG
+│   ├── 2007_08_17
+│   │   ├── Baja_#252.JPG
+│   │   ├── Baja_#253.JPG
+│   │   ├── Baja_#254.JPG
+│   │   ├── Baja_#255.JPG
+│   │   ├── Baja_#256.JPG
+│   │   ├── Baja_#257.JPG
+│   │   ├── Baja_#258.JPG
+│   │   ├── Baja_#259.JPG
+│   │   ├── Baja_#260.JPG
+│   │   ├── Baja_#261.JPG
+│   │   ├── Baja_#262.JPG
+│   │   ├── Baja_#263.JPG
+│   │   ├── Baja_#264.JPG
+│   │   ├── Baja_#265.JPG
+│   │   ├── Baja_#266.JPG
+│   │   ├── Baja_#267.JPG
+│   │   ├── Baja_#268.JPG
+│   │   ├── Baja_#269.JPG
+│   │   ├── Baja_#270.JPG
+│   │   ├── Baja_#271.JPG
+│   │   ├── Baja_#272.JPG
+│   │   ├── Baja_#273.JPG
+│   │   ├── Baja_#274.JPG
+│   │   ├── Baja_#275.JPG
+│   │   ├── Baja_#276.JPG
+│   │   ├── Baja_#277.JPG
+│   │   ├── Baja_#278.JPG
+│   │   ├── Baja_#279.jpg
+│   │   ├── Baja_#280.JPG
+│   │   ├── Baja_#281.JPG
+│   │   ├── Baja_#282.JPG
+│   │   ├── Baja_#283.JPG
+│   │   ├── Baja_#284.JPG
+│   │   ├── Baja_#285.JPG
+│   │   ├── Baja_#286.JPG
+│   │   ├── Baja_#287.JPG
+│   │   ├── Baja_#288.JPG
+│   │   ├── Baja_#289.JPG
+│   │   ├── Baja_#290.JPG
+│   │   ├── Baja_#291.JPG
+│   │   ├── Baja_#292.jpg
+│   │   ├── STITCH_1744
+│   │   │   ├── STA_1744.JPG
+│   │   │   ├── STB_1745.JPG
+│   │   │   └── STC_1746.JPG
+│   │   └── STITCH_1772
+│   │       ├── STA_1772.JPG
+│   │       ├── STB_1773.JPG
+│   │       ├── STC_1774.JPG
+│   │       └── STD_1775.JPG
+│   ├── 2007_08_18
+│   │   ├── Baja_#293.JPG
+│   │   ├── Baja_#294.JPG
+│   │   ├── Baja_#295.JPG
+│   │   ├── Baja_#296.JPG
+│   │   ├── Baja_#297.JPG
+│   │   ├── Baja_#298.JPG
+│   │   ├── Baja_#299.JPG
+│   │   ├── Baja_#300.JPG
+│   │   ├── Baja_#301.JPG
+│   │   ├── Baja_#302.JPG
+│   │   ├── Baja_#303.JPG
+│   │   ├── Baja_#304.JPG
+│   │   ├── Baja_#305.JPG
+│   │   ├── Baja_#306.JPG
+│   │   ├── Baja_#307.JPG
+│   │   ├── Baja_#308.JPG
+│   │   ├── Baja_#309.JPG
+│   │   ├── Baja_#310.JPG
+│   │   ├── Baja_#311.JPG
+│   │   ├── Baja_#312.JPG
+│   │   ├── Baja_#313.JPG
+│   │   ├── Baja_#314.JPG
+│   │   ├── Baja_#315.JPG
+│   │   ├── Baja_#316.JPG
+│   │   ├── Baja_#317.JPG
+│   │   ├── Baja_#318.JPG
+│   │   ├── Baja_#319.JPG
+│   │   ├── Baja_#320.JPG
+│   │   ├── Baja_#321.JPG
+│   │   ├── Baja_#322.JPG
+│   │   ├── Baja_#323.JPG
+│   │   ├── Baja_#324.JPG
+│   │   ├── Baja_#325.JPG
+│   │   ├── Baja_#326.JPG
+│   │   ├── Baja_#327.JPG
+│   │   ├── Baja_#328.JPG
+│   │   ├── Baja_#329.JPG
+│   │   ├── Baja_#330.JPG
+│   │   ├── Baja_#331.JPG
+│   │   ├── Baja_#332.JPG
+│   │   └── Baja_#333.JPG
+│   ├── 2007_08_19
+│   │   ├── Baja_#334.JPG
+│   │   ├── Baja_#335.JPG
+│   │   ├── Baja_#336.JPG
+│   │   ├── Baja_#337.JPG
+│   │   ├── Baja_#338.JPG
+│   │   ├── Baja_#340.JPG
+│   │   ├── Baja_#341.JPG
+│   │   ├── Baja_#342.JPG
+│   │   ├── Baja_#343.JPG
+│   │   ├── Baja_#344.JPG
+│   │   ├── Baja_#345.JPG
+│   │   ├── Baja_#346.JPG
+│   │   ├── Baja_#347.JPG
+│   │   ├── Baja_#348.JPG
+│   │   ├── Baja_#349.JPG
+│   │   ├── Baja_#350.JPG
+│   │   ├── Baja_#351.JPG
+│   │   ├── Baja_#352.JPG
+│   │   ├── Baja_#353.JPG
+│   │   ├── Baja_#354.JPG
+│   │   ├── Baja_#355.JPG
+│   │   ├── Baja_#356.JPG
+│   │   ├── Baja_#357.JPG
+│   │   ├── Baja_#358.JPG
+│   │   ├── Baja_#359.JPG
+│   │   ├── Baja_#360.JPG
+│   │   ├── Baja_#361.JPG
+│   │   ├── Baja_#362.JPG
+│   │   ├── Baja_#363.JPG
+│   │   ├── Baja_#364.JPG
+│   │   ├── Baja_#365.JPG
+│   │   ├── Baja_#366.JPG
+│   │   ├── Baja_#367.JPG
+│   │   ├── Baja_#368.JPG
+│   │   ├── Baja_#369.JPG
+│   │   ├── Baja_#370.JPG
+│   │   ├── Baja_#371.JPG
+│   │   ├── Baja_#372.JPG
+│   │   ├── Baja_#373.JPG
+│   │   ├── Baja_#374.JPG
+│   │   ├── Baja_#375.JPG
+│   │   ├── Baja_#376.JPG
+│   │   ├── Baja_#377.JPG
+│   │   ├── Baja_#378.JPG
+│   │   ├── Baja_#379.JPG
+│   │   ├── Baja_#380.JPG
+│   │   ├── Baja_#381.JPG
+│   │   ├── Baja_#382.JPG
+│   │   ├── Baja_#383.JPG
+│   │   ├── Baja_#384.JPG
+│   │   ├── Baja_#385.JPG
+│   │   ├── Baja_#386.JPG
+│   │   ├── Baja_#387.JPG
+│   │   ├── Baja_#388.JPG
+│   │   ├── Baja_#389.JPG
+│   │   ├── Baja_#390.JPG
+│   │   ├── Baja_#391.JPG
+│   │   ├── Baja_#392.JPG
+│   │   ├── Baja_#393.JPG
+│   │   ├── Baja_#394.JPG
+│   │   ├── Baja_#395.JPG
+│   │   ├── Baja_#396.JPG
+│   │   ├── Baja_#397.JPG
+│   │   ├── Baja_#398.JPG
+│   │   ├── Baja_#399.JPG
+│   │   ├── Baja_#400.JPG
+│   │   ├── Baja_#401.JPG
+│   │   ├── Baja_#402.JPG
+│   │   ├── Baja_#403.JPG
+│   │   ├── Baja_#404.JPG
+│   │   ├── Baja_#405.JPG
+│   │   ├── Baja_#406.JPG
+│   │   └── IMG_1836.JPG
+│   ├── 2007_08_20
+│   │   ├── Baja_#407.JPG
+│   │   ├── Baja_#408.JPG
+│   │   ├── Baja_#409.JPG
+│   │   ├── Baja_#410.JPG
+│   │   ├── Baja_#411.JPG
+│   │   ├── Baja_#412.JPG
+│   │   ├── Baja_#413.JPG
+│   │   ├── Baja_#414.JPG
+│   │   ├── Baja_#415.JPG
+│   │   ├── Baja_#416.JPG
+│   │   ├── Baja_#417.JPG
+│   │   ├── Baja_#418.JPG
+│   │   ├── Baja_#419.JPG
+│   │   ├── Baja_#420.JPG
+│   │   ├── Baja_#421.JPG
+│   │   ├── Baja_#422.JPG
+│   │   └── Baja_#423.JPG
+│   ├── 2007_08_21
+│   │   ├── Baja_#424.JPG
+│   │   ├── Baja_#425.JPG
+│   │   ├── Baja_#426.JPG
+│   │   ├── Baja_#427.JPG
+│   │   ├── Baja_#428.JPG
+│   │   ├── Baja_#429.JPG
+│   │   ├── Baja_#430.JPG
+│   │   ├── Baja_#431.JPG
+│   │   ├── Baja_#432.JPG
+│   │   ├── Baja_#433.JPG
+│   │   ├── Baja_#434.JPG
+│   │   ├── Baja_#435.JPG
+│   │   ├── Baja_#436.JPG
+│   │   ├── Baja_#437.JPG
+│   │   ├── Baja_#438.JPG
+│   │   ├── Baja_#439.JPG
+│   │   ├── Baja_#440.JPG
+│   │   ├── Baja_#441.JPG
+│   │   ├── Baja_#442.JPG
+│   │   ├── Baja_#443.JPG
+│   │   ├── Baja_#444.JPG
+│   │   ├── Baja_#445.JPG
+│   │   ├── Baja_#446.JPG
+│   │   ├── Baja_#447.JPG
+│   │   ├── Baja_#448.JPG
+│   │   ├── Baja_#449.JPG
+│   │   ├── Baja_#450.JPG
+│   │   ├── Baja_#451.JPG
+│   │   ├── Baja_#452.JPG
+│   │   ├── Baja_#453.JPG
+│   │   ├── Baja_#454.JPG
+│   │   ├── Baja_#455.JPG
+│   │   ├── Baja_#456.JPG
+│   │   ├── Baja_#457.JPG
+│   │   ├── Baja_#458.JPG
+│   │   ├── Baja_#459.JPG
+│   │   ├── Baja_#460.JPG
+│   │   ├── Baja_#461.JPG
+│   │   ├── Baja_#462.JPG
+│   │   ├── Baja_#463.JPG
+│   │   ├── Baja_#464.JPG
+│   │   ├── Baja_#465.JPG
+│   │   ├── Baja_#466.JPG
+│   │   ├── Baja_#467.JPG
+│   │   ├── Baja_#468.JPG
+│   │   └── Baja_#469.JPG
+│   ├── 2007_08_22
+│   │   ├── Baja_#470.JPG
+│   │   ├── Baja_#471.JPG
+│   │   ├── Baja_#472.JPG
+│   │   ├── Baja_#473.JPG
+│   │   ├── Baja_#474.JPG
+│   │   ├── Baja_#475.JPG
+│   │   ├── Baja_#476.JPG
+│   │   ├── Baja_#477.JPG
+│   │   ├── Baja_#478.JPG
+│   │   ├── Baja_#479.JPG
+│   │   ├── Baja_#480.JPG
+│   │   ├── Baja_#481.JPG
+│   │   ├── Baja_#482.JPG
+│   │   ├── Baja_#483.JPG
+│   │   ├── Baja_#484.JPG
+│   │   ├── Baja_#485.JPG
+│   │   ├── Baja_#486.JPG
+│   │   ├── Baja_#487.JPG
+│   │   ├── Baja_#488.JPG
+│   │   ├── Baja_#489.JPG
+│   │   ├── Baja_#490.JPG
+│   │   ├── Baja_#491.JPG
+│   │   ├── Baja_#492.JPG
+│   │   ├── Baja_#493.JPG
+│   │   ├── Baja_#494.JPG
+│   │   ├── Baja_#495.JPG
+│   │   ├── Baja_#496.JPG
+│   │   ├── Baja_#497.JPG
+│   │   ├── Baja_#498.JPG
+│   │   ├── Baja_#499.JPG
+│   │   ├── Baja_#500.JPG
+│   │   ├── Baja_#501.JPG
+│   │   ├── Baja_#502.JPG
+│   │   ├── Baja_#503.JPG
+│   │   ├── Baja_#504.JPG
+│   │   └── Baja_#505.JPG
+│   ├── 2007_08_23
+│   │   ├── Baja_#506.JPG
+│   │   ├── Baja_#507.JPG
+│   │   ├── Baja_#508.JPG
+│   │   ├── Baja_#509.JPG
+│   │   ├── Baja_#510.JPG
+│   │   ├── Baja_#511.JPG
+│   │   ├── Baja_#512.JPG
+│   │   ├── Baja_#513.JPG
+│   │   ├── Baja_#514.JPG
+│   │   ├── Baja_#515.JPG
+│   │   ├── Baja_#516.JPG
+│   │   ├── Baja_#517.JPG
+│   │   ├── Baja_#518.JPG
+│   │   ├── Baja_#519.JPG
+│   │   ├── Baja_#520.JPG
+│   │   ├── Baja_#521.JPG
+│   │   ├── Baja_#522.JPG
+│   │   ├── Baja_#523.JPG
+│   │   ├── Baja_#524.JPG
+│   │   ├── Baja_#525.JPG
+│   │   ├── Baja_#526.JPG
+│   │   ├── Baja_#527.JPG
+│   │   ├── Baja_#528.JPG
+│   │   ├── Baja_#529.JPG
+│   │   ├── Baja_#530.JPG
+│   │   ├── Baja_#531.JPG
+│   │   ├── Baja_#532.JPG
+│   │   ├── Baja_#533.JPG
+│   │   ├── Baja_#534.JPG
+│   │   └── Baja_#535.JPG
+│   ├── 2007_08_24
+│   │   ├── Baja_#536.JPG
+│   │   ├── Baja_#537.JPG
+│   │   ├── Baja_#538.JPG
+│   │   ├── Baja_#539.JPG
+│   │   ├── Baja_#540.JPG
+│   │   ├── Baja_#541.JPG
+│   │   ├── Baja_#542.JPG
+│   │   ├── Baja_#543.JPG
+│   │   ├── Baja_#544.JPG
+│   │   ├── Baja_#545.JPG
+│   │   ├── Baja_#546.JPG
+│   │   ├── Baja_#547.JPG
+│   │   ├── Baja_#548.JPG
+│   │   ├── Baja_#549.JPG
+│   │   ├── Baja_#550.JPG
+│   │   ├── Baja_#551.JPG
+│   │   ├── Baja_#552.JPG
+│   │   ├── Baja_#553.JPG
+│   │   ├── Baja_#554.JPG
+│   │   ├── Baja_#555.JPG
+│   │   ├── Baja_#556.JPG
+│   │   ├── Baja_#557.JPG
+│   │   ├── Baja_#558.JPG
+│   │   ├── Baja_#559.JPG
+│   │   ├── Baja_#560.JPG
+│   │   ├── Baja_#561.JPG
+│   │   ├── Baja_#562.JPG
+│   │   ├── Baja_#563.JPG
+│   │   ├── Baja_#564.JPG
+│   │   ├── Baja_#565.JPG
+│   │   ├── Baja_#566.JPG
+│   │   ├── Baja_#567.JPG
+│   │   ├── Baja_#568.JPG
+│   │   ├── Baja_#569.JPG
+│   │   ├── Baja_#570.JPG
+│   │   ├── Baja_#571.JPG
+│   │   ├── Baja_#572.JPG
+│   │   ├── Baja_#573.JPG
+│   │   ├── Baja_#574.JPG
+│   │   ├── Baja_#575.JPG
+│   │   ├── Baja_#576.JPG
+│   │   ├── Baja_#577.JPG
+│   │   ├── Baja_#578.JPG
+│   │   ├── Baja_#579.JPG
+│   │   ├── Baja_#580.JPG
+│   │   ├── Baja_#581.JPG
+│   │   ├── Baja_#582.JPG
+│   │   ├── Baja_#583.JPG
+│   │   ├── Baja_#584.JPG
+│   │   ├── Baja_#585.JPG
+│   │   ├── Baja_#586.JPG
+│   │   ├── Baja_#587.JPG
+│   │   ├── Baja_#588.JPG
+│   │   ├── Baja_#589.JPG
+│   │   ├── Baja_#590.JPG
+│   │   ├── Baja_#591.JPG
+│   │   ├── Baja_#592.JPG
+│   │   ├── Baja_#593.JPG
+│   │   ├── Baja_#594.JPG
+│   │   ├── Baja_#595.JPG
+│   │   ├── Baja_#596.JPG
+│   │   ├── Baja_#597.JPG
+│   │   ├── Baja_#598.JPG
+│   │   ├── Baja_#599.JPG
+│   │   └── Baja_#600.JPG
+│   ├── 2007_08_25
+│   │   ├── Baja_#601.JPG
+│   │   ├── Baja_#602.JPG
+│   │   ├── Baja_#603.JPG
+│   │   ├── Baja_#604.JPG
+│   │   ├── Baja_#605.JPG
+│   │   ├── Baja_#606.JPG
+│   │   ├── Baja_#607.JPG
+│   │   ├── Baja_#608.JPG
+│   │   ├── Baja_#609.JPG
+│   │   ├── Baja_#610.JPG
+│   │   ├── Baja_#611.JPG
+│   │   ├── Baja_#612.JPG
+│   │   ├── Baja_#613.JPG
+│   │   ├── Baja_#614.JPG
+│   │   ├── Baja_#615.JPG
+│   │   ├── Baja_#616.JPG
+│   │   ├── Baja_#617.JPG
+│   │   ├── Baja_#618.JPG
+│   │   ├── Baja_#619.JPG
+│   │   ├── Baja_#620.JPG
+│   │   ├── Baja_#621.JPG
+│   │   ├── Baja_#622.JPG
+│   │   ├── Baja_#623.JPG
+│   │   └── Baja_#624.JPG
+│   ├── 2007_08_26
+│   │   ├── Baja_#625.JPG
+│   │   ├── Baja_#626.JPG
+│   │   └── Baja_#627.JPG
+│   └── Foto_Giulia
+│       ├── IMG_0001.jpg
+│       ├── IMG_0012.jpg
+│       ├── IMG_0020.jpg
+│       ├── IMG_0034.jpg
+│       ├── IMG_0036.jpg
+│       ├── IMG_0038.jpg
+│       ├── IMG_0040.jpg
+│       ├── IMG_0042.jpg
+│       ├── IMG_0044.jpg
+│       ├── IMG_0045.jpg
+│       ├── IMG_0048.jpg
+│       ├── IMG_0049.jpg
+│       ├── IMG_0051.jpg
+│       ├── IMG_0054.jpg
+│       ├── IMG_0056.jpg
+│       ├── IMG_0057.jpg
+│       ├── IMG_0060.jpg
+│       ├── IMG_0062.jpg
+│       ├── IMG_0069.jpg
+│       ├── IMG_0070.jpg
+│       ├── IMG_0071.jpg
+│       ├── IMG_0072.jpg
+│       ├── IMG_0073.jpg
+│       ├── IMG_0075.jpg
+│       ├── IMG_0076.jpg
+│       ├── IMG_0078.jpg
+│       ├── IMG_0079.jpg
+│       ├── IMG_0080.jpg
+│       ├── IMG_0083.jpg
+│       ├── IMG_0084.jpg
+│       ├── IMG_0085.jpg
+│       ├── IMG_0086.jpg
+│       ├── IMG_0087.jpg
+│       ├── IMG_0088.jpg
+│       ├── IMG_0090.jpg
+│       ├── IMG_0092.jpg
+│       ├── IMG_0096.jpg
+│       ├── IMG_0098.jpg
+│       ├── IMG_0100.jpg
+│       ├── IMG_0104.jpg
+│       ├── IMG_0106.jpg
+│       ├── IMG_0108.jpg
+│       ├── IMG_0109.jpg
+│       ├── IMG_0110.jpg
+│       ├── IMG_0111.jpg
+│       ├── IMG_0112.jpg
+│       ├── IMG_0114.jpg
+│       ├── IMG_0115.jpg
+│       ├── IMG_0117.jpg
+│       ├── IMG_0119.jpg
+│       ├── IMG_0120.jpg
+│       ├── IMG_0121.jpg
+│       ├── IMG_0122.jpg
+│       ├── IMG_0124.jpg
+│       ├── IMG_0125.jpg
+│       ├── IMG_0126.jpg
+│       ├── IMG_0129.jpg
+│       ├── IMG_0130.jpg
+│       ├── IMG_0131.jpg
+│       ├── IMG_0132.jpg
+│       ├── IMG_0134.jpg
+│       ├── IMG_0135.jpg
+│       ├── IMG_0136.jpg
+│       ├── IMG_0137.jpg
+│       ├── IMG_0138.jpg
+│       ├── IMG_0139.jpg
+│       ├── IMG_0140.jpg
+│       ├── IMG_0142.jpg
+│       ├── IMG_0143.jpg
+│       ├── IMG_0144.jpg
+│       ├── IMG_0145.jpg
+│       ├── IMG_0146.jpg
+│       ├── IMG_0147.jpg
+│       ├── IMG_0148.jpg
+│       ├── IMG_0149.jpg
+│       ├── IMG_0151.jpg
+│       ├── IMG_0152.jpg
+│       ├── IMG_0153.jpg
+│       ├── IMG_0154.jpg
+│       ├── IMG_0155.jpg
+│       ├── IMG_0157.jpg
+│       ├── IMG_0158.jpg
+│       ├── IMG_0159.jpg
+│       ├── IMG_0162.jpg
+│       ├── IMG_0163.jpg
+│       ├── IMG_0164.jpg
+│       ├── IMG_0165.jpg
+│       ├── IMG_0166.jpg
+│       ├── IMG_0167.jpg
+│       ├── IMG_0168.jpg
+│       ├── IMG_0169.jpg
+│       ├── IMG_0170.jpg
+│       ├── IMG_0171.jpg
+│       ├── IMG_0172.jpg
+│       ├── IMG_0173.jpg
+│       ├── IMG_0174.jpg
+│       ├── IMG_0175.jpg
+│       ├── IMG_0176.jpg
+│       ├── IMG_0179.jpg
+│       ├── IMG_0180.jpg
+│       ├── IMG_0181.jpg
+│       ├── IMG_0182.jpg
+│       ├── IMG_0183.jpg
+│       ├── IMG_0184.jpg
+│       ├── IMG_0185.jpg
+│       ├── IMG_0186.jpg
+│       ├── IMG_0187.jpg
+│       ├── IMG_0188.jpg
+│       ├── IMG_0189.jpg
+│       ├── IMG_0190.jpg
+│       ├── IMG_0191.jpg
+│       ├── IMG_0192.jpg
+│       ├── IMG_0193.jpg
+│       ├── IMG_0194.jpg
+│       ├── IMG_0195.jpg
+│       ├── IMG_0197.jpg
+│       ├── IMG_0198.jpg
+│       ├── IMG_0199.jpg
+│       ├── IMG_0200.jpg
+│       ├── IMG_0201.jpg
+│       ├── IMG_0202.jpg
+│       ├── IMG_0203.jpg
+│       ├── IMG_0204.jpg
+│       ├── IMG_0205.jpg
+│       ├── IMG_0206.jpg
+│       ├── IMG_0207.jpg
+│       ├── IMG_0208.jpg
+│       ├── IMG_0209.jpg
+│       ├── IMG_0211.jpg
+│       ├── IMG_0213.jpg
+│       ├── IMG_0214.jpg
+│       ├── IMG_0215.jpg
+│       ├── IMG_0216.jpg
+│       ├── IMG_0217.jpg
+│       ├── IMG_0218.jpg
+│       ├── IMG_0219.jpg
+│       ├── IMG_0220.jpg
+│       ├── IMG_0222.jpg
+│       ├── IMG_0224.jpg
+│       ├── IMG_0226.jpg
+│       ├── IMG_0227.jpg
+│       ├── IMG_0231.jpg
+│       ├── IMG_0232.jpg
+│       ├── IMG_0233.jpg
+│       ├── IMG_0235.jpg
+│       ├── IMG_0236.jpg
+│       ├── IMG_0237.jpg
+│       ├── IMG_0238.jpg
+│       ├── IMG_0239.jpg
+│       ├── IMG_0241.jpg
+│       ├── IMG_0243.jpg
+│       ├── IMG_0245.jpg
+│       ├── IMG_0247.jpg
+│       ├── IMG_0254.jpg
+│       ├── IMG_0255.jpg
+│       ├── IMG_0258.jpg
+│       ├── IMG_0259.jpg
+│       ├── IMG_0263.jpg
+│       ├── IMG_0264.jpg
+│       ├── IMG_0265.jpg
+│       ├── IMG_0266.jpg
+│       ├── IMG_0267.jpg
+│       ├── IMG_0268.jpg
+│       ├── IMG_0269.jpg
+│       ├── IMG_0270.jpg
+│       ├── IMG_0271.jpg
+│       ├── IMG_0272.jpg
+│       ├── IMG_0273.jpg
+│       ├── IMG_0274.jpg
+│       ├── IMG_0275.jpg
+│       ├── IMG_0276.jpg
+│       ├── IMG_0277.jpg
+│       ├── IMG_0278.jpg
+│       ├── IMG_0280.jpg
+│       ├── IMG_0281.jpg
+│       ├── IMG_0282.jpg
+│       ├── IMG_0284.jpg
+│       ├── IMG_0285.jpg
+│       ├── IMG_0286.jpg
+│       ├── IMG_0287.jpg
+│       ├── IMG_0288.jpg
+│       ├── IMG_0289.jpg
+│       ├── IMG_0291.jpg
+│       ├── IMG_0292.jpg
+│       ├── IMG_0293.jpg
+│       ├── IMG_0295.jpg
+│       ├── IMG_0296.jpg
+│       ├── IMG_0297.jpg
+│       ├── IMG_0298.jpg
+│       ├── IMG_0299.jpg
+│       ├── IMG_0300.jpg
+│       ├── IMG_0301.jpg
+│       ├── IMG_0302.jpg
+│       ├── IMG_0303.jpg
+│       ├── IMG_0304.jpg
+│       ├── IMG_0305.jpg
+│       ├── IMG_0306.jpg
+│       ├── IMG_0307.jpg
+│       ├── IMG_0308.jpg
+│       ├── IMG_0309.jpg
+│       ├── IMG_0310.jpg
+│       ├── IMG_0311.jpg
+│       ├── IMG_0312.jpg
+│       ├── IMG_0313.jpg
+│       ├── IMG_0314.jpg
+│       ├── IMG_0315.jpg
+│       ├── IMG_0316.jpg
+│       ├── IMG_0317.jpg
+│       ├── IMG_0318.jpg
+│       ├── IMG_0319.jpg
+│       ├── IMG_0320.jpg
+│       ├── IMG_0321.jpg
+│       ├── IMG_0322.jpg
+│       ├── IMG_0323.jpg
+│       ├── IMG_0324.jpg
+│       ├── IMG_0325.jpg
+│       ├── IMG_0326.jpg
+│       ├── IMG_0327.jpg
+│       ├── IMG_0328.jpg
+│       ├── IMG_0329.jpg
+│       ├── IMG_0330.jpg
+│       ├── IMG_0331.jpg
+│       ├── IMG_0332.jpg
+│       ├── IMG_0333.jpg
+│       ├── IMG_0334.jpg
+│       ├── IMG_0335.jpg
+│       ├── IMG_0336.jpg
+│       ├── IMG_0337.jpg
+│       ├── IMG_0338.jpg
+│       ├── IMG_0339.jpg
+│       ├── IMG_0341.jpg
+│       ├── IMG_0342.jpg
+│       ├── IMG_0343.jpg
+│       ├── IMG_0344.jpg
+│       ├── IMG_0345.jpg
+│       ├── IMG_0346.jpg
+│       ├── IMG_0347.jpg
+│       ├── IMG_0348.jpg
+│       ├── IMG_0349.jpg
+│       ├── IMG_0350.jpg
+│       ├── IMG_0352.jpg
+│       ├── IMG_0353.jpg
+│       ├── IMG_0354.jpg
+│       ├── IMG_0356.jpg
+│       ├── IMG_0359.jpg
+│       ├── IMG_0360.jpg
+│       ├── IMG_0361.jpg
+│       ├── IMG_0362.jpg
+│       ├── IMG_0363.jpg
+│       ├── IMG_0364.jpg
+│       ├── IMG_0365.jpg
+│       ├── IMG_0366.jpg
+│       ├── IMG_0367.jpg
+│       ├── IMG_0368.jpg
+│       ├── IMG_0369.jpg
+│       ├── IMG_0370.jpg
+│       ├── IMG_0376.jpg
+│       ├── IMG_0377.jpg
+│       ├── IMG_0380.jpg
+│       ├── IMG_0382.jpg
+│       ├── IMG_0389.jpg
+│       ├── IMG_0390.jpg
+│       ├── IMG_0391.jpg
+│       ├── IMG_0392.jpg
+│       ├── IMG_0393.jpg
+│       ├── IMG_0395.jpg
+│       ├── IMG_0398.jpg
+│       ├── IMG_0399.jpg
+│       ├── IMG_0402.jpg
+│       ├── IMG_0404.jpg
+│       ├── IMG_0405.jpg
+│       ├── IMG_0406.jpg
+│       ├── IMG_0407.jpg
+│       ├── IMG_0408.jpg
+│       ├── IMG_0409.jpg
+│       ├── IMG_0412.jpg
+│       ├── IMG_0413.jpg
+│       ├── IMG_0414.jpg
+│       ├── IMG_0415.jpg
+│       ├── IMG_0416.jpg
+│       ├── IMG_0417.jpg
+│       ├── IMG_0418.jpg
+│       ├── IMG_0419.jpg
+│       ├── IMG_0420.jpg
+│       ├── IMG_0421.jpg
+│       ├── IMG_0422.jpg
+│       ├── IMG_0423.jpg
+│       ├── IMG_0424.jpg
+│       ├── IMG_0425.jpg
+│       ├── IMG_0426.jpg
+│       ├── IMG_0427.jpg
+│       ├── IMG_0428.jpg
+│       ├── IMG_0429.jpg
+│       ├── IMG_0430.jpg
+│       ├── IMG_0431.jpg
+│       ├── IMG_0432.jpg
+│       ├── IMG_0434.jpg
+│       ├── IMG_0436.jpg
+│       ├── IMG_0437.jpg
+│       ├── IMG_0438.jpg
+│       ├── IMG_0439.jpg
+│       ├── IMG_0442.jpg
+│       ├── IMG_0443.jpg
+│       ├── IMG_0444.jpg
+│       ├── IMG_0445.jpg
+│       ├── IMG_0446.jpg
+│       ├── IMG_0447.jpg
+│       ├── IMG_0448.jpg
+│       ├── IMG_0449.jpg
+│       ├── IMG_0450.jpg
+│       ├── IMG_0451.jpg
+│       ├── IMG_0452.jpg
+│       ├── IMG_0453.jpg
+│       ├── IMG_0454.jpg
+│       ├── IMG_0455.jpg
+│       ├── IMG_0456.jpg
+│       ├── IMG_0457.jpg
+│       ├── IMG_0458.jpg
+│       ├── IMG_0459.jpg
+│       ├── IMG_0460.jpg
+│       ├── IMG_0461.jpg
+│       ├── IMG_0462.jpg
+│       ├── IMG_0463.jpg
+│       ├── IMG_0464.jpg
+│       ├── IMG_0465.jpg
+│       ├── IMG_0466.jpg
+│       ├── IMG_0467.jpg
+│       ├── IMG_0468.jpg
+│       ├── IMG_0470.jpg
+│       ├── IMG_0471.jpg
+│       ├── IMG_0474.jpg
+│       ├── IMG_0475.jpg
+│       ├── IMG_0476.jpg
+│       ├── IMG_0477.jpg
+│       ├── IMG_0478.jpg
+│       ├── IMG_0479.jpg
+│       ├── IMG_0480.jpg
+│       ├── IMG_0481.jpg
+│       ├── IMG_0482.jpg
+│       ├── IMG_0483.jpg
+│       ├── IMG_0484.jpg
+│       ├── IMG_0485.jpg
+│       ├── IMG_0487.jpg
+│       ├── IMG_0488.jpg
+│       ├── IMG_0489.jpg
+│       ├── IMG_0490.jpg
+│       ├── IMG_0491.jpg
+│       ├── IMG_0492.jpg
+│       ├── IMG_0493.jpg
+│       ├── IMG_0494.jpg
+│       ├── IMG_0495.jpg
+│       ├── IMG_0496.jpg
+│       ├── IMG_0497.jpg
+│       ├── IMG_0498.jpg
+│       ├── IMG_0499.jpg
+│       ├── IMG_0500.jpg
+│       ├── IMG_0501.jpg
+│       ├── IMG_0502.jpg
+│       ├── IMG_0503.jpg
+│       ├── IMG_0504.jpg
+│       ├── IMG_0505.jpg
+│       ├── IMG_0506.jpg
+│       ├── IMG_0507.jpg
+│       ├── IMG_0508.jpg
+│       ├── IMG_0509.jpg
+│       ├── IMG_0510.jpg
+│       ├── IMG_0511.jpg
+│       ├── IMG_0512.jpg
+│       ├── IMG_0513.jpg
+│       ├── IMG_0514.jpg
+│       ├── IMG_0515.jpg
+│       ├── IMG_0516.jpg
+│       ├── IMG_0517.jpg
+│       ├── IMG_0518.jpg
+│       ├── IMG_0519.jpg
+│       ├── IMG_0520.jpg
+│       ├── IMG_0521.jpg
+│       ├── IMG_0522.jpg
+│       ├── IMG_0523.jpg
+│       ├── IMG_0524.jpg
+│       ├── IMG_0525.jpg
+│       ├── IMG_0526.jpg
+│       ├── IMG_0527.jpg
+│       ├── IMG_0528.jpg
+│       ├── IMG_0529.jpg
+│       ├── IMG_0530.jpg
+│       ├── IMG_0531.jpg
+│       ├── IMG_0532.jpg
+│       ├── IMG_0533.jpg
+│       ├── IMG_0534.jpg
+│       ├── IMG_0535.jpg
+│       ├── IMG_0536.jpg
+│       ├── IMG_0537.jpg
+│       ├── IMG_0538.jpg
+│       ├── IMG_0539.jpg
+│       ├── IMG_0540.jpg
+│       ├── IMG_0541.jpg
+│       ├── IMG_0542.jpg
+│       ├── IMG_0543.jpg
+│       ├── IMG_0544.jpg
+│       ├── IMG_0545.jpg
+│       ├── IMG_0546.jpg
+│       ├── IMG_0547.jpg
+│       ├── IMG_0592.jpg
+│       ├── IMG_0593.jpg
+│       ├── IMG_0594.jpg
+│       ├── IMG_0595.jpg
+│       ├── IMG_0596.jpg
+│       ├── IMG_0598.jpg
+│       ├── IMG_0599.jpg
+│       ├── IMG_0600.jpg
+│       ├── IMG_0601.jpg
+│       ├── IMG_0602.jpg
+│       ├── IMG_0603.jpg
+│       ├── IMG_0604.jpg
+│       ├── IMG_0605.jpg
+│       ├── IMG_0606.jpg
+│       ├── IMG_0607.jpg
+│       ├── IMG_0608.jpg
+│       ├── IMG_0610.jpg
+│       ├── IMG_0611.jpg
+│       ├── IMG_0613.jpg
+│       ├── IMG_0614.jpg
+│       ├── IMG_0615.jpg
+│       ├── IMG_0617.jpg
+│       ├── IMG_0618.jpg
+│       ├── IMG_0619.jpg
+│       ├── IMG_0620.jpg
+│       ├── IMG_0621.jpg
+│       ├── IMG_0622.jpg
+│       ├── IMG_0624.jpg
+│       ├── IMG_0626.jpg
+│       ├── IMG_0627.jpg
+│       ├── IMG_0628.jpg
+│       ├── IMG_0630.jpg
+│       ├── IMG_0631.jpg
+│       └── STA_0177.jpg
+├── Capodanno_2007
+│   ├── A_tavola.JPG
+│   ├── Ballando_#01.JPG
+│   ├── Ballando_#02.JPG
+│   ├── Ballando_#03.JPG
+│   ├── Ballando_#04.JPG
+│   ├── Ballando_#05.JPG
+│   ├── Ballando_#06.JPG
+│   ├── Ballando_#07.JPG
+│   ├── Ballando_#08.JPG
+│   ├── Ballando_#09.JPG
+│   ├── Ballando_#10.JPG
+│   ├── Ballando_#11.JPG
+│   ├── Francesca_#01.JPG
+│   ├── Francesca_#02.JPG
+│   ├── Francesca_#03.JPG
+│   ├── Francesca_#04.JPG
+│   ├── Francesca_#05.JPG
+│   ├── Gaetano_#01.JPG
+│   ├── Gaetano_#02.JPG
+│   ├── Maresca_#01.JPG
+│   ├── Maresca_#02.JPG
+│   ├── Maresca_#03.JPG
+│   ├── Maresca_Francesca#01.JPG
+│   ├── Maresca_Francesca#02.JPG
+│   ├── Maresca_Francesca#03.JPG
+│   ├── Maresca_&_Gaetano.JPG
+│   ├── Metaponto_d'inverno.jpg
+│   ├── Nipotini.JPG
+│   ├── Spiaggia_#01.JPG
+│   ├── Spiaggia_#02.JPG
+│   ├── Spiaggia_#03.JPG
+│   ├── Spiaggia_#04.JPG
+│   └── Spiaggia_#05.JPG
+├── Ciarpame
+│   ├── 1May.jpg
+│   ├── AP608~Tournee-du-Chat-Noir-Posters.jpg
+│   ├── Baja-#092.jpg
+│   ├── Baja_#092.psd
+│   ├── Ego.psd
+│   ├── fotex-snail-002.jpg
+│   ├── Friends.jpeg
+│   ├── Immagine2.bmp
+│   ├── Marina_in_Bus.jpg
+│   ├── Marina_in_Bus.psd
+│   ├── P1010065.jpg
+│   ├── P1010065.psd
+│   ├── Snail
+│   │   ├── DarkSnail-2.jpg
+│   │   ├── DarkSnail-3.jpg
+│   │   ├── DarkSnail-4Bis.jpg
+│   │   ├── DarkSnail-4.jpg
+│   │   ├── Face.jpg
+│   │   ├── snail2.jpg
+│   │   ├── SnailBlack.jpg
+│   │   ├── SnailHead.jpg
+│   │   ├── SnailHome.jpg
+│   │   ├── Snail-O_03.jpg
+│   │   ├── Snail-O_05.jpg
+│   │   ├── SnailShellGreen.jpg
+│   │   ├── SnailShell.jpg
+│   │   ├── SnailShellPurple.jpg
+│   │   └── Snail-trail_03.jpg
+│   ├── Snail_002.jpg
+│   ├── snail1.jpg
+│   ├── snail2.psd
+│   ├── snail3.psd
+│   ├── snail4.jpg
+│   ├── snail4.psd
+│   ├── snail5.psd
+│   ├── Snail6.psd
+│   ├── SnailHome_copy.jpg
+│   ├── SnailHome.psd
+│   ├── snailShell2.jpg
+│   ├── snailShelll.jpg
+│   ├── snailShelll.psd
+│   ├── Snail_trail_2.jpg
+│   ├── Snail_trail_2.psd
+│   ├── Sorpresa2.jpg
+│   ├── Sorpresa.jpg
+│   ├── VoltoD2.jpg
+│   ├── VoltoD.jpg
+│   └── Yellow_Snail.psd
+├── Foto_Web
+│   ├── DarkIlaria2.jpg
+│   ├── DarkIlaria.jpg
+│   ├── IMG_2482.jpg
+│   ├── IMG_2523.jpg
+│   ├── IMG_2599.jpg
+│   ├── Leaves.jpg
+│   ├── Ragno1.jpg
+│   ├── Ragno2.jpg
+│   ├── RagnoArt.jpg
+│   ├── RagnoSQ.jpg
+│   ├── Saliscendi-#18.jpg
+│   ├── skull2.jpg
+│   ├── skull.jpg
+│   ├── skullSQ.jpg
+│   ├── Snail_1.jpg
+│   ├── Snail_2.jpg
+│   ├── Snail_3.jpg
+│   ├── Snail_4.jpg
+│   └── Snail_5.jpg
+├── Grenoble_Aprile_2007
+│   ├── #001-Art.jpg
+│   ├── #001_Art_Sarah.psd
+│   ├── #001_Sarah.JPG
+│   ├── #002_Sarah_e_Gianluca.JPG
+│   ├── #003_Esther.JPG
+│   ├── #004.JPG
+│   ├── #005_Lapo_Racconta.JPG
+│   ├── #006_Lapo_Racconta_2.JPG
+│   ├── #007_Sentieri_fotonici_e_barzellette_1.JPG
+│   ├── #008_Sentieri_fotonici_e_barzellette_2.JPG
+│   ├── #009_Sarah_Dorme_1.JPG
+│   ├── #010_Sarah_Dorme_2.JPG
+│   ├── #011_Gianluca_flashato.JPG
+│   ├── #012_Sarah_Dorme_3.JPG
+│   ├── #013_Sarah_Dorme_4.JPG
+│   ├── #014_Sarah_Dorme_5.JPG
+│   ├── #015-Art-Curvatura-Costagli.jpg
+│   ├── #015_Art_Curvatura_Costagliola.psd
+│   ├── #015_Curvatura_Costagliola.JPG
+│   ├── #016_Gianluca_in_the_Dark_1.JPG
+│   ├── #018_Gianluca_in_the_Dark_2.JPG
+│   ├── #019_Sarah_Dorme_1.JPG
+│   ├── #020_Pabolo_dorme.JPG
+│   ├── #021_Sarah_Dorme_2.JPG
+│   ├── #022_Gianluca_Riflashato.JPG
+│   ├── #023-Art.jpg
+│   ├── #023_Art_Sarah_dorme.psd
+│   ├── #023_Pablo_e_Sarah_Dormienti.JPG
+│   ├── #024_PornoStatue.JPG
+│   ├── #025_Scultuta_a_distanza.JPG
+│   ├── #026_Luca.JPG
+│   ├── #027_Chiara_dorme_sui_banchi.JPG
+│   ├── #028_Matteo.JPG
+│   ├── #029_Elettroni_in_corsa.JPG
+│   ├── #030_Attesa_sui_gradini_1.JPG
+│   ├── #031_Attesa_sui_gradini_2.JPG
+│   ├── #032_Loschi_traffici.JPG
+│   ├── #033_Guido_Scalzo.JPG
+│   ├── #034_Uscita.JPG
+│   ├── #035_Picco_1.JPG
+│   ├── #036_Picco_2.JPG
+│   ├── #037_Ai_tavoli_1.JPG
+│   ├── #038_Ai_tavoli_2.JPG
+│   ├── #039_Pablo_e_Luca.JPG
+│   ├── #040_Ai_tavoli_3.JPG
+│   ├── #041_Azzurra.JPG
+│   ├── #042_Pablo_e_Luca_bis.JPG
+│   ├── #043_Ai_tavoli_4.JPG
+│   ├── #044_Dux.JPG
+│   ├── #045_Volooo.JPG
+│   ├── #046_Gianluca_in_Agitazione.JPG
+│   ├── #047_In_Camera_1.JPG
+│   ├── #048_In_Camera_2.JPG
+│   ├── #049_In_Camera_3.JPG
+│   ├── #050_In_Camera_4.JPG
+│   ├── #051_In_Camera_5.JPG
+│   ├── #052_In_Camera_6.JPG
+│   ├── #053-Art.jpg
+│   ├── #053_Art.psd
+│   ├── #053_In_Camera_7.JPG
+│   ├── #054_Sarah_in_treno.JPG
+│   ├── #055_Pablo_e_Sarah_in_treno.JPG
+│   ├── #056_Pablo_in_treno.JPG
+│   ├── #057_Pablo_e_Dylan_in_treno_1.JPG
+│   ├── #058_Pablo_e_Dylan_in_treno_2.JPG
+│   ├── #059_Pablo_e_Dylan_in_treno_3.JPG
+│   ├── #060_Chiesa.JPG
+│   ├── #061_Scimmione_1.JPG
+│   ├── #062_Scimmione_2.JPG
+│   ├── #063_Biblioteca.JPG
+│   ├── #064_Biblioteca_Dylen_e_Sarah.JPG
+│   ├── #065_Bilbioteca_Pablo_e_Sarah.JPG
+│   ├── #066_Biblioteca_Pablo_e_Dylan.JPG
+│   ├── #067_Dylan_folleggia_su_un_monumento_1.JPG
+│   ├── #068_Dylan_folleggia_su_un_monumento_2.JPG
+│   ├── #069_Dylan_folleggia_su_un_monumento_3.JPG
+│   ├── #070_Dylan_folleggia_su_un_monumento_4.JPG
+│   ├── #071_Sarah_Explosion.JPG
+│   ├── #072.JPG
+│   ├── #073_Torre_di_Orthanc.JPG
+│   ├── #074_Parco_sabbioso.JPG
+│   ├── #075_Gatto_Selvatico_1.JPG
+│   ├── #076_Gatto_Selvatico_2.JPG
+│   ├── #077_Scoiattolo_1.JPG
+│   ├── #078_Scoiattolo_2.JPG
+│   ├── #079_Scoiattolo_3.JPG
+│   ├── #080_Scoiattolo_4.JPG
+│   ├── #081_Brasserie_1.JPG
+│   ├── #082-Art-.jpg
+│   ├── #082_Art_.psd
+│   ├── #082_Brasserie_2.JPG
+│   ├── #083_Brasserie_3.JPG
+│   ├── #084_Brasserie_4.JPG
+│   ├── #085_Addio_Lapo.JPG
+│   ├── #086_Sostegno_1.JPG
+│   ├── #087_Occhio_di_Lapo.JPG
+│   ├── #088_Sostegno_2.JPG
+│   ├── #089_Barba_di_Lapo.JPG
+│   ├── #090_Requiem_di_Festa_1.JPG
+│   ├── #091_Requiem_di_Festa_2.JPG
+│   ├── #092-Art.jpg
+│   ├── #092_Art.psd
+│   ├── #092_Lapo_e_Sarah_in_Bus.JPG
+│   ├── #093_Fisici_in_bus_1.JPG
+│   ├── #094_Fisici_in_bus_2.JPG
+│   ├── #095_Che_fisico_1.JPG
+│   ├── #096_Che_fisico_2.JPG
+│   ├── #097_Che_fisico_3.JPG
+│   ├── #098_Che_fisico_4.JPG
+│   ├── #099_Attesa_1.JPG
+│   ├── #100_Attesa_2.JPG
+│   ├── #101_Cicala.JPG
+│   ├── #102_Preda-Predatore_1.JPG
+│   ├── #103_Preda-Predatore_2.JPG
+│   ├── #104_Boh_1.JPG
+│   ├── #105_Boh_2.JPG
+│   ├── #106_Formiche_1.JPG
+│   ├── #107_Formiche_2.JPG
+│   ├── #108_RiAttesa_1.JPG
+│   ├── #109_RiAttesa_2.JPG
+│   ├── #110_Ahahaha.JPG
+│   ├── #111_Fronde_Franche.JPG
+│   ├── #112_Rosso.JPG
+│   ├── #113_Anche_in_Francia.JPG
+│   ├── #114_Attesa_in_stazione_1.JPG
+│   ├── #115_Sarah_Kiss.JPG
+│   ├── #116_Attesa_in_stazione_2.JPG
+│   ├── #117_Attesa_in_stazione_3.JPG
+│   ├── #118_Dylan_si_ingozza_1.JPG
+│   ├── #119_Dylan_si_ingozza_2.JPG
+│   ├── #120_Monumento_Stazione_1.JPG
+│   ├── #121_Monumento_Stazione_2.JPG
+│   ├── #122_Strade_di_Grenoble_1.JPG
+│   ├── #123_Strade_di_Grenoble_2.JPG
+│   ├── #124_Strade_di_Grenoble_3.JPG
+│   ├── #125_Strade_di_Grenoble_4.JPG
+│   ├── #126_Strade_di_Grenoble_5.JPG
+│   ├── #127_Strade_di_Grenoble_6.JPG
+│   ├── #128_Strade_di_Grenoble_7.JPG
+│   ├── #129_Museo_di_Grenoble_1.JPG
+│   ├── #130_Museo_di_Grenoble_2.JPG
+│   ├── #131_Museo_di_Grenoble_3.JPG
+│   ├── #132_Museo_di_Grenoble_4.JPG
+│   ├── #133_Museo_di_Grenoble_5.JPG
+│   ├── #134_Museo_di_Grenoble_6.JPG
+│   ├── #135_Museo_di_Grenoble_7.JPG
+│   ├── #136_Museo_di_Grenoble_8.JPG
+│   ├── #137_Museo_di_Grenoble_9.JPG
+│   ├── #138_Museo_di_Grenoble_10.JPG
+│   ├── #139_Museo_di_Grenoble_11.JPG
+│   ├── #140_Museo_di_Grenoble_12.JPG
+│   ├── #141-Art.jpg
+│   ├── #141_Art.psd
+│   ├── #141_Museo_di_Grenoble_13.JPG
+│   ├── #142_Museo_di_Grenoble_14.JPG
+│   ├── #143_Museo_di_Grenoble_15.JPG
+│   ├── #144_Museo_di_Grenoble_16.JPG
+│   ├── #145_Museo_di_Grenoble_17.JPG
+│   ├── #146_Museo_di_Grenoble_18.JPG
+│   ├── #147_Museo_di_Grenoble_19.JPG
+│   ├── #148_Museo_di_Grenoble_20.JPG
+│   ├── #149-Art.jpg
+│   ├── #149_Art.psd
+│   ├── #149_Museo_di_Grenoble_21.JPG
+│   ├── #150_Museo_di_Grenoble_22.JPG
+│   ├── #151_Museo_di_Grenoble_23.JPG
+│   ├── #152_Museo_di_Grenoble_24.JPG
+│   ├── #153_Museo_di_Grenoble_25.JPG
+│   ├── #154_Museo_di_Grenoble_26.JPG
+│   ├── #155_Museo_di_Grenoble_27.JPG
+│   ├── #156_Museo_di_Grenoble_28.JPG
+│   ├── #157_Museo_di_Grenoble_29.JPG
+│   ├── #158_Museo_di_Grenoble_30.JPG
+│   ├── #159_Museo_di_Grenoble_31.JPG
+│   ├── #160_Museo_di_Grenoble_32.JPG
+│   ├── #161_Museo_di_Grenoble_33.JPG
+│   ├── #162_Museo_di_Grenoble_34.JPG
+│   ├── #163_Museo_di_Grenoble_35.JPG
+│   ├── #164_Museo_di_Grenoble_36.JPG
+│   ├── #165_Museo_di_Grenoble_37.JPG
+│   ├── #166_Museo_di_Grenoble_38.JPG
+│   ├── #167_Museo_di_Grenoble_39.JPG
+│   ├── #168_Museo_di_Grenoble_40.JPG
+│   ├── #169_Museo_di_Grenoble_41.JPG
+│   ├── #170_Museo_di_Grenoble_42.JPG
+│   ├── #171_Museo_di_Grenoble_43.JPG
+│   ├── #172_Museo_di_Grenoble_44.JPG
+│   ├── #173_Museo_di_Grenoble_45.JPG
+│   ├── #174_Museo_di_Grenoble_46.JPG
+│   ├── #175_Museo_di_Grenoble_47.JPG
+│   ├── #176_Museo_di_Grenoble_48.JPG
+│   ├── #177_Museo_di_Grenoble_49.JPG
+│   ├── #178_Museo_di_Grenoble_50.JPG
+│   ├── #179_Museo_di_Grenoble_51.JPG
+│   ├── #180_Museo_di_Grenoble_52.JPG
+│   ├── #181_Museo_di_Grenoble_53.JPG
+│   ├── #182_Museo_di_Grenoble_54.JPG
+│   ├── #183_Museo_di_Grenoble_55.JPG
+│   ├── #184_Museo_di_Grenoble_56.JPG
+│   ├── #185_Ancora_in_Strada_1.JPG
+│   ├── #186_Ancora_in_Strada_2.JPG
+│   ├── #187_Ancora_in_Strada_3.JPG
+│   ├── #188_Effetto_Macro_1.JPG
+│   ├── #189_Effetto_Macro_2.JPG
+│   ├── #190_Prendendo_il_Pullman_1.JPG
+│   ├── #191_Prendendo_il_Pullman_2.JPG
+│   ├── #192_Marco_e_il_Pullman.JPG
+│   ├── #193_Prendendo_il_Pullman_3.JPG
+│   ├── #194_Guido_in_Pullman_1.JPG
+│   ├── #195_Guido_in_Pullman_2.JPG
+│   ├── #196_Luca_in_Pullman.JPG
+│   ├── #197_Esther_in_Pullman.JPG
+│   ├── #198_Marco_in_Pullman_1.JPG
+│   ├── #199_Chiara_in_Pullman.JPG
+│   ├── #200_Sarah_in_Pullman.JPG
+│   ├── #201_Gianluca_in_Pullman.JPG
+│   ├── #202_Pianificazione.JPG
+│   ├── #203_Guido_in_Pullman_3.JPG
+│   ├── #204_Il_mio_Tessssorooo.JPG
+│   ├── #205_Marco_in_Pullman_2.JPG
+│   ├── #206_Marco_in_Pullman_3.JPG
+│   ├── #207_Paesaggi_01.JPG
+│   ├── #208_Paesaggi_02.JPG
+│   ├── #210_Paesaggi_03.JPG
+│   ├── #211_Paesaggi_04.JPG
+│   ├── #213_Paesaggi_05.JPG
+│   ├── #214_Luca_e_Guido_Ronfano_1.JPG
+│   ├── #215_Luca_e_Guido_Ronfano_2.JPG
+│   ├── #216_Luca_Ronfa.JPG
+│   ├── #217_Guido_Ronfa.JPG
+│   ├── #218_Foto_ai_dormienti.JPG
+│   ├── #219_Occhiali_per_Pablo.JPG
+│   ├── #220_Paesaggi_06.JPG
+│   ├── #221_Paesaggi_07.JPG
+│   ├── #222_Paesaggi_08.JPG
+│   ├── #223_Paesaggi_09.JPG
+│   ├── #225_Verso_l'Italia.JPG
+│   ├── #226_Paesaggi_10.JPG
+│   ├── #227_Paesaggi_11.JPG
+│   ├── #228_Paesaggi_12.JPG
+│   ├── #230_Paesaggi_14.JPG
+│   ├── #232_Paesaggi_16.JPG
+│   ├── #234_Paesaggi_18.JPG
+│   ├── #235_Allegria_in_Pullman_1.JPG
+│   ├── #236_Allegria_in_Pullman_2.JPG
+│   ├── #237_Cantando_1.JPG
+│   ├── #238_Cantando_2.JPG
+│   ├── #239_Cantando_3.JPG
+│   ├── #240_La_Barzelletta_di_Guido_1.JPG
+│   ├── #241_La_Barzelletta_di_Guido_2.JPG
+│   ├── #242_Cantando_4.JPG
+│   ├── #243.JPG
+│   ├── #244.JPG
+│   ├── #245_Uno_spuntino_per_Riccardo.JPG
+│   ├── #246.JPG
+│   ├── #247_Dominguez.JPG
+│   ├── #248_Fanciullo.JPG
+│   ├── #249_Costagliola.JPG
+│   ├── #250_Relativitad_Especial.JPG
+│   ├── #251_Foto_di_Gruppo_1.JPG
+│   ├── #252_Foto_di_Gruppo_2.JPG
+│   ├── #253_Foto_di_Gruppo_3.JPG
+│   ├── #254_Foto_di_Gruppo_4.JPG
+│   ├── #255_Vi_Osserva_1.JPG
+│   ├── #256_Vi_Osserva_2.JPG
+│   ├── #257_Tutti_in_fondo_al_Pullman_1.JPG
+│   ├── #258_Tutti_in_fondo_al_Pullman_2.JPG
+│   ├── #259_Tutti_in_fondo_al_Pullman_3.JPG
+│   ├── #260_Tutti_in_fondo_al_Pullman_4.JPG
+│   ├── #261_Tutti_in_fondo_al_Pullman_5.JPG
+│   ├── #262.JPG
+│   ├── #263_Lapo.JPG
+│   ├── #264_Sorrisi.JPG
+│   ├── #265_Tutti_in_fondo_al_Pullman_6.JPG
+│   ├── #266_Fulminati.JPG
+│   ├── #267.JPG
+│   ├── #268.JPG
+│   ├── #269_Sara_Occhio_Liquido.JPG
+│   ├── #270_Lapo_e_Gianluca.JPG
+│   ├── #271_Pablo_Stanco.JPG
+│   ├── #272_Lo_Sbadiglio_di_Lapo.JPG
+│   ├── #273_Gianluca_all'arrivo.JPG
+│   ├── MVI_0734.AVI
+│   ├── MVI_0734.THM
+│   ├── MVI_0826.AVI
+│   ├── MVI_0826.THM
+│   ├── MVI_0851.AVI
+│   ├── MVI_0851.THM
+│   ├── MVI_0853.AVI
+│   ├── MVI_0853.THM
+│   ├── MVI_0854.AVI
+│   ├── MVI_0854.THM
+│   ├── MVI_0905.AVI
+│   ├── MVI_0905.THM
+│   ├── MVI_0906.AVI
+│   ├── MVI_0906.THM
+│   ├── MVI_0907.AVI
+│   └── MVI_0907.THM
+└── IMG_2654.psd
+
+58 directories, 2518 files
