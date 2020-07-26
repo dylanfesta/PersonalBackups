@@ -1,0 +1,2475 @@
+20190601_Rajni
+├── RajnisParty_05.jpg
+├── RajnisParty_22.jpg
+├── RajnisParty_39.jpg
+├── RajnisParty_56.jpg
+├── .BridgeSort
+├── RajnisParty_06.jpg
+├── RajnisParty_07.jpg
+├── RajnisParty_08.jpg
+├── RajnisParty_09.jpg
+├── RajnisParty_10.jpg
+├── RajnisParty_11.jpg
+├── RajnisParty_12.jpg
+├── RajnisParty_13.jpg
+├── RajnisParty_14.jpg
+├── RajnisParty_15.jpg
+├── RajnisParty_16.jpg
+├── RajnisParty_17.jpg
+├── RajnisParty_18.jpg
+├── RajnisParty_19.jpg
+├── RajnisParty_20.jpg
+├── RajnisParty_21.jpg
+├── RajnisParty_23.jpg
+├── RajnisParty_24.jpg
+├── RajnisParty_25.jpg
+├── RajnisParty_26.jpg
+├── RajnisParty_27.jpg
+├── RajnisParty_28.jpg
+├── RajnisParty_29.jpg
+├── RajnisParty_30.jpg
+├── RajnisParty_31.jpg
+├── RajnisParty_32.jpg
+├── RajnisParty_33.jpg
+├── RajnisParty_34.jpg
+├── RajnisParty_35.jpg
+├── RajnisParty_36.jpg
+├── RajnisParty_37.jpg
+├── RajnisParty_38.jpg
+├── RajnisParty_40.jpg
+├── RajnisParty_41.jpg
+├── RajnisParty_42.jpg
+├── RajnisParty_43.jpg
+├── RajnisParty_44.jpg
+├── RajnisParty_45.jpg
+├── RajnisParty_46.jpg
+├── RajnisParty_47.jpg
+├── RajnisParty_48.jpg
+├── RajnisParty_49.jpg
+├── RajnisParty_50.jpg
+├── RajnisParty_51.jpg
+├── RajnisParty_52.jpg
+├── RajnisParty_53.jpg
+├── RajnisParty_54.jpg
+├── RajnisParty_55.jpg
+├── RajnisParty_01.jpg
+├── RajnisParty_02.jpg
+├── RajnisParty_03.jpg
+├── RajnisParty_04.jpg
+├── RajnisParty_57.jpg
+├── RajnisParty_58.jpg
+├── RajnisParty_59.jpg
+├── RajnisParty_60.jpg
+├── RajnisParty_61.jpg
+├── RajnisParty_62.jpg
+├── RajnisParty_63.jpg
+├── RajnisParty_64.jpg
+├── RajnisParty_65.jpg
+├── RajnisParty_66.jpg
+├── RajnisParty_67.jpg
+├── RajnisParty_68.jpg
+├── RajnisParty_69.jpg
+├── RajnisParty_70.jpg
+├── RajnisParty_71.jpg
+├── RajnisParty_72.jpg
+├── RajnisParty_73.jpg
+├── RajnisParty_74.jpg
+├── RajnisParty_75.jpg
+├── RajnisParty_76.jpg
+├── RajnisParty_77.jpg
+├── RajnisParty_78.jpg
+├── RajnisParty_79.jpg
+├── RajnisParty_80.jpg
+├── RajnisParty_81.jpg
+├── RajnisParty_82.jpg
+├── RajnisParty_83.jpg
+├── RajnisParty_84.jpg
+└── RAW
+    ├── 20190601_4652.CR2
+    ├── 20190601_4652.xmp
+    ├── 20190601_4653.CR2
+    ├── 20190601_4653.xmp
+    ├── 20190601_4654.CR2
+    ├── 20190601_4654.xmp
+    ├── 20190601_4655.CR2
+    ├── 20190601_4655.xmp
+    ├── 20190601_4657.CR2
+    ├── 20190601_4657.xmp
+    ├── 20190601_4658.CR2
+    ├── 20190601_4658.xmp
+    ├── 20190601_4659.CR2
+    ├── 20190601_4659.xmp
+    ├── 20190601_4660.xmp
+    ├── 20190601_4661.CR2
+    ├── 20190601_4661.xmp
+    ├── 20190601_4662.CR2
+    ├── 20190601_4662.xmp
+    ├── 20190601_4663.CR2
+    ├── 20190601_4663.xmp
+    ├── 20190601_4664.CR2
+    ├── 20190601_4664.xmp
+    ├── 20190601_4665.CR2
+    ├── 20190601_4665.xmp
+    ├── 20190601_4668.CR2
+    ├── 20190601_4668.xmp
+    ├── 20190601_4669.CR2
+    ├── 20190601_4669.xmp
+    ├── 20190601_4670.CR2
+    ├── 20190601_4671.CR2
+    ├── 20190601_4671.xmp
+    ├── 20190601_4672.CR2
+    ├── 20190601_4672.xmp
+    ├── 20190601_4674.CR2
+    ├── 20190601_4674.xmp
+    ├── 20190601_4676.CR2
+    ├── 20190601_4676.xmp
+    ├── 20190601_4677.CR2
+    ├── 20190601_4677.xmp
+    ├── 20190601_4678.CR2
+    ├── 20190601_4678.xmp
+    ├── 20190601_4679.CR2
+    ├── 20190601_4679.xmp
+    ├── 20190601_4680.CR2
+    ├── 20190601_4680.xmp
+    ├── 20190601_4681.xmp
+    ├── 20190601_4682.CR2
+    ├── 20190601_4682.xmp
+    ├── 20190601_4683.CR2
+    ├── 20190601_4683.xmp
+    ├── 20190601_4684.CR2
+    ├── 20190601_4684.xmp
+    ├── 20190601_4685.CR2
+    ├── 20190601_4685.xmp
+    ├── 20190601_4686.CR2
+    ├── 20190601_4686.xmp
+    ├── 20190601_4688.CR2
+    ├── 20190601_4688.xmp
+    ├── 20190601_4689.CR2
+    ├── 20190601_4689.xmp
+    ├── 20190601_4690.CR2
+    ├── 20190601_4660.CR2
+    ├── 20190601_4670.xmp
+    ├── 20190601_4681.CR2
+    ├── 20190601_4690.xmp
+    ├── 20190601_4700.CR2
+    ├── 20190601_4709.xmp
+    ├── 20190601_4719.CR2
+    ├── 20190601_4729.xmp
+    ├── 20190602_4643.CR2
+    ├── 20190601_4691.CR2
+    ├── 20190601_4691.xmp
+    ├── 20190601_4693.CR2
+    ├── 20190601_4693.xmp
+    ├── 20190601_4694.CR2
+    ├── 20190601_4694.xmp
+    ├── 20190601_4695.CR2
+    ├── 20190601_4695.xmp
+    ├── 20190601_4696.CR2
+    ├── 20190601_4696.xmp
+    ├── 20190601_4697.CR2
+    ├── 20190601_4697.xmp
+    ├── 20190601_4698.CR2
+    ├── 20190601_4698.xmp
+    ├── 20190601_4699.CR2
+    ├── 20190601_4699.xmp
+    ├── 20190601_4700.xmp
+    ├── 20190601_4702.CR2
+    ├── 20190601_4702.xmp
+    ├── 20190601_4703.CR2
+    ├── 20190601_4703.xmp
+    ├── 20190601_4704.CR2
+    ├── 20190601_4704.xmp
+    ├── 20190601_4705.CR2
+    ├── 20190601_4705.xmp
+    ├── 20190601_4706.CR2
+    ├── 20190601_4706.xmp
+    ├── 20190601_4707.CR2
+    ├── 20190601_4707.xmp
+    ├── 20190601_4708.CR2
+    ├── 20190601_4708.xmp
+    ├── 20190601_4709.CR2
+    ├── 20190601_4710.CR2
+    ├── 20190601_4710.xmp
+    ├── 20190601_4711.CR2
+    ├── 20190601_4711.xmp
+    ├── 20190601_4712.CR2
+    ├── 20190601_4712.xmp
+    ├── 20190601_4713.CR2
+    ├── 20190601_4713.xmp
+    ├── 20190601_4714.CR2
+    ├── 20190601_4714.xmp
+    ├── 20190601_4715.CR2
+    ├── 20190601_4715.xmp
+    ├── 20190601_4717.CR2
+    ├── 20190601_4717.xmp
+    ├── 20190601_4718.CR2
+    ├── 20190601_4718.xmp
+    ├── 20190601_4719.xmp
+    ├── 20190601_4720.CR2
+    ├── 20190601_4720.xmp
+    ├── 20190601_4721.CR2
+    ├── 20190601_4721.xmp
+    ├── 20190601_4722.CR2
+    ├── 20190601_4722.xmp
+    ├── 20190601_4723.CR2
+    ├── 20190601_4723.xmp
+    ├── 20190601_4724.CR2
+    ├── 20190601_4724.xmp
+    ├── 20190601_4726.CR2
+    ├── 20190601_4726.xmp
+    ├── 20190601_4727.CR2
+    ├── 20190601_4727.xmp
+    ├── 20190601_4729.CR2
+    ├── 20190601_4730.CR2
+    ├── 20190601_4730.xmp
+    ├── 20190601_4732.CR2
+    ├── 20190601_4732.xmp
+    ├── 20190602_4635.CR2
+    ├── 20190602_4635.xmp
+    ├── 20190602_4637.CR2
+    ├── 20190602_4637.xmp
+    ├── 20190602_4638.CR2
+    ├── 20190602_4638.xmp
+    ├── 20190602_4639.CR2
+    ├── 20190602_4639.xmp
+    ├── 20190602_4640.CR2
+    ├── 20190602_4640.xmp
+    ├── 20190602_4641.CR2
+    ├── 20190602_4641.xmp
+    ├── 20190602_4643.xmp
+    ├── 20190602_4644.CR2
+    ├── 20190602_4644.xmp
+    ├── 20190602_4645.CR2
+    ├── 20190602_4645.xmp
+    ├── 20190602_4646.CR2
+    ├── 20190602_4646.xmp
+    ├── 20190602_4647.CR2
+    ├── 20190602_4647.xmp
+    ├── 20190602_4648.CR2
+    ├── 20190602_4648.xmp
+    ├── 20190602_4649.CR2
+    ├── 20190602_4649.xmp
+    ├── 20190602_4650.CR2
+    └── 20190602_4650.xmp
+20190617_Neuroretreat
+├── .BridgeSort
+├── neuroRetreat_004.jpg
+├── neuroRetreat_005.jpg
+├── neuroRetreat_006.jpg
+├── neuroRetreat_007.jpg
+├── neuroRetreat_008.jpg
+├── neuroRetreat_009.jpg
+├── neuroRetreat_010.jpg
+├── neuroRetreat_011.jpg
+├── neuroRetreat_012.jpg
+├── neuroRetreat_013.jpg
+├── neuroRetreat_014.jpg
+├── neuroRetreat_015.jpg
+├── neuroRetreat_016.jpg
+├── neuroRetreat_017.jpg
+├── neuroRetreat_018.jpg
+├── neuroRetreat_020.jpg
+├── neuroRetreat_021.jpg
+├── neuroRetreat_022.jpg
+├── neuroRetreat_023.jpg
+├── neuroRetreat_024.jpg
+├── neuroRetreat_025.jpg
+├── neuroRetreat_026.jpg
+├── neuroRetreat_027.jpg
+├── neuroRetreat_028.jpg
+├── neuroRetreat_029.jpg
+├── neuroRetreat_030.jpg
+├── neuroRetreat_031.jpg
+├── neuroRetreat_032.jpg
+├── neuroRetreat_033.jpg
+├── neuroRetreat_034.jpg
+├── neuroRetreat_036.jpg
+├── neuroRetreat_037.jpg
+├── neuroRetreat_038.jpg
+├── neuroRetreat_039.jpg
+├── neuroRetreat_040.jpg
+├── neuroRetreat_041.jpg
+├── neuroRetreat_042.jpg
+├── neuroRetreat_043.jpg
+├── neuroRetreat_044.jpg
+├── neuroRetreat_045.jpg
+├── neuroRetreat_046.jpg
+├── neuroRetreat_047.jpg
+├── neuroRetreat_048.jpg
+├── neuroRetreat_049.jpg
+├── neuroRetreat_050.jpg
+├── neuroRetreat_052.jpg
+├── neuroRetreat_053.jpg
+├── neuroRetreat_054.jpg
+├── neuroRetreat_055.jpg
+├── neuroRetreat_056.jpg
+├── neuroRetreat_057.jpg
+├── neuroRetreat_058.jpg
+├── neuroRetreat_059.jpg
+├── neuroRetreat_060.jpg
+├── neuroRetreat_061.jpg
+├── neuroRetreat_062.jpg
+├── neuroRetreat_063.jpg
+├── neuroRetreat_064.jpg
+├── neuroRetreat_065.jpg
+├── neuroRetreat_066.jpg
+├── neuroRetreat_068.jpg
+├── neuroRetreat_069.jpg
+├── neuroRetreat_070.jpg
+├── neuroRetreat_071.jpg
+├── neuroRetreat_072.jpg
+├── neuroRetreat_073.jpg
+├── neuroRetreat_074.jpg
+├── neuroRetreat_075.jpg
+├── neuroRetreat_076.jpg
+├── neuroRetreat_077.jpg
+├── neuroRetreat_078.jpg
+├── neuroRetreat_079.jpg
+├── neuroRetreat_080.jpg
+├── neuroRetreat_081.jpg
+├── neuroRetreat_082.jpg
+├── neuroRetreat_084.jpg
+├── neuroRetreat_085.jpg
+├── neuroRetreat_086.jpg
+├── neuroRetreat_087.jpg
+├── neuroRetreat_088.jpg
+├── neuroRetreat_089.jpg
+├── neuroRetreat_090.jpg
+├── neuroRetreat_091.jpg
+├── neuroRetreat_092.jpg
+├── neuroRetreat_093.jpg
+├── neuroRetreat_094.jpg
+├── neuroRetreat_095.jpg
+├── neuroRetreat_096.jpg
+├── neuroRetreat_097.jpg
+├── neuroRetreat_098.jpg
+├── neuroRetreat_100.jpg
+├── neuroRetreat_101.jpg
+├── neuroRetreat_102.jpg
+├── neuroRetreat_103.jpg
+├── neuroRetreat_104.jpg
+├── neuroRetreat_105.jpg
+├── neuroRetreat_106.jpg
+├── neuroRetreat_107.jpg
+├── neuroRetreat_108.jpg
+├── neuroRetreat_109.jpg
+├── neuroRetreat_110.jpg
+├── neuroRetreat_111.jpg
+├── neuroRetreat_112.jpg
+├── neuroRetreat_113.jpg
+├── neuroRetreat_114.jpg
+├── neuroRetreat_003.jpg
+├── neuroRetreat_019.jpg
+├── neuroRetreat_035.jpg
+├── neuroRetreat_051.jpg
+├── neuroRetreat_067.jpg
+├── neuroRetreat_083.jpg
+├── neuroRetreat_099.jpg
+├── neuroRetreat_115.jpg
+├── neuroRetreat_131.jpg
+├── neuroRetreat_147.jpg
+├── neuroRetreat_163.jpg
+├── neuroRetreat_116.jpg
+├── neuroRetreat_117.jpg
+├── neuroRetreat_118.jpg
+├── neuroRetreat_119.jpg
+├── neuroRetreat_120.jpg
+├── neuroRetreat_121.jpg
+├── neuroRetreat_122.jpg
+├── neuroRetreat_123.jpg
+├── neuroRetreat_124.jpg
+├── neuroRetreat_125.jpg
+├── neuroRetreat_126.jpg
+├── neuroRetreat_127.jpg
+├── neuroRetreat_128.jpg
+├── neuroRetreat_129.jpg
+├── neuroRetreat_130.jpg
+├── neuroRetreat_001.jpg
+├── neuroRetreat_002.jpg
+├── neuroRetreat_132.jpg
+├── neuroRetreat_133.jpg
+├── neuroRetreat_134.jpg
+├── neuroRetreat_135.jpg
+├── neuroRetreat_136.jpg
+├── neuroRetreat_137.jpg
+├── neuroRetreat_138.jpg
+├── neuroRetreat_139.jpg
+├── neuroRetreat_140.jpg
+├── neuroRetreat_141.jpg
+├── neuroRetreat_142.jpg
+├── neuroRetreat_143.jpg
+├── neuroRetreat_144.jpg
+├── neuroRetreat_145.jpg
+├── neuroRetreat_146.jpg
+├── neuroRetreat_148.jpg
+├── neuroRetreat_149.jpg
+├── neuroRetreat_150.jpg
+├── neuroRetreat_151.jpg
+├── neuroRetreat_152.jpg
+├── neuroRetreat_153.jpg
+├── neuroRetreat_154.jpg
+├── neuroRetreat_155.jpg
+├── neuroRetreat_156.jpg
+├── neuroRetreat_157.jpg
+├── neuroRetreat_158.jpg
+├── neuroRetreat_159.jpg
+├── neuroRetreat_160.jpg
+├── neuroRetreat_161.jpg
+├── neuroRetreat_162.jpg
+├── neuroRetreat_164.jpg
+├── neuroRetreat_165.jpg
+├── neuroRetreat_166.jpg
+├── neuroRetreat_167.jpg
+├── neuroRetreat_168.jpg
+├── neuroRetreat_169.jpg
+├── neuroRetreat_170.jpg
+├── neuroRetreat_171.jpg
+├── neuroRetreat_172.jpg
+├── neuroRetreat_173.jpg
+├── neuroRetreat_174.jpg
+├── neuroRetreat_175.jpg
+├── neuroRetreat_176.jpg
+├── neuroRetreat_177.jpg
+├── neuroRetreat_178.jpg
+├── neuroRetreat_179.jpg
+├── neuroRetreat_180.jpg
+├── neuroRetreat_181.jpg
+├── neuroRetreat_182.jpg
+├── neuroRetreat_183.jpg
+├── neuroRetreat_184.jpg
+├── neuroRetreat_185.jpg
+├── neuroRetreat_186.jpg
+├── neuroRetreat_187.jpg
+└── RAW
+    ├── 20190617_4890.xmp
+    ├── 20190617_4746.CR2
+    ├── 20190617_4746.xmp
+    ├── 20190617_4747.CR2
+    ├── 20190617_4747.xmp
+    ├── 20190617_4748.CR2
+    ├── 20190617_4748.xmp
+    ├── 20190617_4749.CR2
+    ├── 20190617_4749.xmp
+    ├── 20190617_4750.CR2
+    ├── 20190617_4750.xmp
+    ├── 20190617_4751.CR2
+    ├── 20190617_4751.xmp
+    ├── 20190617_4753.CR2
+    ├── 20190617_4753.xmp
+    ├── 20190617_4754.CR2
+    ├── 20190617_4754.xmp
+    ├── 20190617_4755.xmp
+    ├── 20190617_4756.CR2
+    ├── 20190617_4756.xmp
+    ├── 20190617_4757.CR2
+    ├── 20190617_4757.xmp
+    ├── 20190617_4758.CR2
+    ├── 20190617_4758.xmp
+    ├── 20190617_4759.CR2
+    ├── 20190617_4759.xmp
+    ├── 20190617_4760.CR2
+    ├── 20190617_4760.xmp
+    ├── 20190617_4761.CR2
+    ├── 20190617_4761.xmp
+    ├── 20190617_4762.CR2
+    ├── 20190617_4762.xmp
+    ├── 20190617_4763.CR2
+    ├── 20190617_4764.CR2
+    ├── 20190617_4764.xmp
+    ├── 20190617_4765.CR2
+    ├── 20190617_4765.xmp
+    ├── 20190617_4766.CR2
+    ├── 20190617_4766.xmp
+    ├── 20190617_4767.CR2
+    ├── 20190617_4767.xmp
+    ├── 20190617_4769.CR2
+    ├── 20190617_4769.xmp
+    ├── 20190617_4770.CR2
+    ├── 20190617_4770.xmp
+    ├── 20190617_4771.CR2
+    ├── 20190617_4771.xmp
+    ├── 20190617_4772.CR2
+    ├── 20190617_4772.xmp
+    ├── 20190617_4744.CR2
+    ├── 20190617_4755.CR2
+    ├── 20190617_4763.xmp
+    ├── 20190617_4773.CR2
+    ├── 20190617_4782.xmp
+    ├── 20190617_4794.CR2
+    ├── 20190617_4805.xmp
+    ├── 20190617_4814.CR2
+    ├── 20190617_4822.xmp
+    ├── 20190617_4833.CR2
+    ├── 20190617_4841.xmp
+    ├── 20190617_4853.CR2
+    ├── 20190617_4861.xmp
+    ├── 20190617_4870.CR2
+    ├── 20190617_4773.xmp
+    ├── 20190617_4774.CR2
+    ├── 20190617_4774.xmp
+    ├── 20190617_4775.CR2
+    ├── 20190617_4775.xmp
+    ├── 20190617_4776.CR2
+    ├── 20190617_4776.xmp
+    ├── 20190617_4777.CR2
+    ├── 20190617_4777.xmp
+    ├── 20190617_4778.CR2
+    ├── 20190617_4778.xmp
+    ├── 20190617_4779.CR2
+    ├── 20190617_4779.xmp
+    ├── 20190617_4781.CR2
+    ├── 20190617_4781.xmp
+    ├── 20190617_4782.CR2
+    ├── 20190617_4783.CR2
+    ├── 20190617_4783.xmp
+    ├── 20190617_4784.CR2
+    ├── 20190617_4784.xmp
+    ├── 20190617_4785.CR2
+    ├── 20190617_4785.xmp
+    ├── 20190617_4787.CR2
+    ├── 20190617_4787.xmp
+    ├── 20190617_4788.CR2
+    ├── 20190617_4788.xmp
+    ├── 20190617_4790.CR2
+    ├── 20190617_4790.xmp
+    ├── 20190617_4792.CR2
+    ├── 20190617_4792.xmp
+    ├── 20190617_4793.CR2
+    ├── 20190617_4793.xmp
+    ├── 20190617_4794.xmp
+    ├── 20190617_4795.CR2
+    ├── 20190617_4795.xmp
+    ├── 20190617_4796.CR2
+    ├── 20190617_4796.xmp
+    ├── 20190617_4799.CR2
+    ├── 20190617_4799.xmp
+    ├── 20190617_4800.CR2
+    ├── 20190617_4800.xmp
+    ├── 20190617_4801.CR2
+    ├── 20190617_4801.xmp
+    ├── 20190617_4803.CR2
+    ├── 20190617_4803.xmp
+    ├── 20190617_4804.CR2
+    ├── 20190617_4804.xmp
+    ├── 20190617_4805.CR2
+    ├── 20190617_4806.CR2
+    ├── 20190617_4806.xmp
+    ├── 20190617_4807.CR2
+    ├── 20190617_4807.xmp
+    ├── 20190617_4808.CR2
+    ├── 20190617_4808.xmp
+    ├── 20190617_4809.CR2
+    ├── 20190617_4809.xmp
+    ├── 20190617_4810.CR2
+    ├── 20190617_4810.xmp
+    ├── 20190617_4811.CR2
+    ├── 20190617_4811.xmp
+    ├── 20190617_4812.CR2
+    ├── 20190617_4812.xmp
+    ├── 20190617_4813.CR2
+    ├── 20190617_4813.xmp
+    ├── 20190617_4814.xmp
+    ├── 20190617_4815.CR2
+    ├── 20190617_4815.xmp
+    ├── 20190617_4816.CR2
+    ├── 20190617_4816.xmp
+    ├── 20190617_4817.CR2
+    ├── 20190617_4817.xmp
+    ├── 20190617_4818.CR2
+    ├── 20190617_4818.xmp
+    ├── 20190617_4819.CR2
+    ├── 20190617_4819.xmp
+    ├── 20190617_4820.CR2
+    ├── 20190617_4820.xmp
+    ├── 20190617_4821.CR2
+    ├── 20190617_4821.xmp
+    ├── 20190617_4822.CR2
+    ├── 20190617_4823.CR2
+    ├── 20190617_4823.xmp
+    ├── 20190617_4824.CR2
+    ├── 20190617_4824.xmp
+    ├── 20190617_4825.CR2
+    ├── 20190617_4825.xmp
+    ├── 20190617_4826.CR2
+    ├── 20190617_4826.xmp
+    ├── 20190617_4828.CR2
+    ├── 20190617_4828.xmp
+    ├── 20190617_4829.CR2
+    ├── 20190617_4829.xmp
+    ├── 20190617_4831.CR2
+    ├── 20190617_4831.xmp
+    ├── 20190617_4832.CR2
+    ├── 20190617_4832.xmp
+    ├── 20190617_4833.xmp
+    ├── 20190617_4834.CR2
+    ├── 20190617_4834.xmp
+    ├── 20190617_4835.CR2
+    ├── 20190617_4835.xmp
+    ├── 20190617_4836.CR2
+    ├── 20190617_4836.xmp
+    ├── 20190617_4837.CR2
+    ├── 20190617_4837.xmp
+    ├── 20190617_4838.CR2
+    ├── 20190617_4838.xmp
+    ├── 20190617_4839.CR2
+    ├── 20190617_4839.xmp
+    ├── 20190617_4840.CR2
+    ├── 20190617_4840.xmp
+    ├── 20190617_4841.CR2
+    ├── 20190617_4842.CR2
+    ├── 20190617_4842.xmp
+    ├── 20190617_4843.CR2
+    ├── 20190617_4843.xmp
+    ├── 20190617_4846.CR2
+    ├── 20190617_4846.xmp
+    ├── 20190617_4847.CR2
+    ├── 20190617_4847.xmp
+    ├── 20190617_4848.CR2
+    ├── 20190617_4848.xmp
+    ├── 20190617_4850.CR2
+    ├── 20190617_4850.xmp
+    ├── 20190617_4851.CR2
+    ├── 20190617_4851.xmp
+    ├── 20190617_4852.CR2
+    ├── 20190617_4852.xmp
+    ├── 20190617_4733.CR2
+    ├── 20190617_4733.xmp
+    ├── 20190617_4734.CR2
+    ├── 20190617_4734.xmp
+    ├── 20190617_4736.CR2
+    ├── 20190617_4736.xmp
+    ├── 20190617_4737.CR2
+    ├── 20190617_4737.xmp
+    ├── 20190617_4738.CR2
+    ├── 20190617_4738.xmp
+    ├── 20190617_4739.CR2
+    ├── 20190617_4740.CR2
+    ├── 20190617_4740.xmp
+    ├── 20190617_4742.CR2
+    ├── 20190617_4742.xmp
+    ├── 20190617_4853.xmp
+    ├── 20190617_4854.CR2
+    ├── 20190617_4854.xmp
+    ├── 20190617_4855.CR2
+    ├── 20190617_4855.xmp
+    ├── 20190617_4856.CR2
+    ├── 20190617_4856.xmp
+    ├── 20190617_4857.CR2
+    ├── 20190617_4857.xmp
+    ├── 20190617_4858.CR2
+    ├── 20190617_4858.xmp
+    ├── 20190617_4859.CR2
+    ├── 20190617_4859.xmp
+    ├── 20190617_4860.CR2
+    ├── 20190617_4860.xmp
+    ├── 20190617_4861.CR2
+    ├── 20190617_4862.CR2
+    ├── 20190617_4862.xmp
+    ├── 20190617_4863.CR2
+    ├── 20190617_4863.xmp
+    ├── 20190617_4864.CR2
+    ├── 20190617_4864.xmp
+    ├── 20190617_4865.CR2
+    ├── 20190617_4865.xmp
+    ├── 20190617_4866.CR2
+    ├── 20190617_4866.xmp
+    ├── 20190617_4867.CR2
+    ├── 20190617_4867.xmp
+    ├── 20190617_4868.CR2
+    ├── 20190617_4868.xmp
+    ├── 20190617_4869.CR2
+    ├── 20190617_4869.xmp
+    ├── 20190617_4870.xmp
+    ├── 20190617_4871.CR2
+    ├── 20190617_4871.xmp
+    ├── 20190617_4872.CR2
+    ├── 20190617_4872.xmp
+    ├── 20190617_4873.CR2
+    ├── 20190617_4873.xmp
+    ├── 20190617_4874.CR2
+    ├── 20190617_4874.xmp
+    ├── 20190617_4875.CR2
+    ├── 20190617_4875.xmp
+    ├── 20190617_4876.CR2
+    ├── 20190617_4876.xmp
+    ├── 20190617_4889.CR2
+    ├── 20190617_4889.xmp
+    ├── 20190617_4890.CR2
+    ├── 20190617_4891.CR2
+    ├── 20190617_4891.xmp
+    ├── 20190617_4892.CR2
+    ├── 20190617_4892.xmp
+    ├── 20190617_4893.CR2
+    ├── 20190617_4893.xmp
+    ├── 20190617_4894.CR2
+    ├── 20190617_4894.xmp
+    ├── 20190617_4895.CR2
+    ├── 20190617_4895.xmp
+    ├── 20190617_4896.CR2
+    ├── 20190617_4896.xmp
+    ├── 20190617_4897.CR2
+    ├── 20190617_4897.xmp
+    ├── 20190617_4898.CR2
+    ├── 20190617_4898.xmp
+    ├── 20190617_4899.xmp
+    ├── 20190617_4900.CR2
+    ├── 20190617_4900.xmp
+    ├── 20190617_4901.CR2
+    ├── 20190617_4901.xmp
+    ├── 20190617_4902.CR2
+    ├── 20190617_4902.xmp
+    ├── 20190617_4903.CR2
+    ├── 20190617_4903.xmp
+    ├── 20190617_4904.CR2
+    ├── 20190617_4904.xmp
+    ├── 20190617_4905.CR2
+    ├── 20190617_4905.xmp
+    ├── 20190617_4906.CR2
+    ├── 20190617_4906.xmp
+    ├── 20190617_4907.CR2
+    ├── 20190617_4908.CR2
+    ├── 20190617_4908.xmp
+    ├── 20190617_4909.CR2
+    ├── 20190617_4909.xmp
+    ├── 20190617_4910.CR2
+    ├── 20190617_4910.xmp
+    ├── 20190617_4911.CR2
+    ├── 20190617_4911.xmp
+    ├── 20190617_4912.CR2
+    ├── 20190617_4912.xmp
+    ├── 20190617_4913.CR2
+    ├── 20190617_4913.xmp
+    ├── 20190617_4914.CR2
+    ├── 20190617_4914.xmp
+    ├── 20190617_4915.CR2
+    ├── 20190617_4915.xmp
+    ├── 20190617_4916.xmp
+    ├── 20190617_4917.CR2
+    ├── 20190617_4917.xmp
+    ├── 20190617_4918.CR2
+    ├── 20190617_4918.xmp
+    ├── 20190617_4919.CR2
+    ├── 20190617_4919.xmp
+    ├── 20190617_4920.CR2
+    ├── 20190617_4920.xmp
+    ├── 20190617_4921.CR2
+    ├── 20190617_4921.xmp
+    ├── 20190617_4922.CR2
+    ├── 20190617_4922.xmp
+    ├── 20190617_4923.CR2
+    ├── 20190617_4923.xmp
+    ├── 20190617_4924.CR2
+    ├── 20190617_4925.CR2
+    ├── 20190617_4925.xmp
+    ├── 20190617_4927.CR2
+    ├── 20190617_4927.xmp
+    ├── 20190617_4928.CR2
+    ├── 20190617_4928.xmp
+    ├── 20190617_4929.CR2
+    ├── 20190617_4929.xmp
+    ├── 20190617_4930.CR2
+    ├── 20190617_4930.xmp
+    ├── 20190617_4931.CR2
+    ├── 20190617_4931.xmp
+    ├── 20190617_4932.CR2
+    ├── 20190617_4932.xmp
+    ├── 20190617_4933.CR2
+    ├── 20190617_4933.xmp
+    ├── 20190617_4935.xmp
+    ├── 20190617_4938.CR2
+    ├── 20190617_4938.xmp
+    ├── 20190617_4939.CR2
+    ├── 20190617_4939.xmp
+    ├── 20190617_4940.CR2
+    ├── 20190617_4940.xmp
+    ├── 20190617_4941.CR2
+    ├── 20190617_4941.xmp
+    ├── 20190617_4942.CR2
+    ├── 20190617_4942.xmp
+    ├── 20190617_4943.CR2
+    ├── 20190617_4943.xmp
+    ├── 20190617_4945.CR2
+    ├── 20190617_4945.xmp
+    ├── 20190617_4946.CR2
+    ├── 20190617_4899.CR2
+    ├── 20190617_4907.xmp
+    ├── 20190617_4916.CR2
+    ├── 20190617_4924.xmp
+    ├── 20190617_4935.CR2
+    ├── 20190617_4946.xmp
+    ├── 20190617_4947.CR2
+    ├── 20190617_4947.xmp
+    ├── 20190617_4948.CR2
+    ├── 20190617_4948.xmp
+    ├── 20190618_4878.CR2
+    ├── 20190618_4878.xmp
+    ├── 20190618_4880.CR2
+    ├── 20190618_4880.xmp
+    ├── 20190618_4881.CR2
+    ├── 20190618_4881.xmp
+    ├── 20190618_4884.CR2
+    ├── 20190618_4884.xmp
+    ├── 20190618_4886.CR2
+    ├── 20190618_4886.xmp
+    ├── 20190618_4887.CR2
+    └── 20190618_4887.xmp
+20190622_Damini
+├── .BridgeSort
+├── DaminisParty_001.jpg
+├── DaminisParty_002.jpg
+├── DaminisParty_003.jpg
+├── DaminisParty_004.jpg
+├── DaminisParty_005.jpg
+├── DaminisParty_006.jpg
+├── DaminisParty_007.jpg
+├── DaminisParty_008.jpg
+├── DaminisParty_009.jpg
+├── DaminisParty_010.jpg
+├── DaminisParty_011.jpg
+├── DaminisParty_012.jpg
+├── DaminisParty_013.jpg
+├── DaminisParty_014.jpg
+├── DaminisParty_015.jpg
+├── DaminisParty_017.jpg
+├── DaminisParty_018.jpg
+├── DaminisParty_019.jpg
+├── DaminisParty_020.jpg
+├── DaminisParty_021.jpg
+├── DaminisParty_022.jpg
+├── DaminisParty_023.jpg
+├── DaminisParty_024.jpg
+├── DaminisParty_025.jpg
+├── DaminisParty_026.jpg
+├── DaminisParty_027.jpg
+├── DaminisParty_028.jpg
+├── DaminisParty_029.jpg
+├── DaminisParty_030.jpg
+├── DaminisParty_031.jpg
+├── DaminisParty_033.jpg
+├── DaminisParty_034.jpg
+├── DaminisParty_035.jpg
+├── DaminisParty_036.jpg
+├── DaminisParty_037.jpg
+├── DaminisParty_038.jpg
+├── DaminisParty_039.jpg
+├── DaminisParty_040.jpg
+├── DaminisParty_041.jpg
+├── DaminisParty_042.jpg
+├── DaminisParty_043.jpg
+├── DaminisParty_044.jpg
+├── DaminisParty_045.jpg
+├── DaminisParty_046.jpg
+├── DaminisParty_047.jpg
+├── DaminisParty_049.jpg
+├── DaminisParty_050.jpg
+├── DaminisParty_051.jpg
+├── DaminisParty_052.jpg
+├── DaminisParty_053.jpg
+├── DaminisParty_054.jpg
+├── DaminisParty_055.jpg
+├── DaminisParty_056.jpg
+├── DaminisParty_057.jpg
+├── DaminisParty_058.jpg
+├── DaminisParty_059.jpg
+├── DaminisParty_060.jpg
+├── DaminisParty_061.jpg
+├── DaminisParty_062.jpg
+├── DaminisParty_063.jpg
+├── DaminisParty_065.jpg
+├── DaminisParty_066.jpg
+├── DaminisParty_067.jpg
+├── DaminisParty_068.jpg
+├── DaminisParty_069.jpg
+├── DaminisParty_070.jpg
+├── DaminisParty_071.jpg
+├── DaminisParty_072.jpg
+├── DaminisParty_073.jpg
+├── DaminisParty_074.jpg
+├── DaminisParty_075.jpg
+├── DaminisParty_076.jpg
+├── DaminisParty_077.jpg
+├── DaminisParty_078.jpg
+├── DaminisParty_079.jpg
+├── DaminisParty_081.jpg
+├── DaminisParty_082.jpg
+├── DaminisParty_083.jpg
+├── DaminisParty_084.jpg
+├── DaminisParty_085.jpg
+├── DaminisParty_086.jpg
+├── DaminisParty_087.jpg
+├── DaminisParty_088.jpg
+├── DaminisParty_089.jpg
+├── DaminisParty_090.jpg
+├── DaminisParty_091.jpg
+├── DaminisParty_092.jpg
+├── DaminisParty_093.jpg
+├── DaminisParty_094.jpg
+├── DaminisParty_095.jpg
+├── DaminisParty_097.jpg
+├── DaminisParty_098.jpg
+├── DaminisParty_099.jpg
+├── DaminisParty_100.jpg
+├── DaminisParty_101.jpg
+├── DaminisParty_102.jpg
+├── DaminisParty_103.jpg
+├── DaminisParty_104.jpg
+├── DaminisParty_105.jpg
+├── DaminisParty_106.jpg
+├── DaminisParty_107.jpg
+├── DaminisParty_108.jpg
+├── DaminisParty_109.jpg
+├── DaminisParty_110.jpg
+├── DaminisParty_111.jpg
+├── DaminisParty_113.jpg
+├── DaminisParty_114.jpg
+├── DaminisParty_115.jpg
+├── DaminisParty_116.jpg
+├── DaminisParty_117.jpg
+├── DaminisParty_118.jpg
+├── DaminisParty_119.jpg
+├── DaminisParty_120.jpg
+├── DaminisParty_121.jpg
+├── DaminisParty_122.jpg
+├── DaminisParty_123.jpg
+├── DaminisParty_124.jpg
+├── DaminisParty_125.jpg
+├── DaminisParty_126.jpg
+├── DaminisParty_127.jpg
+├── DaminisParty_016.jpg
+├── DaminisParty_032.jpg
+├── DaminisParty_048.jpg
+├── DaminisParty_064.jpg
+├── DaminisParty_080.jpg
+├── DaminisParty_096.jpg
+├── DaminisParty_112.jpg
+├── DaminisParty_128.jpg
+├── DaminisParty_129.jpg
+├── DaminisParty_130.jpg
+├── DaminisParty_131.jpg
+├── DaminisParty_132.jpg
+├── DaminisParty_133.jpg
+├── DaminisParty_134.jpg
+├── DaminisParty_135.jpg
+├── DaminisParty_136.jpg
+├── DaminisParty_137.jpg
+├── DaminisParty_138.jpg
+├── DaminisParty_139.jpg
+├── DaminisParty_140.jpg
+├── DaminisParty_141.jpg
+├── DaminisParty_142.jpg
+├── DaminisParty_143.jpg
+├── DaminisParty_144.jpg
+├── DaminisParty_145.jpg
+└── RAW
+    ├── 20190622_4968.xmp
+    ├── 20190622_4969.CR2
+    ├── 20190622_4969.xmp
+    ├── 20190622_4970.CR2
+    ├── 20190622_4970.xmp
+    ├── 20190622_4972.CR2
+    ├── 20190622_4972.xmp
+    ├── 20190622_4973.CR2
+    ├── 20190622_4973.xmp
+    ├── 20190622_4974.CR2
+    ├── 20190622_4974.xmp
+    ├── 20190622_4976.CR2
+    ├── 20190622_4976.xmp
+    ├── 20190622_4977.CR2
+    ├── 20190622_4977.xmp
+    ├── 20190622_4978.CR2
+    ├── 20190622_4980.CR2
+    ├── 20190622_4980.xmp
+    ├── 20190622_4981.CR2
+    ├── 20190622_4981.xmp
+    ├── 20190622_4982.CR2
+    ├── 20190622_4982.xmp
+    ├── 20190622_4984.CR2
+    ├── 20190622_4984.xmp
+    ├── 20190622_4985.CR2
+    ├── 20190622_4985.xmp
+    ├── 20190622_4986.CR2
+    ├── 20190622_4986.xmp
+    ├── 20190622_4988.CR2
+    ├── 20190622_4988.xmp
+    ├── 20190622_4989.CR2
+    ├── 20190622_4989.xmp
+    ├── 20190622_4990.xmp
+    ├── 20190622_4991.CR2
+    ├── 20190622_4991.xmp
+    ├── 20190622_4992.CR2
+    ├── 20190622_4992.xmp
+    ├── 20190622_4993.CR2
+    ├── 20190622_4993.xmp
+    ├── 20190622_4994.CR2
+    ├── 20190622_4994.xmp
+    ├── 20190622_4995.CR2
+    ├── 20190622_4995.xmp
+    ├── 20190622_4996.CR2
+    ├── 20190622_4996.xmp
+    ├── 20190622_4997.CR2
+    ├── 20190622_4997.xmp
+    ├── 20190622_4998.CR2
+    ├── 20190622_4968.CR2
+    ├── 20190622_4978.xmp
+    ├── 20190622_4990.CR2
+    ├── 20190622_4998.xmp
+    ├── 20190622_5007.CR2
+    ├── 20190622_5015.xmp
+    ├── 20190622_5027.CR2
+    ├── 20190622_5038.xmp
+    ├── 20190622_5047.CR2
+    ├── 20190622_5056.xmp
+    ├── 20190622_5067.CR2
+    ├── 20190622_5075.xmp
+    ├── 20190622_5085.CR2
+    ├── 20190622_5093.xmp
+    ├── 20190622_5103.CR2
+    ├── 20190622_5113.xmp
+    ├── 20190622_4999.CR2
+    ├── 20190622_4999.xmp
+    ├── 20190622_5000.CR2
+    ├── 20190622_5000.xmp
+    ├── 20190622_5001.CR2
+    ├── 20190622_5001.xmp
+    ├── 20190622_5002.CR2
+    ├── 20190622_5002.xmp
+    ├── 20190622_5003.CR2
+    ├── 20190622_5003.xmp
+    ├── 20190622_5004.CR2
+    ├── 20190622_5004.xmp
+    ├── 20190622_5005.CR2
+    ├── 20190622_5005.xmp
+    ├── 20190622_5006.CR2
+    ├── 20190622_5006.xmp
+    ├── 20190622_5007.xmp
+    ├── 20190622_5008.CR2
+    ├── 20190622_5008.xmp
+    ├── 20190622_5009.CR2
+    ├── 20190622_5009.xmp
+    ├── 20190622_5010.CR2
+    ├── 20190622_5010.xmp
+    ├── 20190622_5011.CR2
+    ├── 20190622_5011.xmp
+    ├── 20190622_5012.CR2
+    ├── 20190622_5012.xmp
+    ├── 20190622_5013.CR2
+    ├── 20190622_5013.xmp
+    ├── 20190622_5014.CR2
+    ├── 20190622_5014.xmp
+    ├── 20190622_5015.CR2
+    ├── 20190622_5016.CR2
+    ├── 20190622_5016.xmp
+    ├── 20190622_5017.CR2
+    ├── 20190622_5017.xmp
+    ├── 20190622_5018.CR2
+    ├── 20190622_5018.xmp
+    ├── 20190622_5019.CR2
+    ├── 20190622_5019.xmp
+    ├── 20190622_5020.CR2
+    ├── 20190622_5020.xmp
+    ├── 20190622_5022.CR2
+    ├── 20190622_5022.xmp
+    ├── 20190622_5025.CR2
+    ├── 20190622_5025.xmp
+    ├── 20190622_5026.CR2
+    ├── 20190622_5026.xmp
+    ├── 20190622_5027.xmp
+    ├── 20190622_5028.CR2
+    ├── 20190622_5028.xmp
+    ├── 20190622_5029.CR2
+    ├── 20190622_5029.xmp
+    ├── 20190622_5032.CR2
+    ├── 20190622_5032.xmp
+    ├── 20190622_5034.CR2
+    ├── 20190622_5034.xmp
+    ├── 20190622_5035.CR2
+    ├── 20190622_5035.xmp
+    ├── 20190622_5036.CR2
+    ├── 20190622_5036.xmp
+    ├── 20190622_5037.CR2
+    ├── 20190622_5037.xmp
+    ├── 20190622_5038.CR2
+    ├── 20190622_5039.CR2
+    ├── 20190622_5039.xmp
+    ├── 20190622_5040.CR2
+    ├── 20190622_5040.xmp
+    ├── 20190622_5041.CR2
+    ├── 20190622_5041.xmp
+    ├── 20190622_5042.CR2
+    ├── 20190622_5042.xmp
+    ├── 20190622_5043.CR2
+    ├── 20190622_5043.xmp
+    ├── 20190622_5044.CR2
+    ├── 20190622_5044.xmp
+    ├── 20190622_5045.CR2
+    ├── 20190622_5045.xmp
+    ├── 20190622_5046.CR2
+    ├── 20190622_5046.xmp
+    ├── 20190622_5047.xmp
+    ├── 20190622_5048.CR2
+    ├── 20190622_5048.xmp
+    ├── 20190622_5049.CR2
+    ├── 20190622_5049.xmp
+    ├── 20190622_5051.CR2
+    ├── 20190622_5051.xmp
+    ├── 20190622_5052.CR2
+    ├── 20190622_5052.xmp
+    ├── 20190622_5053.CR2
+    ├── 20190622_5053.xmp
+    ├── 20190622_5054.CR2
+    ├── 20190622_5054.xmp
+    ├── 20190622_5055.CR2
+    ├── 20190622_5055.xmp
+    ├── 20190622_5056.CR2
+    ├── 20190622_5057.CR2
+    ├── 20190622_5057.xmp
+    ├── 20190622_5058.CR2
+    ├── 20190622_5058.xmp
+    ├── 20190622_5059.CR2
+    ├── 20190622_5059.xmp
+    ├── 20190622_5061.CR2
+    ├── 20190622_5061.xmp
+    ├── 20190622_5062.CR2
+    ├── 20190622_5062.xmp
+    ├── 20190622_5064.CR2
+    ├── 20190622_5064.xmp
+    ├── 20190622_5065.CR2
+    ├── 20190622_5065.xmp
+    ├── 20190622_5066.CR2
+    ├── 20190622_5066.xmp
+    ├── 20190622_5067.xmp
+    ├── 20190622_5068.CR2
+    ├── 20190622_5068.xmp
+    ├── 20190622_5069.CR2
+    ├── 20190622_5069.xmp
+    ├── 20190622_5070.CR2
+    ├── 20190622_5070.xmp
+    ├── 20190622_5071.CR2
+    ├── 20190622_5071.xmp
+    ├── 20190622_5072.CR2
+    ├── 20190622_5072.xmp
+    ├── 20190622_5073.CR2
+    ├── 20190622_5073.xmp
+    ├── 20190622_5074.CR2
+    ├── 20190622_5074.xmp
+    ├── 20190622_5075.CR2
+    ├── 20190622_4961.CR2
+    ├── 20190622_4961.xmp
+    ├── 20190622_4962.CR2
+    ├── 20190622_4962.xmp
+    ├── 20190622_4963.CR2
+    ├── 20190622_4963.xmp
+    ├── 20190622_4964.CR2
+    ├── 20190622_4964.xmp
+    ├── 20190622_4965.CR2
+    ├── 20190622_4965.xmp
+    ├── 20190622_4966.CR2
+    ├── 20190622_4966.xmp
+    ├── 20190622_4967.CR2
+    ├── 20190622_4967.xmp
+    ├── 20190622_5076.CR2
+    ├── 20190622_5076.xmp
+    ├── 20190622_5077.CR2
+    ├── 20190622_5077.xmp
+    ├── 20190622_5078.CR2
+    ├── 20190622_5078.xmp
+    ├── 20190622_5079.CR2
+    ├── 20190622_5079.xmp
+    ├── 20190622_5080.CR2
+    ├── 20190622_5080.xmp
+    ├── 20190622_5081.CR2
+    ├── 20190622_5081.xmp
+    ├── 20190622_5082.CR2
+    ├── 20190622_5082.xmp
+    ├── 20190622_5084.CR2
+    ├── 20190622_5084.xmp
+    ├── 20190622_5085.xmp
+    ├── 20190622_5086.CR2
+    ├── 20190622_5086.xmp
+    ├── 20190622_5087.CR2
+    ├── 20190622_5087.xmp
+    ├── 20190622_5088.CR2
+    ├── 20190622_5088.xmp
+    ├── 20190622_5089.CR2
+    ├── 20190622_5089.xmp
+    ├── 20190622_5090.CR2
+    ├── 20190622_5090.xmp
+    ├── 20190622_5091.CR2
+    ├── 20190622_5091.xmp
+    ├── 20190622_5092.CR2
+    ├── 20190622_5092.xmp
+    ├── 20190622_5093.CR2
+    ├── 20190622_5094.CR2
+    ├── 20190622_5094.xmp
+    ├── 20190622_5095.CR2
+    ├── 20190622_5095.xmp
+    ├── 20190622_5096.CR2
+    ├── 20190622_5096.xmp
+    ├── 20190622_5098.CR2
+    ├── 20190622_5098.xmp
+    ├── 20190622_5099.CR2
+    ├── 20190622_5099.xmp
+    ├── 20190622_5100.CR2
+    ├── 20190622_5100.xmp
+    ├── 20190622_5101.CR2
+    ├── 20190622_5101.xmp
+    ├── 20190622_5102.CR2
+    ├── 20190622_5102.xmp
+    ├── 20190622_5103.xmp
+    ├── 20190622_5104.CR2
+    ├── 20190622_5104.xmp
+    ├── 20190622_5105.CR2
+    ├── 20190622_5105.xmp
+    ├── 20190622_5106.CR2
+    ├── 20190622_5106.xmp
+    ├── 20190622_5109.CR2
+    ├── 20190622_5109.xmp
+    ├── 20190622_5110.CR2
+    ├── 20190622_5110.xmp
+    ├── 20190622_5111.CR2
+    ├── 20190622_5111.xmp
+    ├── 20190622_5112.CR2
+    ├── 20190622_5112.xmp
+    ├── 20190622_5113.CR2
+    ├── 20190623_4949.CR2
+    ├── 20190623_4949.xmp
+    ├── 20190623_4950.CR2
+    ├── 20190623_4950.xmp
+    ├── 20190623_4951.CR2
+    ├── 20190623_4951.xmp
+    ├── 20190623_4953.CR2
+    ├── 20190623_4953.xmp
+    ├── 20190623_4954.CR2
+    ├── 20190623_4954.xmp
+    ├── 20190623_4955.CR2
+    ├── 20190623_4955.xmp
+    ├── 20190623_4956.CR2
+    ├── 20190623_4956.xmp
+    ├── 20190623_4957.CR2
+    ├── 20190623_4957.xmp
+    ├── 20190623_4958.CR2
+    ├── 20190623_4958.xmp
+    ├── 20190623_4959.CR2
+    └── 20190623_4959.xmp
+20190623_Regatta
+├── PasticheRegatta_01.jpg
+├── PasticheRegatta_02.jpg
+├── PasticheRegatta_03.jpg
+├── PasticheRegatta_04.jpg
+├── PasticheRegatta_05.jpg
+├── PasticheRegatta_06.jpg
+├── PasticheRegatta_07.jpg
+├── PasticheRegatta_23.jpg
+├── PasticheRegatta_08.jpg
+├── PasticheRegatta_09.jpg
+├── PasticheRegatta_10.jpg
+├── PasticheRegatta_11.jpg
+├── PasticheRegatta_12.jpg
+├── PasticheRegatta_13.jpg
+├── PasticheRegatta_14.jpg
+├── PasticheRegatta_15.jpg
+├── PasticheRegatta_16.jpg
+├── PasticheRegatta_17.jpg
+├── PasticheRegatta_18.jpg
+├── PasticheRegatta_19.jpg
+├── PasticheRegatta_20.jpg
+├── PasticheRegatta_21.jpg
+├── PasticheRegatta_22.jpg
+├── .BridgeSort
+├── PasticheRegatta_24.jpg
+├── PasticheRegatta_25.jpg
+├── PasticheRegatta_26.jpg
+├── PasticheRegatta_27.jpg
+├── PasticheRegatta_28.jpg
+├── PasticheRegatta_29.jpg
+├── PasticheRegatta_30.jpg
+├── PasticheRegatta_31.jpg
+├── PasticheRegatta_32.jpg
+├── PasticheRegatta_33.jpg
+├── PasticheRegatta_34.jpg
+├── PasticheRegatta_35.jpg
+├── PasticheRegatta_36.jpg
+├── PasticheRegatta_37.jpg
+├── PasticheRegatta_38.jpg
+├── PasticheRegatta_39.jpg
+├── PasticheRegatta_40.jpg
+├── PasticheRegatta_41.jpg
+├── PasticheRegatta_42.jpg
+├── PasticheRegatta_43.jpg
+└── RAW
+    ├── 20190623_4960.CTG
+    ├── 20190623_5114.CR2
+    ├── 20190623_5114.xmp
+    ├── 20190623_5116.CR2
+    ├── 20190623_5116.xmp
+    ├── 20190623_5117.CR2
+    ├── 20190623_5117.xmp
+    ├── 20190623_5118.CR2
+    ├── 20190623_5118.xmp
+    ├── 20190623_5119.CR2
+    ├── 20190623_5119.xmp
+    ├── 20190623_5120.CR2
+    ├── 20190623_5120.xmp
+    ├── 20190623_5121.CR2
+    ├── 20190623_5121.xmp
+    ├── 20190623_5122.CR2
+    ├── 20190623_5123.CR2
+    ├── 20190623_5123.xmp
+    ├── 20190623_5124.CR2
+    ├── 20190623_5124.xmp
+    ├── 20190623_5125.CR2
+    ├── 20190623_5125.xmp
+    ├── 20190623_5126.CR2
+    ├── 20190623_5126.xmp
+    ├── 20190623_5127.CR2
+    ├── 20190623_5127.xmp
+    ├── 20190623_5128.CR2
+    ├── 20190623_5128.xmp
+    ├── 20190623_5129.CR2
+    ├── 20190623_5129.xmp
+    ├── 20190623_5131.CR2
+    ├── 20190623_5131.xmp
+    ├── 20190623_5132.xmp
+    ├── 20190623_5133.CR2
+    ├── 20190623_5133.xmp
+    ├── 20190623_5134.CR2
+    ├── 20190623_5134.xmp
+    ├── 20190623_5135.CR2
+    ├── 20190623_5135.xmp
+    ├── 20190623_5136.CR2
+    ├── 20190623_5136.xmp
+    ├── 20190623_5137.CR2
+    ├── 20190623_5137.xmp
+    ├── 20190623_5138.CR2
+    ├── 20190623_5138.xmp
+    ├── 20190623_5139.CR2
+    ├── 20190623_5139.xmp
+    ├── 20190623_5140.CR2
+    ├── 20190623_5141.CR2
+    ├── 20190623_5141.xmp
+    ├── 20190623_5142.CR2
+    ├── 20190623_5142.xmp
+    ├── 20190623_5143.CR2
+    ├── 20190623_5143.xmp
+    ├── 20190623_5144.CR2
+    ├── 20190623_5144.xmp
+    ├── 20190623_5146.CR2
+    ├── 20190623_5146.xmp
+    ├── 20190623_5147.CR2
+    ├── 20190623_5147.xmp
+    ├── 20190623_5148.CR2
+    ├── 20190623_5148.xmp
+    ├── 20190623_5150.CR2
+    ├── 20190623_5150.xmp
+    ├── 20190623_5122.xmp
+    ├── 20190623_5132.CR2
+    ├── 20190623_5140.xmp
+    ├── 20190623_5151.CR2
+    ├── 20190623_5151.xmp
+    ├── 20190623_5152.CR2
+    ├── 20190623_5153.CR2
+    ├── 20190623_5153.xmp
+    ├── 20190623_5154.CR2
+    ├── 20190623_5154.xmp
+    ├── 20190623_5155.CR2
+    ├── 20190623_5155.xmp
+    ├── 20190623_5156.CR2
+    ├── 20190623_5156.xmp
+    ├── 20190623_5157.CR2
+    ├── 20190623_5157.xmp
+    ├── 20190623_5158.CR2
+    ├── 20190623_5158.xmp
+    ├── 20190623_5160.CR2
+    ├── 20190623_5160.xmp
+    ├── 20190623_5161.CR2
+    ├── 20190623_5161.xmp
+    └── 20190623_5162.CTG
+20190630_PrideDay
+├── .BridgeSort
+├── PrideDay_01.jpg
+├── PrideDay_02.jpg
+├── PrideDay_03.jpg
+├── PrideDay_04.jpg
+├── PrideDay_05.jpg
+├── PrideDay_06.jpg
+├── PrideDay_07.jpg
+├── PrideDay_08.jpg
+├── PrideDay_09.jpg
+├── PrideDay_10.jpg
+├── PrideDay_11.jpg
+├── PrideDay_12.jpg
+├── PrideDay_13.jpg
+├── PrideDay_14.jpg
+├── PrideDay_15.jpg
+├── PrideDay_16.jpg
+├── PrideDay_17.jpg
+├── PrideDay_18.jpg
+├── PrideDay_19.jpg
+├── PrideDay_20.jpg
+├── PrideDay_21.jpg
+├── PrideDay_22.jpg
+├── PrideDay_23.jpg
+├── PrideDay_24.jpg
+├── PrideDay_25.jpg
+├── PrideDay_26.jpg
+├── PrideDay_27.jpg
+├── PrideDay_28.jpg
+├── PrideDay_29.jpg
+├── PrideDay_30.jpg
+└── RAW
+    ├── 20190630_5164.CR2
+    ├── 20190630_5164.xmp
+    ├── 20190630_5165.CR2
+    ├── 20190630_5165.xmp
+    ├── 20190630_5166.CR2
+    ├── 20190630_5166.xmp
+    ├── 20190630_5167.CR2
+    ├── 20190630_5167.xmp
+    ├── 20190630_5168.CR2
+    ├── 20190630_5168.xmp
+    ├── 20190630_5169.CR2
+    ├── 20190630_5169.xmp
+    ├── 20190630_5170.CR2
+    ├── 20190630_5171.CR2
+    ├── 20190630_5171.xmp
+    ├── 20190630_5173.CR2
+    ├── 20190630_5173.xmp
+    ├── 20190630_5174.CR2
+    ├── 20190630_5174.xmp
+    ├── 20190630_5175.CR2
+    ├── 20190630_5175.xmp
+    ├── 20190630_5177.CR2
+    ├── 20190630_5177.xmp
+    ├── 20190630_5178.CR2
+    ├── 20190630_5178.xmp
+    ├── 20190630_5179.CR2
+    ├── 20190630_5179.xmp
+    ├── 20190630_5180.CR2
+    ├── 20190630_5180.xmp
+    ├── 20190630_5181.xmp
+    ├── 20190630_5182.CR2
+    ├── 20190630_5182.xmp
+    ├── 20190630_5184.CR2
+    ├── 20190630_5184.xmp
+    ├── 20190630_5186.CR2
+    ├── 20190630_5186.xmp
+    ├── 20190630_5187.CR2
+    ├── 20190630_5187.xmp
+    ├── 20190630_5188.CR2
+    ├── 20190630_5188.xmp
+    ├── 20190630_5189.CR2
+    ├── 20190630_5189.xmp
+    ├── 20190630_5192.CR2
+    ├── 20190630_5192.xmp
+    ├── 20190630_5193.CR2
+    ├── 20190630_5194.xmp
+    ├── 20190630_5195.CR2
+    ├── 20190630_5195.xmp
+    ├── 20190630_5196.CR2
+    ├── 20190630_5196.xmp
+    ├── 20190630_5197.CR2
+    ├── 20190630_5197.xmp
+    ├── 20190630_5198.CR2
+    ├── 20190630_5198.xmp
+    ├── 20190630_5199.CR2
+    ├── 20190630_5199.xmp
+    ├── 20190630_5201.CTG
+    ├── 20190630_5170.xmp
+    ├── 20190630_5181.CR2
+    └── 20190630_5194.CR2
+20190704_Views
+├── .BridgeSort
+├── RAW
+│   ├── 20190704_5209.xmp
+│   ├── 20190704_5218.CR2
+│   ├── 20190704_5202.CR2
+│   ├── 20190704_5202.xmp
+│   ├── 20190704_5203.CR2
+│   ├── 20190704_5203.xmp
+│   ├── 20190704_5204.CR2
+│   ├── 20190704_5204.xmp
+│   ├── 20190704_5205.CR2
+│   ├── 20190704_5205.xmp
+│   ├── 20190704_5206.CR2
+│   ├── 20190704_5206.xmp
+│   ├── 20190704_5207.CR2
+│   ├── 20190704_5207.xmp
+│   ├── 20190704_5208.CR2
+│   ├── 20190704_5208.xmp
+│   ├── 20190704_5209.CR2
+│   ├── 20190704_5210.CR2
+│   ├── 20190704_5210.xmp
+│   ├── 20190704_5211.CR2
+│   ├── 20190704_5211.xmp
+│   ├── 20190704_5212.CR2
+│   ├── 20190704_5212.xmp
+│   ├── 20190704_5213.CR2
+│   ├── 20190704_5213.xmp
+│   ├── 20190704_5214.CR2
+│   ├── 20190704_5214.xmp
+│   ├── 20190704_5215.CR2
+│   ├── 20190704_5215.xmp
+│   ├── 20190704_5216.CR2
+│   ├── 20190704_5216.xmp
+│   ├── 20190704_5217.CR2
+│   ├── 20190704_5217.xmp
+│   ├── 20190704_5218.xmp
+│   ├── 20190704_5219.CR2
+│   ├── 20190704_5219.xmp
+│   ├── 20190704_5220.CR2
+│   ├── 20190704_5220.xmp
+│   ├── 20190704_5222.CR2
+│   ├── 20190704_5222.xmp
+│   ├── 20190704_5224.CR2
+│   ├── 20190704_5224.xmp
+│   ├── 20190704_5227.CR2
+│   ├── 20190704_5227.xmp
+│   └── 20190704_5228.CTG
+├── views_01.jpg
+├── views_02.jpg
+├── views_03.jpg
+├── views_04.jpg
+├── views_05.jpg
+├── views_06.jpg
+├── views_07.jpg
+├── views_08.jpg
+├── views_09.jpg
+├── views_10.jpg
+├── views_11.jpg
+├── views_12.jpg
+├── views_13.jpg
+├── views_14.jpg
+├── views_15.jpg
+├── views_16.jpg
+├── views_17.jpg
+├── views_18.jpg
+├── views_19.jpg
+├── views_20.jpg
+├── views_21.jpg
+└── views_22.jpg
+20190804_WhitePicnic
+├── greenCardPicnic_009.jpg
+├── greenCardPicnic_010.jpg
+├── greenCardPicnic_011.jpg
+├── greenCardPicnic_012.jpg
+├── greenCardPicnic_013.jpg
+├── greenCardPicnic_014.jpg
+├── greenCardPicnic_015.jpg
+├── greenCardPicnic_016.jpg
+├── greenCardPicnic_017.jpg
+├── greenCardPicnic_018.jpg
+├── greenCardPicnic_019.jpg
+├── greenCardPicnic_020.jpg
+├── greenCardPicnic_021.jpg
+├── greenCardPicnic_022.jpg
+├── greenCardPicnic_023.jpg
+├── greenCardPicnic_025.jpg
+├── greenCardPicnic_026.jpg
+├── greenCardPicnic_027.jpg
+├── greenCardPicnic_028.jpg
+├── greenCardPicnic_029.jpg
+├── greenCardPicnic_030.jpg
+├── greenCardPicnic_031.jpg
+├── greenCardPicnic_032.jpg
+├── greenCardPicnic_033.jpg
+├── greenCardPicnic_034.jpg
+├── greenCardPicnic_035.jpg
+├── greenCardPicnic_036.jpg
+├── greenCardPicnic_037.jpg
+├── greenCardPicnic_038.jpg
+├── greenCardPicnic_039.jpg
+├── greenCardPicnic_041.jpg
+├── greenCardPicnic_042.jpg
+├── greenCardPicnic_043.jpg
+├── greenCardPicnic_044.jpg
+├── greenCardPicnic_045.jpg
+├── greenCardPicnic_046.jpg
+├── greenCardPicnic_047.jpg
+├── greenCardPicnic_048.jpg
+├── greenCardPicnic_049.jpg
+├── greenCardPicnic_050.jpg
+├── greenCardPicnic_051.jpg
+├── greenCardPicnic_052.jpg
+├── greenCardPicnic_053.jpg
+├── greenCardPicnic_054.jpg
+├── greenCardPicnic_055.jpg
+├── greenCardPicnic_057.jpg
+├── greenCardPicnic_058.jpg
+├── greenCardPicnic_059.jpg
+├── greenCardPicnic_060.jpg
+├── greenCardPicnic_061.jpg
+├── greenCardPicnic_062.jpg
+├── greenCardPicnic_063.jpg
+├── greenCardPicnic_064.jpg
+├── greenCardPicnic_065.jpg
+├── greenCardPicnic_066.jpg
+├── greenCardPicnic_067.jpg
+├── greenCardPicnic_068.jpg
+├── greenCardPicnic_069.jpg
+├── greenCardPicnic_070.jpg
+├── greenCardPicnic_071.jpg
+├── greenCardPicnic_073.jpg
+├── greenCardPicnic_074.jpg
+├── greenCardPicnic_075.jpg
+├── greenCardPicnic_076.jpg
+├── greenCardPicnic_077.jpg
+├── greenCardPicnic_078.jpg
+├── greenCardPicnic_079.jpg
+├── greenCardPicnic_080.jpg
+├── greenCardPicnic_081.jpg
+├── greenCardPicnic_082.jpg
+├── greenCardPicnic_083.jpg
+├── greenCardPicnic_084.jpg
+├── greenCardPicnic_085.jpg
+├── greenCardPicnic_086.jpg
+├── greenCardPicnic_087.jpg
+├── greenCardPicnic_089.jpg
+├── greenCardPicnic_090.jpg
+├── greenCardPicnic_091.jpg
+├── greenCardPicnic_092.jpg
+├── greenCardPicnic_093.jpg
+├── greenCardPicnic_093_abr.jpg
+├── greenCardPicnic_094.jpg
+├── greenCardPicnic_094_abr.jpg
+├── greenCardPicnic_095.jpg
+├── greenCardPicnic_096.jpg
+├── greenCardPicnic_097.jpg
+├── greenCardPicnic_098.jpg
+├── greenCardPicnic_099.jpg
+├── greenCardPicnic_100.jpg
+├── greenCardPicnic_101.jpg
+├── greenCardPicnic_102.jpg
+├── greenCardPicnic_103.jpg
+├── greenCardPicnic_001.jpg
+├── greenCardPicnic_002.jpg
+├── greenCardPicnic_003.jpg
+├── greenCardPicnic_004.jpg
+├── greenCardPicnic_005.jpg
+├── greenCardPicnic_006.jpg
+├── greenCardPicnic_007.jpg
+├── greenCardPicnic_105.jpg
+├── greenCardPicnic_106.jpg
+├── greenCardPicnic_107.jpg
+├── greenCardPicnic_108.jpg
+├── greenCardPicnic_109.jpg
+├── greenCardPicnic_110.jpg
+├── greenCardPicnic_111.jpg
+├── greenCardPicnic_112.jpg
+├── greenCardPicnic_113.jpg
+├── greenCardPicnic_114.jpg
+├── greenCardPicnic_115.jpg
+├── greenCardPicnic_116.jpg
+├── greenCardPicnic_117.jpg
+├── greenCardPicnic_118.jpg
+├── greenCardPicnic_119.jpg
+├── .BridgeSort
+├── greenCardPicnic_121.jpg
+├── greenCardPicnic_122.jpg
+├── greenCardPicnic_123.jpg
+├── greenCardPicnic_124.jpg
+├── profilepic.jpg
+├── RAW
+│   ├── 20190804_5240.CR2
+│   ├── 20190804_5240.xmp
+│   ├── 20190804_5242.CR2
+│   ├── 20190804_5242.xmp
+│   ├── 20190804_5243.CR2
+│   ├── 20190804_5243.xmp
+│   ├── 20190804_5244.CR2
+│   ├── 20190804_5244.xmp
+│   ├── 20190804_5245.CR2
+│   ├── 20190804_5245.xmp
+│   ├── 20190804_5246.CR2
+│   ├── 20190804_5246.xmp
+│   ├── 20190804_5247.CR2
+│   ├── 20190804_5247.xmp
+│   ├── 20190804_5248.CR2
+│   ├── 20190804_5248.xmp
+│   ├── 20190804_5249.xmp
+│   ├── 20190804_5250.CR2
+│   ├── 20190804_5250.xmp
+│   ├── 20190804_5252.CR2
+│   ├── 20190804_5252.xmp
+│   ├── 20190804_5253.CR2
+│   ├── 20190804_5253.xmp
+│   ├── 20190804_5254.CR2
+│   ├── 20190804_5254.xmp
+│   ├── 20190804_5255.CR2
+│   ├── 20190804_5255.xmp
+│   ├── 20190804_5256.CR2
+│   ├── 20190804_5256.xmp
+│   ├── 20190804_5258.CR2
+│   ├── 20190804_5258.xmp
+│   ├── 20190804_5259.CR2
+│   ├── 20190804_5260.CR2
+│   ├── 20190804_5260.xmp
+│   ├── 20190804_5261.CR2
+│   ├── 20190804_5261.xmp
+│   ├── 20190804_5262.CR2
+│   ├── 20190804_5262.xmp
+│   ├── 20190804_5265.CR2
+│   ├── 20190804_5265.xmp
+│   ├── 20190804_5267.CR2
+│   ├── 20190804_5267.xmp
+│   ├── 20190804_5268.CR2
+│   ├── 20190804_5268.xmp
+│   ├── 20190804_5269.CR2
+│   ├── 20190804_5269.xmp
+│   ├── 20190804_5270.CR2
+│   ├── 20190804_5270.xmp
+│   ├── 20190804_5239.xmp
+│   ├── 20190804_5249.CR2
+│   ├── 20190804_5259.xmp
+│   ├── 20190804_5272.CR2
+│   ├── 20190804_5282.xmp
+│   ├── 20190804_5294.CR2
+│   ├── 20190804_5303.xmp
+│   ├── 20190804_5314.CR2
+│   ├── 20190804_5326.xmp
+│   ├── 20190804_5336.CR2
+│   ├── 20190804_5344.xmp
+│   ├── 20190804_5354.CR2
+│   ├── 20190804_5363.xmp
+│   ├── 20190804_5375.CR2
+│   ├── 20190804_5272.xmp
+│   ├── 20190804_5274.CR2
+│   ├── 20190804_5274.xmp
+│   ├── 20190804_5275.CR2
+│   ├── 20190804_5275.xmp
+│   ├── 20190804_5277.CR2
+│   ├── 20190804_5277.xmp
+│   ├── 20190804_5278.CR2
+│   ├── 20190804_5278.xmp
+│   ├── 20190804_5279.CR2
+│   ├── 20190804_5279.xmp
+│   ├── 20190804_5280.CR2
+│   ├── 20190804_5280.xmp
+│   ├── 20190804_5281.CR2
+│   ├── 20190804_5281.xmp
+│   ├── 20190804_5282.CR2
+│   ├── 20190804_5283.CR2
+│   ├── 20190804_5283.xmp
+│   ├── 20190804_5284.CR2
+│   ├── 20190804_5284.xmp
+│   ├── 20190804_5285.CR2
+│   ├── 20190804_5285.xmp
+│   ├── 20190804_5288.CR2
+│   ├── 20190804_5288.xmp
+│   ├── 20190804_5290.CR2
+│   ├── 20190804_5290.xmp
+│   ├── 20190804_5291.CR2
+│   ├── 20190804_5291.xmp
+│   ├── 20190804_5292.CR2
+│   ├── 20190804_5292.xmp
+│   ├── 20190804_5293.CR2
+│   ├── 20190804_5293.xmp
+│   ├── 20190804_5294.xmp
+│   ├── 20190804_5295.CR2
+│   ├── 20190804_5295.xmp
+│   ├── 20190804_5296.CR2
+│   ├── 20190804_5296.xmp
+│   ├── 20190804_5297.CR2
+│   ├── 20190804_5297.xmp
+│   ├── 20190804_5298.CR2
+│   ├── 20190804_5298.xmp
+│   ├── 20190804_5300.CR2
+│   ├── 20190804_5300.xmp
+│   ├── 20190804_5301.CR2
+│   ├── 20190804_5301.xmp
+│   ├── 20190804_5302.CR2
+│   ├── 20190804_5302.xmp
+│   ├── 20190804_5303.CR2
+│   ├── 20190804_5304.CR2
+│   ├── 20190804_5304.xmp
+│   ├── 20190804_5307.CR2
+│   ├── 20190804_5307.xmp
+│   ├── 20190804_5308.CR2
+│   ├── 20190804_5308.xmp
+│   ├── 20190804_5309.CR2
+│   ├── 20190804_5309.xmp
+│   ├── 20190804_5310.CR2
+│   ├── 20190804_5310.xmp
+│   ├── 20190804_5311.CR2
+│   ├── 20190804_5311.xmp
+│   ├── 20190804_5312.CR2
+│   ├── 20190804_5312.xmp
+│   ├── 20190804_5313.CR2
+│   ├── 20190804_5313.xmp
+│   ├── 20190804_5314.xmp
+│   ├── 20190804_5315.CR2
+│   ├── 20190804_5315.xmp
+│   ├── 20190804_5316.CR2
+│   ├── 20190804_5316.xmp
+│   ├── 20190804_5317.CR2
+│   ├── 20190804_5317.xmp
+│   ├── 20190804_5318.CR2
+│   ├── 20190804_5318.xmp
+│   ├── 20190804_5319.CR2
+│   ├── 20190804_5319.xmp
+│   ├── 20190804_5323.CR2
+│   ├── 20190804_5323.xmp
+│   ├── 20190804_5324.CR2
+│   ├── 20190804_5324.xmp
+│   ├── 20190804_5326.CR2
+│   ├── 20190804_5327.CR2
+│   ├── 20190804_5327.xmp
+│   ├── 20190804_5328.CR2
+│   ├── 20190804_5328.xmp
+│   ├── 20190804_5330.CR2
+│   ├── 20190804_5330.xmp
+│   ├── 20190804_5331.CR2
+│   ├── 20190804_5331.xmp
+│   ├── 20190804_5332.CR2
+│   ├── 20190804_5332.xmp
+│   ├── 20190804_5333.CR2
+│   ├── 20190804_5333.xmp
+│   ├── 20190804_5334.CR2
+│   ├── 20190804_5334.xmp
+│   ├── 20190804_5335.CR2
+│   ├── 20190804_5335.xmp
+│   ├── 20190804_5336.xmp
+│   ├── 20190804_5337.CR2
+│   ├── 20190804_5337.xmp
+│   ├── 20190804_5338.CR2
+│   ├── 20190804_5338.xmp
+│   ├── 20190804_5339.CR2
+│   ├── 20190804_5339.xmp
+│   ├── 20190804_5340.CR2
+│   ├── 20190804_5340.xmp
+│   ├── 20190804_5341.CR2
+│   ├── 20190804_5341.xmp
+│   ├── 20190804_5342.CR2
+│   ├── 20190804_5342.xmp
+│   ├── 20190804_5343.CR2
+│   ├── 20190804_5343.xmp
+│   ├── 20190804_5344.CR2
+│   ├── 20190804_5345.CR2
+│   ├── 20190804_5345.xmp
+│   ├── 20190804_5346.CR2
+│   ├── 20190804_5346.xmp
+│   ├── 20190804_5347.CR2
+│   ├── 20190804_5347.xmp
+│   ├── 20190804_5348.CR2
+│   ├── 20190804_5348.xmp
+│   ├── 20190804_5349.CR2
+│   ├── 20190804_5349.xmp
+│   ├── 20190804_5350.CR2
+│   ├── 20190804_5350.xmp
+│   ├── 20190804_5351.CR2
+│   ├── 20190804_5351.xmp
+│   ├── 20190804_5352.CR2
+│   ├── 20190804_5352.xmp
+│   ├── 20190804_5230.CR2
+│   ├── 20190804_5230.xmp
+│   ├── 20190804_5231.CR2
+│   ├── 20190804_5231.xmp
+│   ├── 20190804_5232.CR2
+│   ├── 20190804_5232.xmp
+│   ├── 20190804_5233.CR2
+│   ├── 20190804_5233.xmp
+│   ├── 20190804_5234.CR2
+│   ├── 20190804_5234.xmp
+│   ├── 20190804_5235.CR2
+│   ├── 20190804_5235.xmp
+│   ├── 20190804_5236.CR2
+│   ├── 20190804_5236.xmp
+│   ├── 20190804_5239.CR2
+│   ├── 20190804_5354.xmp
+│   ├── 20190804_5355.CR2
+│   ├── 20190804_5355.xmp
+│   ├── 20190804_5356.CR2
+│   ├── 20190804_5356.xmp
+│   ├── 20190804_5358.CR2
+│   ├── 20190804_5358.xmp
+│   ├── 20190804_5359.CR2
+│   ├── 20190804_5359.xmp
+│   ├── 20190804_5360.CR2
+│   ├── 20190804_5360.xmp
+│   ├── 20190804_5361.CR2
+│   ├── 20190804_5361.xmp
+│   ├── 20190804_5362.CR2
+│   ├── 20190804_5362.xmp
+│   ├── 20190804_5363.CR2
+│   ├── 20190804_5364.CR2
+│   ├── 20190804_5364.xmp
+│   ├── 20190804_5366.CR2
+│   ├── 20190804_5366.xmp
+│   ├── 20190804_5367.CR2
+│   ├── 20190804_5367.xmp
+│   ├── 20190804_5368.CR2
+│   ├── 20190804_5368.xmp
+│   ├── 20190804_5370.CR2
+│   ├── 20190804_5370.xmp
+│   ├── 20190804_5371.CR2
+│   ├── 20190804_5371.xmp
+│   ├── 20190804_5372.CR2
+│   ├── 20190804_5372.xmp
+│   ├── 20190804_5373.CR2
+│   ├── 20190804_5373.xmp
+│   ├── 20190804_5375.xmp
+│   ├── 20190804_5376.CR2
+│   ├── 20190804_5376.xmp
+│   ├── 20190804_5377.CR2
+│   ├── 20190804_5377.xmp
+│   ├── 20190804_5378.CR2
+│   ├── 20190804_5378.xmp
+│   ├── 20190804_5379.CR2
+│   ├── 20190804_5379.xmp
+│   ├── 20190804_5380.CR2
+│   ├── 20190804_5380.xmp
+│   └── 20190804_5381.CTG
+├── greenCardPicnic_008.jpg
+├── greenCardPicnic_024.jpg
+├── greenCardPicnic_040.jpg
+├── greenCardPicnic_056.jpg
+├── greenCardPicnic_072.jpg
+├── greenCardPicnic_088.jpg
+├── greenCardPicnic_104.jpg
+└── greenCardPicnic_120.jpg
+20190816_FireIsland1
+├── .BridgeSort
+├── FireIslandDay1_007.jpg
+├── FireIslandDay1_008.jpg
+├── FireIslandDay1_009.jpg
+├── FireIslandDay1_010.jpg
+├── FireIslandDay1_011.jpg
+├── FireIslandDay1_012.jpg
+├── FireIslandDay1_013.jpg
+├── FireIslandDay1_014.jpg
+├── FireIslandDay1_015.jpg
+├── FireIslandDay1_016.jpg
+├── FireIslandDay1_017.jpg
+├── FireIslandDay1_018.jpg
+├── FireIslandDay1_019.jpg
+├── FireIslandDay1_020.jpg
+├── FireIslandDay1_021.jpg
+├── FireIslandDay1_006.jpg
+├── FireIslandDay1_022.jpg
+├── FireIslandDay1_038.jpg
+├── FireIslandDay1_023.jpg
+├── FireIslandDay1_024.jpg
+├── FireIslandDay1_025.jpg
+├── FireIslandDay1_026.jpg
+├── FireIslandDay1_027.jpg
+├── FireIslandDay1_028.jpg
+├── FireIslandDay1_029.jpg
+├── FireIslandDay1_030.jpg
+├── FireIslandDay1_031.jpg
+├── FireIslandDay1_032.jpg
+├── FireIslandDay1_033.jpg
+├── FireIslandDay1_034.jpg
+├── FireIslandDay1_035.jpg
+├── FireIslandDay1_036.jpg
+├── FireIslandDay1_037.jpg
+├── FireIslandDay1_001.jpg
+├── FireIslandDay1_002.jpg
+├── FireIslandDay1_003.jpg
+├── FireIslandDay1_004.jpg
+├── FireIslandDay1_005.jpg
+├── FireIslandDay1_039.jpg
+├── FireIslandDay1_040.jpg
+├── FireIslandDay1_041.jpg
+├── FireIslandDay1_042.jpg
+├── FireIslandDay1_043.jpg
+├── FireIslandDay1_044.jpg
+├── FireIslandDay1_045.jpg
+├── FireIslandDay1_046.jpg
+├── FireIslandDay1_047.jpg
+├── FireIslandDay1_048.jpg
+├── FireIslandDay1_049.jpg
+├── FireIslandDay1_050.jpg
+├── FireIslandDay1_051.jpg
+├── FireIslandDay1_052.jpg
+├── FireIslandDay1_053.jpg
+├── FireIslandDay1_054.jpg
+├── FireIslandDay1_055.jpg
+├── FireIslandDay1_056.jpg
+├── FireIslandDay1_057.jpg
+├── FireIslandDay1_058.jpg
+├── FireIslandDay1_059.jpg
+├── FireIslandDay1_060.jpg
+├── FireIslandDay1_061.jpg
+├── FireIslandDay1_062.jpg
+└── RAW
+    ├── IMG_9718.CR2
+    ├── IMG_9718.xmp
+    ├── IMG_9719.CR2
+    ├── IMG_9719.xmp
+    ├── IMG_9720.CR2
+    ├── IMG_9720.xmp
+    ├── IMG_9722.CR2
+    ├── IMG_9722.xmp
+    ├── IMG_9723.CR2
+    ├── IMG_9723.xmp
+    ├── IMG_9725.CR2
+    ├── IMG_9725.xmp
+    ├── IMG_9726.CR2
+    ├── IMG_9726.xmp
+    ├── IMG_9727.CR2
+    ├── IMG_9727.xmp
+    ├── IMG_9728.CR2
+    ├── IMG_9729.CR2
+    ├── IMG_9729.xmp
+    ├── IMG_9731.CR2
+    ├── IMG_9731.xmp
+    ├── IMG_9732.CR2
+    ├── IMG_9732.xmp
+    ├── IMG_9733.CR2
+    ├── IMG_9733.xmp
+    ├── IMG_9734.CR2
+    ├── IMG_9734.xmp
+    ├── IMG_9735.CR2
+    ├── IMG_9735.xmp
+    ├── IMG_9736.CR2
+    ├── IMG_9736.xmp
+    ├── IMG_9738.CR2
+    ├── IMG_9738.xmp
+    ├── IMG_9739.CR2
+    ├── IMG_9740.CR2
+    ├── IMG_9740.xmp
+    ├── IMG_9741.CR2
+    ├── IMG_9741.xmp
+    ├── IMG_9742.CR2
+    ├── IMG_9742.xmp
+    ├── IMG_9743.CR2
+    ├── IMG_9743.xmp
+    ├── IMG_9745.CR2
+    ├── IMG_9745.xmp
+    ├── IMG_9746.CR2
+    ├── IMG_9746.xmp
+    ├── IMG_9747.CR2
+    ├── IMG_9747.xmp
+    ├── IMG_9748.CR2
+    ├── IMG_9748.xmp
+    ├── IMG_9749.CR2
+    ├── IMG_9750.CR2
+    ├── IMG_9750.xmp
+    ├── IMG_9751.CR2
+    ├── IMG_9751.xmp
+    ├── IMG_9753.CR2
+    ├── IMG_9753.xmp
+    ├── IMG_9755.CR2
+    ├── IMG_9755.xmp
+    ├── IMG_9757.CR2
+    ├── IMG_9757.xmp
+    ├── IMG_9758.CR2
+    ├── IMG_9758.xmp
+    ├── IMG_9759.CR2
+    ├── IMG_9759.xmp
+    ├── IMG_9763.CR2
+    ├── IMG_9763.xmp
+    ├── IMG_9766.CR2
+    ├── IMG_9770.CR2
+    ├── IMG_9770.xmp
+    ├── IMG_9771.CR2
+    ├── IMG_9771.xmp
+    ├── IMG_9773.CR2
+    ├── IMG_9773.xmp
+    ├── IMG_9774.CR2
+    ├── IMG_9774.xmp
+    ├── IMG_9776.CR2
+    ├── IMG_9776.xmp
+    ├── IMG_9777.CR2
+    ├── IMG_9777.xmp
+    ├── IMG_9779.CR2
+    ├── IMG_9779.xmp
+    ├── IMG_9780.CR2
+    ├── IMG_9780.xmp
+    ├── IMG_9782.CR2
+    ├── IMG_9783.CR2
+    ├── IMG_9783.xmp
+    ├── IMG_9784.CR2
+    ├── IMG_9784.xmp
+    ├── IMG_9785.CR2
+    ├── IMG_9785.xmp
+    ├── IMG_9786.CR2
+    ├── IMG_9786.xmp
+    ├── IMG_9787.CR2
+    ├── IMG_9787.xmp
+    ├── IMG_9788.CR2
+    ├── IMG_9788.xmp
+    ├── IMG_9789.CR2
+    ├── IMG_9789.xmp
+    ├── IMG_9790.CR2
+    ├── IMG_9790.xmp
+    ├── IMG_9791.CR2
+    ├── IMG_9791.xmp
+    ├── IMG_9792.CR2
+    ├── IMG_9792.xmp
+    ├── IMG_9793.CR2
+    ├── IMG_9793.xmp
+    ├── IMG_9797.CR2
+    ├── IMG_9797.xmp
+    ├── IMG_9799.CR2
+    ├── IMG_9799.xmp
+    ├── IMG_9801.CR2
+    ├── IMG_9801.xmp
+    ├── IMG_9802.CR2
+    ├── IMG_9802.xmp
+    ├── IMG_9803.CR2
+    ├── IMG_9803.xmp
+    ├── IMG_9805.CR2
+    ├── IMG_9805.xmp
+    ├── IMG_9728.xmp
+    ├── IMG_9739.xmp
+    ├── IMG_9749.xmp
+    ├── IMG_9766.xmp
+    └── IMG_9782.xmp
+20190817_FireIsland2
+├── .BridgeSort
+├── FireIslandDay2_011.jpg
+├── FireIslandDay2_012.jpg
+├── FireIslandDay2_013.jpg
+├── FireIslandDay2_014.jpg
+├── FireIslandDay2_015.jpg
+├── FireIslandDay2_016.jpg
+├── FireIslandDay2_017.jpg
+├── FireIslandDay2_018.jpg
+├── FireIslandDay2_019.jpg
+├── FireIslandDay2_020.jpg
+├── FireIslandDay2_021.jpg
+├── FireIslandDay2_022.jpg
+├── FireIslandDay2_023.jpg
+├── FireIslandDay2_024.jpg
+├── FireIslandDay2_025.jpg
+├── FireIslandDay2_010.jpg
+├── FireIslandDay2_026.jpg
+├── FireIslandDay2_042.jpg
+├── FireIslandDay2_001.jpg
+├── FireIslandDay2_002.jpg
+├── FireIslandDay2_003.jpg
+├── FireIslandDay2_004.jpg
+├── FireIslandDay2_005.jpg
+├── FireIslandDay2_006.jpg
+├── FireIslandDay2_007.jpg
+├── FireIslandDay2_008.jpg
+├── FireIslandDay2_009.jpg
+├── FireIslandDay2_027.jpg
+├── FireIslandDay2_028.jpg
+├── FireIslandDay2_029.jpg
+├── FireIslandDay2_030.jpg
+├── FireIslandDay2_031.jpg
+├── FireIslandDay2_032.jpg
+├── FireIslandDay2_033.jpg
+├── FireIslandDay2_034.jpg
+├── FireIslandDay2_035.jpg
+├── FireIslandDay2_036.jpg
+├── FireIslandDay2_037.jpg
+├── FireIslandDay2_038.jpg
+├── FireIslandDay2_039.jpg
+├── FireIslandDay2_040.jpg
+├── FireIslandDay2_041.jpg
+├── FireIslandDay2_043.jpg
+├── FireIslandDay2_044.jpg
+├── FireIslandDay2_045.jpg
+├── FireIslandDay2_046.jpg
+├── FireIslandDay2_047.jpg
+├── FireIslandDay2_048.jpg
+├── FireIslandDay2_049.jpg
+├── FireIslandDay2_050.jpg
+├── FireIslandDay2_051.jpg
+├── FireIslandDay2_052.jpg
+├── FireIslandDay2_053.jpg
+├── FireIslandDay2_054.jpg
+└── RAW
+    ├── IMG_9818.xmp
+    ├── IMG_9829.xmp
+    ├── IMG_9840.xmp
+    ├── IMG_9857.xmp
+    ├── IMG_9806.CR2
+    ├── IMG_9806.xmp
+    ├── IMG_9808.CR2
+    ├── IMG_9808.xmp
+    ├── IMG_9809.CR2
+    ├── IMG_9809.xmp
+    ├── IMG_9810.CR2
+    ├── IMG_9810.xmp
+    ├── IMG_9811.CR2
+    ├── IMG_9811.xmp
+    ├── IMG_9812.CR2
+    ├── IMG_9812.xmp
+    ├── IMG_9814.CR2
+    ├── IMG_9814.xmp
+    ├── IMG_9816.CR2
+    ├── IMG_9816.xmp
+    ├── IMG_9818.CR2
+    ├── IMG_9819.CR2
+    ├── IMG_9819.xmp
+    ├── IMG_9820.CR2
+    ├── IMG_9820.xmp
+    ├── IMG_9821.CR2
+    ├── IMG_9821.xmp
+    ├── IMG_9822.CR2
+    ├── IMG_9822.xmp
+    ├── IMG_9824.CR2
+    ├── IMG_9824.xmp
+    ├── IMG_9825.CR2
+    ├── IMG_9825.xmp
+    ├── IMG_9826.CR2
+    ├── IMG_9826.xmp
+    ├── IMG_9828.CR2
+    ├── IMG_9828.xmp
+    ├── IMG_9829.CR2
+    ├── IMG_9830.CR2
+    ├── IMG_9830.xmp
+    ├── IMG_9831.CR2
+    ├── IMG_9831.xmp
+    ├── IMG_9834.CR2
+    ├── IMG_9834.xmp
+    ├── IMG_9835.CR2
+    ├── IMG_9835.xmp
+    ├── IMG_9836.CR2
+    ├── IMG_9836.xmp
+    ├── IMG_9837.CR2
+    ├── IMG_9837.xmp
+    ├── IMG_9838.CR2
+    ├── IMG_9838.xmp
+    ├── IMG_9839.CR2
+    ├── IMG_9839.xmp
+    ├── IMG_9840.CR2
+    ├── IMG_9842.CR2
+    ├── IMG_9842.xmp
+    ├── IMG_9843.CR2
+    ├── IMG_9843.xmp
+    ├── IMG_9850.CR2
+    ├── IMG_9850.xmp
+    ├── IMG_9851.CR2
+    ├── IMG_9851.xmp
+    ├── IMG_9853.CR2
+    ├── IMG_9853.xmp
+    ├── IMG_9854.CR2
+    ├── IMG_9854.xmp
+    ├── IMG_9855.CR2
+    ├── IMG_9855.xmp
+    ├── IMG_9856.CR2
+    ├── IMG_9856.xmp
+    ├── IMG_9857.CR2
+    ├── IMG_9858.CR2
+    ├── IMG_9858.xmp
+    ├── IMG_9860.CR2
+    ├── IMG_9860.xmp
+    ├── IMG_9862.CR2
+    ├── IMG_9862.xmp
+    ├── IMG_9863.CR2
+    ├── IMG_9865.CR2
+    ├── IMG_9865.xmp
+    ├── IMG_9866.CR2
+    ├── IMG_9866.xmp
+    ├── IMG_9867.CR2
+    ├── IMG_9867.xmp
+    ├── IMG_9868.CR2
+    ├── IMG_9868.xmp
+    ├── IMG_9869.CR2
+    ├── IMG_9869.xmp
+    ├── IMG_9870.CR2
+    ├── IMG_9870.xmp
+    ├── IMG_9871.CR2
+    ├── IMG_9871.xmp
+    ├── IMG_9872.CR2
+    ├── IMG_9872.xmp
+    ├── IMG_9873.CR2
+    ├── IMG_9873.xmp
+    ├── IMG_9874.CR2
+    ├── IMG_9874.xmp
+    ├── IMG_9876.CR2
+    ├── IMG_9876.xmp
+    ├── IMG_9877.CR2
+    ├── IMG_9877.xmp
+    ├── IMG_9878.CR2
+    ├── IMG_9878.xmp
+    ├── IMG_9879.CR2
+    └── IMG_9879.xmp
+20190818_FireIsland3
+├── .BridgeSort
+├── FireIslandDay3_005.jpg
+├── FireIslandDay3_006.jpg
+├── FireIslandDay3_007.jpg
+├── FireIslandDay3_008.jpg
+├── FireIslandDay3_009.jpg
+├── FireIslandDay3_010.jpg
+├── FireIslandDay3_011.jpg
+├── FireIslandDay3_012.jpg
+├── FireIslandDay3_013.jpg
+├── FireIslandDay3_014.jpg
+├── FireIslandDay3_015.jpg
+├── FireIslandDay3_016.jpg
+├── FireIslandDay3_017.jpg
+├── FireIslandDay3_018.jpg
+├── FireIslandDay3_019.jpg
+├── FireIslandDay3_021.jpg
+├── FireIslandDay3_022.jpg
+├── FireIslandDay3_023.jpg
+├── FireIslandDay3_024.jpg
+├── FireIslandDay3_025.jpg
+├── FireIslandDay3_026.jpg
+├── FireIslandDay3_027.jpg
+├── FireIslandDay3_028.jpg
+├── FireIslandDay3_029.jpg
+├── FireIslandDay3_030.jpg
+├── FireIslandDay3_031.jpg
+├── FireIslandDay3_032.jpg
+├── FireIslandDay3_033.jpg
+├── FireIslandDay3_034.jpg
+├── FireIslandDay3_035.jpg
+├── FireIslandDay3_036.jpg
+├── FireIslandDay3_037.jpg
+├── FireIslandDay3_038.jpg
+├── FireIslandDay3_039.jpg
+├── FireIslandDay3_040.jpg
+├── FireIslandDay3_041.jpg
+├── FireIslandDay3_004.jpg
+├── FireIslandDay3_020.jpg
+├── FireIslandDay3_001.jpg
+├── FireIslandDay3_002.jpg
+├── FireIslandDay3_003.jpg
+└── RAW
+    ├── IMG_9897.xmp
+    ├── IMG_9910.xmp
+    ├── IMG_9919.xmp
+    ├── IMG_9880.CR2
+    ├── IMG_9880.xmp
+    ├── IMG_9882.CR2
+    ├── IMG_9882.xmp
+    ├── IMG_9883.CR2
+    ├── IMG_9883.xmp
+    ├── IMG_9885.CR2
+    ├── IMG_9885.xmp
+    ├── IMG_9889.CR2
+    ├── IMG_9889.xmp
+    ├── IMG_9891.CR2
+    ├── IMG_9891.xmp
+    ├── IMG_9892.CR2
+    ├── IMG_9892.xmp
+    ├── IMG_9893.CR2
+    ├── IMG_9893.xmp
+    ├── IMG_9897.CR2
+    ├── IMG_9898.CR2
+    ├── IMG_9898.xmp
+    ├── IMG_9899.CR2
+    ├── IMG_9899.xmp
+    ├── IMG_9900.CR2
+    ├── IMG_9900.xmp
+    ├── IMG_9901.CR2
+    ├── IMG_9901.xmp
+    ├── IMG_9902.CR2
+    ├── IMG_9902.xmp
+    ├── IMG_9906.CR2
+    ├── IMG_9906.xmp
+    ├── IMG_9907.CR2
+    ├── IMG_9907.xmp
+    ├── IMG_9909.CR2
+    ├── IMG_9909.xmp
+    ├── IMG_9910.CR2
+    ├── IMG_9911.CR2
+    ├── IMG_9911.xmp
+    ├── IMG_9912.CR2
+    ├── IMG_9912.xmp
+    ├── IMG_9913.CR2
+    ├── IMG_9913.xmp
+    ├── IMG_9914.CR2
+    ├── IMG_9914.xmp
+    ├── IMG_9915.CR2
+    ├── IMG_9915.xmp
+    ├── IMG_9916.CR2
+    ├── IMG_9916.xmp
+    ├── IMG_9917.CR2
+    ├── IMG_9917.xmp
+    ├── IMG_9918.CR2
+    ├── IMG_9918.xmp
+    ├── IMG_9919.CR2
+    ├── IMG_9920.CR2
+    ├── IMG_9920.xmp
+    ├── IMG_9921.CR2
+    ├── IMG_9921.xmp
+    ├── IMG_9922.CR2
+    ├── IMG_9922.xmp
+    ├── IMG_9923.CR2
+    ├── IMG_9923.xmp
+    ├── IMG_9924.CR2
+    ├── IMG_9924.xmp
+    ├── IMG_9928.CR2
+    ├── IMG_9928.xmp
+    ├── IMG_9929.CR2
+    ├── IMG_9929.xmp
+    ├── IMG_9930.CR2
+    ├── IMG_9930.xmp
+    ├── IMG_9931.CR2
+    ├── IMG_9931.xmp
+    ├── IMG_9933.CR2
+    ├── IMG_9933.xmp
+    ├── IMG_9935.CR2
+    ├── IMG_9935.xmp
+    ├── IMG_9936.CR2
+    ├── IMG_9936.xmp
+    ├── IMG_9937.CR2
+    ├── IMG_9937.xmp
+    ├── IMG_9939.CR2
+    ├── IMG_9939.xmp
+    └── M0100.CTG
+20190928_AntonellaInSpiaggia
+├── AntonellaInSpiaggia_09.jpg
+├── .BridgeSort
+├── AntonellaInSpiaggia_01.jpg
+├── AntonellaInSpiaggia_02.jpg
+├── AntonellaInSpiaggia_03.jpg
+├── AntonellaInSpiaggia_04.jpg
+├── AntonellaInSpiaggia_05.jpg
+├── AntonellaInSpiaggia_06.jpg
+├── AntonellaInSpiaggia_07.jpg
+├── AntonellaInSpiaggia_08.jpg
+├── RAW
+│   ├── IMG_0013.CR2
+│   ├── IMG_0002.CR2
+│   ├── IMG_0002.xmp
+│   ├── IMG_0003.CR2
+│   ├── IMG_0003.xmp
+│   ├── IMG_0005.CR2
+│   ├── IMG_0005.xmp
+│   ├── IMG_0006.CR2
+│   ├── IMG_0006.xmp
+│   ├── IMG_0007.CR2
+│   ├── IMG_0009.CR2
+│   ├── IMG_0009.xmp
+│   ├── IMG_0010.CR2
+│   ├── IMG_0010.xmp
+│   ├── IMG_0011.CR2
+│   ├── IMG_0011.xmp
+│   ├── IMG_0012.CR2
+│   ├── IMG_0012.xmp
+│   ├── IMG_0013.xmp
+│   ├── IMG_0015.CR2
+│   ├── IMG_0015.xmp
+│   ├── IMG_0016.CR2
+│   ├── IMG_0016.xmp
+│   ├── IMG_0017.CR2
+│   ├── IMG_0017.xmp
+│   ├── IMG_0018.CR2
+│   ├── IMG_0018.xmp
+│   ├── IMG_0019.CR2
+│   ├── IMG_0019.xmp
+│   ├── IMG_0020.CR2
+│   ├── IMG_0020.xmp
+│   ├── IMG_0021.CR2
+│   ├── IMG_0021.xmp
+│   ├── IMG_0022.CR2
+│   ├── IMG_0022.xmp
+│   ├── IMG_0023.CR2
+│   ├── IMG_0023.xmp
+│   ├── IMG_9997.CR2
+│   ├── IMG_9997.xmp
+│   ├── IMG_9999.CR2
+│   ├── IMG_9999.xmp
+│   └── M0100.CTG
+├── AntonellaInSpiaggia_10.jpg
+├── AntonellaInSpiaggia_11.jpg
+├── AntonellaInSpiaggia_12.jpg
+├── AntonellaInSpiaggia_13.jpg
+├── AntonellaInSpiaggia_14.jpg
+├── AntonellaInSpiaggia_15.jpg
+├── AntonellaInSpiaggia_16.jpg
+├── AntonellaInSpiaggia_17.jpg
+├── AntonellaInSpiaggia_18.jpg
+├── AntonellaInSpiaggia_19.jpg
+├── AntonellaInSpiaggia_20.jpg
+├── AntonellaInSpiaggia_21.jpg
+└── AntonellaInSpiaggia_22.jpg
