@@ -1,0 +1,1610 @@
+20191005_Matera
+├── .BridgeSort
+├── Matera_01.jpg
+├── Matera_02.jpg
+├── Matera_03.jpg
+├── Matera_04.jpg
+├── Matera_05.jpg
+├── Matera_06.jpg
+├── Matera_07.jpg
+├── Matera_08.jpg
+├── Matera_09.jpg
+├── Matera_10.jpg
+├── Matera_11.jpg
+├── Matera_12.jpg
+├── Matera_13.jpg
+├── Matera_14.jpg
+├── Matera_15.jpg
+├── Matera_16.jpg
+└── RAW
+    ├── IMG_0024.CR2
+    ├── IMG_0024.xmp
+    ├── IMG_0025.CR2
+    ├── IMG_0025.xmp
+    ├── IMG_0026.CR2
+    ├── IMG_0026.xmp
+    ├── IMG_0027.CR2
+    ├── IMG_0027.xmp
+    ├── IMG_0029.CR2
+    ├── IMG_0029.xmp
+    ├── IMG_0030.CR2
+    ├── IMG_0030.xmp
+    ├── IMG_0031.CR2
+    ├── IMG_0031.xmp
+    ├── IMG_0033.CR2
+    ├── IMG_0033.xmp
+    ├── IMG_0035.CR2
+    ├── IMG_0035.xmp
+    ├── IMG_0036.CR2
+    ├── IMG_0036.xmp
+    ├── IMG_0037.CR2
+    ├── IMG_0037.xmp
+    ├── IMG_0038.CR2
+    ├── IMG_0038.xmp
+    ├── IMG_0039.CR2
+    ├── IMG_0039.xmp
+    ├── IMG_0040.CR2
+    ├── IMG_0040.xmp
+    ├── IMG_0041.CR2
+    ├── IMG_0041.xmp
+    ├── IMG_0042.CR2
+    └── IMG_0042.xmp
+20191011_LabBBQ
+├── .BridgeSort
+├── LabParty_05.jpg
+├── LabParty_06.jpg
+├── LabParty_07.jpg
+├── LabParty_08.jpg
+├── LabParty_09.jpg
+├── LabParty_10.jpg
+├── LabParty_11.jpg
+├── LabParty_12.jpg
+├── LabParty_13.jpg
+├── LabParty_14.jpg
+├── LabParty_15.jpg
+├── LabParty_16.jpg
+├── LabParty_17.jpg
+├── LabParty_18.jpg
+├── LabParty_19.jpg
+├── LabParty_20.jpg
+├── LabParty_21.jpg
+├── LabParty_23.jpg
+├── LabParty_24.jpg
+├── LabParty_25.jpg
+├── LabParty_26.jpg
+├── LabParty_27.jpg
+├── LabParty_28.jpg
+├── LabParty_29.jpg
+├── LabParty_30.jpg
+├── LabParty_31.jpg
+├── LabParty_32.jpg
+├── LabParty_33.jpg
+├── LabParty_34.jpg
+├── LabParty_35.jpg
+├── LabParty_36.jpg
+├── LabParty_37.jpg
+├── LabParty_38.jpg
+├── LabParty_39.jpg
+├── RAW_LabBQQ
+│   ├── IMG_0089.xmp
+│   ├── IMG_0101.xmp
+│   ├── IMG_0080.CR2
+│   ├── IMG_0080.xmp
+│   ├── IMG_0081.CR2
+│   ├── IMG_0081.xmp
+│   ├── IMG_0082.CR2
+│   ├── IMG_0082.xmp
+│   ├── IMG_0083.CR2
+│   ├── IMG_0083.xmp
+│   ├── IMG_0084.CR2
+│   ├── IMG_0084.xmp
+│   ├── IMG_0085.CR2
+│   ├── IMG_0085.xmp
+│   ├── IMG_0087.CR2
+│   ├── IMG_0087.xmp
+│   ├── IMG_0088.CR2
+│   ├── IMG_0088.xmp
+│   ├── IMG_0089.CR2
+│   ├── IMG_0091.CR2
+│   ├── IMG_0091.xmp
+│   ├── IMG_0092.CR2
+│   ├── IMG_0092.xmp
+│   ├── IMG_0093.CR2
+│   ├── IMG_0093.xmp
+│   ├── IMG_0094.CR2
+│   ├── IMG_0094.xmp
+│   ├── IMG_0095.CR2
+│   ├── IMG_0095.xmp
+│   ├── IMG_0096.CR2
+│   ├── IMG_0096.xmp
+│   ├── IMG_0097.CR2
+│   ├── IMG_0097.xmp
+│   ├── IMG_0100.CR2
+│   ├── IMG_0100.xmp
+│   ├── IMG_0101.CR2
+│   ├── IMG_0102.CR2
+│   ├── IMG_0102.xmp
+│   ├── IMG_0103.CR2
+│   ├── IMG_0103.xmp
+│   ├── IMG_0104.CR2
+│   ├── IMG_0104.xmp
+│   ├── IMG_0106.CR2
+│   ├── IMG_0106.xmp
+│   ├── IMG_0107.CR2
+│   ├── IMG_0107.xmp
+│   ├── IMG_0108.CR2
+│   ├── IMG_0108.xmp
+│   ├── IMG_0109.CR2
+│   ├── IMG_0109.xmp
+│   ├── IMG_0110.CR2
+│   ├── IMG_0110.xmp
+│   ├── IMG_0111.CR2
+│   ├── IMG_0111.xmp
+│   ├── IMG_0113.CR2
+│   ├── IMG_0114.CR2
+│   ├── IMG_0115.CR2
+│   ├── IMG_0116.CR2
+│   ├── IMG_0117.CR2
+│   ├── IMG_0118.CR2
+│   ├── IMG_0119.CR2
+│   ├── IMG_0120.CR2
+│   ├── IMG_0121.CR2
+│   ├── IMG_0122.CR2
+│   ├── IMG_0123.CR2
+│   ├── IMG_0123.xmp
+│   ├── IMG_0124.CR2
+│   ├── IMG_0124.xmp
+│   ├── IMG_0126.CR2
+│   └── IMG_0126.xmp
+├── RAW_Neuronair
+│   ├── IMG_0043.CR2
+│   ├── IMG_0044.CR2
+│   ├── IMG_0045.CR2
+│   ├── IMG_0046.CR2
+│   ├── IMG_0047.CR2
+│   ├── IMG_0051.CR2
+│   ├── IMG_0053.CR2
+│   ├── IMG_0054.CR2
+│   ├── IMG_0055.CR2
+│   ├── IMG_0056.CR2
+│   ├── IMG_0057.CR2
+│   ├── IMG_0058.CR2
+│   ├── IMG_0060.CR2
+│   ├── IMG_0061.CR2
+│   ├── IMG_0063.CR2
+│   ├── IMG_0064.CR2
+│   ├── IMG_0065.CR2
+│   ├── IMG_0066.CR2
+│   ├── IMG_0067.CR2
+│   ├── IMG_0068.CR2
+│   ├── IMG_0069.CR2
+│   ├── IMG_0071.CR2
+│   ├── IMG_0072.CR2
+│   ├── IMG_0073.CR2
+│   ├── IMG_0075.CR2
+│   ├── IMG_0077.CR2
+│   ├── IMG_0078.CR2
+│   └── IMG_0079.CR2
+├── LabParty_04.jpg
+├── LabParty_22.jpg
+├── LabParty_01.jpg
+├── LabParty_02.jpg
+└── LabParty_03.jpg
+20191128_ThanksgivingReza
+├── IMG_0127.CR2
+├── IMG_0127.xmp
+├── IMG_0128.CR2
+├── IMG_0128.xmp
+├── IMG_0129.CR2
+├── IMG_0129.xmp
+├── M0100.CTG
+├── Thanksgiving_01.jpg
+├── Thanksgiving_02.jpg
+└── Thanksgiving_03.jpg
+20191220_AntonellaVessel
+├── RAW
+│   ├── IMG_0142-HDR.dng
+│   ├── IMG_0130.CR2
+│   ├── IMG_0130.xmp
+│   ├── IMG_0131.CR2
+│   ├── IMG_0131.xmp
+│   ├── IMG_0132.CR2
+│   ├── IMG_0132.xmp
+│   ├── IMG_0133.CR2
+│   ├── IMG_0133.xmp
+│   ├── IMG_0134.CR2
+│   ├── IMG_0134.xmp
+│   ├── IMG_0135.CR2
+│   ├── IMG_0135.xmp
+│   ├── IMG_0137.CR2
+│   ├── IMG_0137.xmp
+│   ├── IMG_0138.CR2
+│   ├── IMG_0138.xmp
+│   ├── IMG_0141.psd
+│   ├── IMG_0145-HDR.dng
+│   ├── IMG_0148-HDR.dng
+│   ├── IMG_0151-HDR.dng
+│   ├── IMG_0156.CR2
+│   ├── IMG_0156.xmp
+│   ├── IMG_0157.CR2
+│   ├── IMG_0157.xmp
+│   ├── IMG_0158.CR2
+│   ├── IMG_0158.xmp
+│   ├── IMG_0161.CR2
+│   ├── IMG_0161.xmp
+│   ├── IMG_0165.CR2
+│   ├── IMG_0165.xmp
+│   ├── IMG_0166.CR2
+│   ├── IMG_0166.xmp
+│   ├── IMG_0170-HDR.dng
+│   └── IMG_0174-HDR.dng
+├── Vessel_01.jpg
+├── Vessel_02.jpg
+├── Vessel_03.jpg
+├── Vessel_04.jpg
+├── Vessel_05.jpg
+├── Vessel_06.jpg
+├── Vessel_07.jpg
+├── Vessel_08.jpg
+├── Vessel_09.jpg
+├── Vessel_10.jpg
+├── Vessel_11.jpg
+├── Vessel_12.jpg
+├── Vessel_13.jpg
+├── Vessel_14.jpg
+├── Vessel_15.jpg
+├── Vessel_16.jpg
+├── Vessel_17.jpg
+├── Vessel_18.jpg
+├── Vessel_19.jpg
+└── Vessel_20.jpg
+20191221_ChristmasLights
+├── ChristmasLights_08.jpg
+├── .BridgeSort
+├── ChristmasLights_01.jpg
+├── ChristmasLights_02.jpg
+├── ChristmasLights_03.jpg
+├── ChristmasLights_04.jpg
+├── ChristmasLights_05.jpg
+├── ChristmasLights_06.jpg
+├── ChristmasLights_07.jpg
+├── RAW
+│   ├── IMG_0177.CR2
+│   ├── IMG_0177.xmp
+│   ├── IMG_0178.CR2
+│   ├── IMG_0178.xmp
+│   ├── IMG_0180.CR2
+│   ├── IMG_0180.xmp
+│   ├── IMG_0181.CR2
+│   ├── IMG_0181.xmp
+│   ├── IMG_0183.CR2
+│   ├── IMG_0183.xmp
+│   ├── IMG_0184.CR2
+│   ├── IMG_0184.xmp
+│   ├── IMG_0186.CR2
+│   ├── IMG_0187.CR2
+│   ├── IMG_0187.xmp
+│   ├── IMG_0188.CR2
+│   ├── IMG_0188.xmp
+│   ├── IMG_0189.CR2
+│   ├── IMG_0189.xmp
+│   ├── IMG_0190.CR2
+│   ├── IMG_0190.xmp
+│   ├── IMG_0191.CR2
+│   ├── IMG_0191.xmp
+│   ├── IMG_0193.CR2
+│   ├── IMG_0193.xmp
+│   ├── IMG_0194.CR2
+│   ├── IMG_0194.xmp
+│   ├── IMG_0195.CR2
+│   ├── IMG_0195.xmp
+│   ├── IMG_0196.CR2
+│   ├── IMG_0196.xmp
+│   ├── IMG_0197.CR2
+│   ├── IMG_0197.xmp
+│   ├── IMG_0198.CR2
+│   └── IMG_0198.xmp
+├── ChristmasLights_09.jpg
+├── ChristmasLights_10.jpg
+├── ChristmasLights_11.jpg
+├── ChristmasLights_12.jpg
+├── ChristmasLights_13.jpg
+├── ChristmasLights_14.jpg
+├── ChristmasLights_15.jpg
+├── ChristmasLights_16.jpg
+├── ChristmasLights_17.jpg
+└── ChristmasLights_18.jpg
+20191222_LightShow
+├── .BridgeSort
+├── LightShow_05.jpg
+├── LightShow_06.jpg
+├── LightShow_07.jpg
+├── LightShow_08.jpg
+├── LightShow_09.jpg
+├── LightShow_10.jpg
+├── LightShow_11.jpg
+├── LightShow_12.jpg
+├── LightShow_13.jpg
+├── LightShow_14.jpg
+├── LightShow_15.jpg
+├── LightShow_16.jpg
+├── LightShow_17.jpg
+├── LightShow_18.jpg
+├── LightShow_19.jpg
+├── LightShow_20.jpg
+├── LightShow_22.jpg
+├── LightShow_23.jpg
+├── LightShow_24.jpg
+├── LightShow_25.jpg
+├── LightShow_26.jpg
+├── LightShow_27.jpg
+├── LightShow_28.jpg
+├── LightShow_29.jpg
+├── LightShow_30.jpg
+├── LightShow_31.jpg
+├── LightShow_32.jpg
+├── LightShow_33.jpg
+├── LightShow_34.jpg
+├── LightShow_35.jpg
+├── LightShow_36.jpg
+├── LightShow_37.jpg
+├── LightShow_38.jpg
+├── LightShow_39.jpg
+├── LightShow_40.jpg
+├── LightShow_41.jpg
+├── LightShow_42.jpg
+├── LightShow_43.jpg
+├── LightShow_44.jpg
+├── LightShow_45.jpg
+├── RAW
+│   ├── IMG_0210.xmp
+│   ├── IMG_0225.CR2
+│   ├── IMG_0237.CR2
+│   ├── IMG_0200.CR2
+│   ├── IMG_0200.xmp
+│   ├── IMG_0201.CR2
+│   ├── IMG_0201.xmp
+│   ├── IMG_0202.CR2
+│   ├── IMG_0202.xmp
+│   ├── IMG_0203.CR2
+│   ├── IMG_0203.xmp
+│   ├── IMG_0204.CR2
+│   ├── IMG_0204.xmp
+│   ├── IMG_0205.CR2
+│   ├── IMG_0205.xmp
+│   ├── IMG_0207.CR2
+│   ├── IMG_0207.xmp
+│   ├── IMG_0209.CR2
+│   ├── IMG_0209.xmp
+│   ├── IMG_0210.CR2
+│   ├── IMG_0211.CR2
+│   ├── IMG_0211.xmp
+│   ├── IMG_0212.CR2
+│   ├── IMG_0213.CR2
+│   ├── IMG_0213.xmp
+│   ├── IMG_0215.CR2
+│   ├── IMG_0215.xmp
+│   ├── IMG_0216.CR2
+│   ├── IMG_0216.xmp
+│   ├── IMG_0217.CR2
+│   ├── IMG_0217.xmp
+│   ├── IMG_0218.CR2
+│   ├── IMG_0218.xmp
+│   ├── IMG_0219.CR2
+│   ├── IMG_0219.xmp
+│   ├── IMG_0224.CR2
+│   ├── IMG_0224.xmp
+│   ├── IMG_0225.xmp
+│   ├── IMG_0227.CR2
+│   ├── IMG_0227.xmp
+│   ├── IMG_0228.CR2
+│   ├── IMG_0228.xmp
+│   ├── IMG_0229.CR2
+│   ├── IMG_0229.xmp
+│   ├── IMG_0230.CR2
+│   ├── IMG_0230.xmp
+│   ├── IMG_0231.CR2
+│   ├── IMG_0231.xmp
+│   ├── IMG_0232.CR2
+│   ├── IMG_0232.xmp
+│   ├── IMG_0233.CR2
+│   ├── IMG_0233.xmp
+│   ├── IMG_0234.CR2
+│   ├── IMG_0234.xmp
+│   ├── IMG_0237.xmp
+│   ├── IMG_0238.CR2
+│   ├── IMG_0238.xmp
+│   ├── IMG_0239.CR2
+│   ├── IMG_0239.xmp
+│   ├── IMG_0241.CR2
+│   ├── IMG_0241.xmp
+│   ├── IMG_0242.CR2
+│   ├── IMG_0242.xmp
+│   ├── IMG_0244.CR2
+│   ├── IMG_0244.xmp
+│   ├── IMG_0245.CR2
+│   ├── IMG_0245.xmp
+│   ├── IMG_0246.CR2
+│   ├── IMG_0246.xmp
+│   ├── IMG_0248.CR2
+│   ├── IMG_0248.xmp
+│   ├── IMG_0251.CR2
+│   ├── IMG_0251.xmp
+│   ├── IMG_0252.CR2
+│   ├── IMG_0252.xmp
+│   ├── IMG_0253.CR2
+│   ├── IMG_0253.xmp
+│   ├── IMG_0255.CR2
+│   ├── IMG_0255.xmp
+│   ├── IMG_0257.CR2
+│   ├── IMG_0257.xmp
+│   ├── IMG_0258.CR2
+│   ├── IMG_0258.xmp
+│   ├── IMG_0265.CR2
+│   ├── IMG_0265.xmp
+│   ├── IMG_0268.CR2
+│   ├── IMG_0268.xmp
+│   ├── IMG_0270.CR2
+│   └── IMG_0270.xmp
+├── LightShow_04.jpg
+├── LightShow_21.jpg
+├── LightShow_01.jpg
+├── LightShow_02.jpg
+└── LightShow_03.jpg
+20191224_EPAXMAS
+├── .BridgeSort
+├── EPAmas_009.jpg
+├── EPAmas_010.jpg
+├── EPAmas_011.jpg
+├── EPAmas_012.jpg
+├── EPAmas_013.jpg
+├── EPAmas_014.jpg
+├── EPAmas_015.jpg
+├── EPAmas_016.jpg
+├── EPAmas_017.jpg
+├── EPAmas_018.jpg
+├── EPAmas_019.jpg
+├── EPAmas_020.jpg
+├── EPAmas_021.jpg
+├── EPAmas_022.jpg
+├── EPAmas_023.jpg
+├── EPAmas_024.jpg
+├── EPAmas_025.jpg
+├── EPAmas_008.jpg
+├── EPAmas_026.jpg
+├── EPAmas_044.jpg
+├── EPAmas_062.jpg
+├── EPAmas_080.jpg
+├── EPAmas_098.jpg
+├── EPAmas_116.jpg
+├── EPAmas_134.jpg
+├── EPAmas_152.jpg
+├── EPAmas_170.jpg
+├── EPAmas_027.jpg
+├── EPAmas_028.jpg
+├── EPAmas_029.jpg
+├── EPAmas_030.jpg
+├── EPAmas_031.jpg
+├── EPAmas_032.jpg
+├── EPAmas_033.jpg
+├── EPAmas_034.jpg
+├── EPAmas_035.jpg
+├── EPAmas_036.jpg
+├── EPAmas_037.jpg
+├── EPAmas_038.jpg
+├── EPAmas_039.jpg
+├── EPAmas_040.jpg
+├── EPAmas_041.jpg
+├── EPAmas_042.jpg
+├── EPAmas_043.jpg
+├── RAW
+│   ├── IMG_0271.CR2
+│   ├── IMG_0271.xmp
+│   ├── IMG_0273.CR2
+│   ├── IMG_0273.xmp
+│   ├── IMG_0274.CR2
+│   ├── IMG_0274.xmp
+│   ├── IMG_0275.CR2
+│   ├── IMG_0275.xmp
+│   ├── IMG_0276.CR2
+│   ├── IMG_0276.xmp
+│   ├── IMG_0277.CR2
+│   ├── IMG_0277.xmp
+│   ├── IMG_0278.CR2
+│   ├── IMG_0278.xmp
+│   ├── IMG_0279.CR2
+│   ├── IMG_0279.xmp
+│   ├── IMG_0280.CR2
+│   ├── IMG_0281.CR2
+│   ├── IMG_0281.xmp
+│   ├── IMG_0282.CR2
+│   ├── IMG_0282.xmp
+│   ├── IMG_0284.CR2
+│   ├── IMG_0284.xmp
+│   ├── IMG_0285.CR2
+│   ├── IMG_0285.xmp
+│   ├── IMG_0287.CR2
+│   ├── IMG_0287.xmp
+│   ├── IMG_0288.CR2
+│   ├── IMG_0288.xmp
+│   ├── IMG_0289.CR2
+│   ├── IMG_0289.xmp
+│   ├── IMG_0290.CR2
+│   ├── IMG_0290.xmp
+│   ├── IMG_0291.CR2
+│   ├── IMG_0292.CR2
+│   ├── IMG_0292.xmp
+│   ├── IMG_0293.CR2
+│   ├── IMG_0293.xmp
+│   ├── IMG_0294.CR2
+│   ├── IMG_0294.xmp
+│   ├── IMG_0295.CR2
+│   ├── IMG_0295.xmp
+│   ├── IMG_0297.CR2
+│   ├── IMG_0297.xmp
+│   ├── IMG_0298.CR2
+│   ├── IMG_0298.xmp
+│   ├── IMG_0299.CR2
+│   ├── IMG_0299.xmp
+│   ├── IMG_0300.CR2
+│   ├── IMG_0300.xmp
+│   ├── IMG_0302.CR2
+│   ├── IMG_0303.CR2
+│   ├── IMG_0303.xmp
+│   ├── IMG_0304.CR2
+│   ├── IMG_0304.xmp
+│   ├── IMG_0305.CR2
+│   ├── IMG_0305.xmp
+│   ├── IMG_0307.CR2
+│   ├── IMG_0307.xmp
+│   ├── IMG_0308.CR2
+│   ├── IMG_0308.xmp
+│   ├── IMG_0309.CR2
+│   ├── IMG_0309.xmp
+│   ├── IMG_0311.CR2
+│   ├── IMG_0311.xmp
+│   ├── IMG_0312.CR2
+│   ├── IMG_0312.xmp
+│   ├── IMG_0313.CR2
+│   ├── IMG_0314.CR2
+│   ├── IMG_0314.xmp
+│   ├── IMG_0316.CR2
+│   ├── IMG_0316.xmp
+│   ├── IMG_0317.CR2
+│   ├── IMG_0317.xmp
+│   ├── IMG_0318.CR2
+│   ├── IMG_0318.xmp
+│   ├── IMG_0319.CR2
+│   ├── IMG_0319.xmp
+│   ├── IMG_0320.CR2
+│   ├── IMG_0320.xmp
+│   ├── IMG_0321.CR2
+│   ├── IMG_0321.xmp
+│   ├── IMG_0322.CR2
+│   ├── IMG_0322.xmp
+│   ├── IMG_0323.CR2
+│   ├── IMG_0324.CR2
+│   ├── IMG_0324.xmp
+│   ├── IMG_0325.CR2
+│   ├── IMG_0325.xmp
+│   ├── IMG_0326.CR2
+│   ├── IMG_0326.xmp
+│   ├── IMG_0327.CR2
+│   ├── IMG_0327.xmp
+│   ├── IMG_0328.CR2
+│   ├── IMG_0328.xmp
+│   ├── IMG_0329.CR2
+│   ├── IMG_0329.xmp
+│   ├── IMG_0330.CR2
+│   ├── IMG_0330.xmp
+│   ├── IMG_0331.CR2
+│   ├── IMG_0331.xmp
+│   ├── IMG_0332.CR2
+│   ├── IMG_0280.xmp
+│   ├── IMG_0291.xmp
+│   ├── IMG_0302.xmp
+│   ├── IMG_0313.xmp
+│   ├── IMG_0323.xmp
+│   ├── IMG_0332.xmp
+│   ├── IMG_0341.xmp
+│   ├── IMG_0333.CR2
+│   ├── IMG_0333.xmp
+│   ├── IMG_0334.CR2
+│   ├── IMG_0334.xmp
+│   ├── IMG_0335.CR2
+│   ├── IMG_0335.xmp
+│   ├── IMG_0336.CR2
+│   ├── IMG_0336.xmp
+│   ├── IMG_0337.CR2
+│   ├── IMG_0337.xmp
+│   ├── IMG_0338.CR2
+│   ├── IMG_0338.xmp
+│   ├── IMG_0339.CR2
+│   ├── IMG_0339.xmp
+│   ├── IMG_0340.CR2
+│   ├── IMG_0340.xmp
+│   ├── IMG_0341.CR2
+│   ├── IMG_0342.CR2
+│   ├── IMG_0342.xmp
+│   ├── IMG_0344.CR2
+│   ├── IMG_0344.xmp
+│   ├── IMG_0345.CR2
+│   ├── IMG_0345.xmp
+│   ├── IMG_0346.CR2
+│   ├── IMG_0346.xmp
+│   ├── IMG_0347.CR2
+│   ├── IMG_0347.xmp
+│   ├── IMG_0348.CR2
+│   ├── IMG_0348.xmp
+│   ├── IMG_0349.CR2
+│   ├── IMG_0349.xmp
+│   ├── IMG_0350.CR2
+│   ├── IMG_0350.xmp
+│   ├── IMG_0352.CR2
+│   ├── IMG_0352.xmp
+│   └── M0101.CTG
+├── EPAmas_045.jpg
+├── EPAmas_046.jpg
+├── EPAmas_047.jpg
+├── EPAmas_048.jpg
+├── EPAmas_049.jpg
+├── EPAmas_050.jpg
+├── EPAmas_051.jpg
+├── EPAmas_052.jpg
+├── EPAmas_053.jpg
+├── EPAmas_054.jpg
+├── EPAmas_055.jpg
+├── EPAmas_056.jpg
+├── EPAmas_057.jpg
+├── EPAmas_058.jpg
+├── EPAmas_059.jpg
+├── EPAmas_060.jpg
+├── EPAmas_061.jpg
+├── EPAmas_063.jpg
+├── EPAmas_064.jpg
+├── EPAmas_065.jpg
+├── EPAmas_066.jpg
+├── EPAmas_067.jpg
+├── EPAmas_068.jpg
+├── EPAmas_069.jpg
+├── EPAmas_070.jpg
+├── EPAmas_071.jpg
+├── EPAmas_072.jpg
+├── EPAmas_073.jpg
+├── EPAmas_074.jpg
+├── EPAmas_075.jpg
+├── EPAmas_076.jpg
+├── EPAmas_077.jpg
+├── EPAmas_078.jpg
+├── EPAmas_079.jpg
+├── EPAmas_081.jpg
+├── EPAmas_082.jpg
+├── EPAmas_083.jpg
+├── EPAmas_084.jpg
+├── EPAmas_085.jpg
+├── EPAmas_086.jpg
+├── EPAmas_087.jpg
+├── EPAmas_088.jpg
+├── EPAmas_089.jpg
+├── EPAmas_090.jpg
+├── EPAmas_091.jpg
+├── EPAmas_092.jpg
+├── EPAmas_093.jpg
+├── EPAmas_094.jpg
+├── EPAmas_095.jpg
+├── EPAmas_096.jpg
+├── EPAmas_097.jpg
+├── FromElena
+│   ├── 1.jpg
+│   ├── 2.jpg
+│   ├── 3.jpeg
+│   ├── IMG_6305.jpg
+│   ├── IMG_6306.JPG
+│   ├── IMG_6307.jpg
+│   ├── IMG_6308.JPG
+│   ├── IMG_6309.JPG
+│   ├── IMG_6310.JPG
+│   ├── IMG_6313.JPG
+│   ├── IMG_6318.jpg
+│   ├── IMG_6319.JPG
+│   ├── IMG_6322.JPG
+│   ├── IMG_6323.JPG
+│   ├── IMG_6324.JPG
+│   ├── IMG_6325.JPG
+│   ├── IMG_6326.JPG
+│   ├── IMG_6329.JPG
+│   ├── IMG_6331.JPG
+│   ├── IMG_6334.JPG
+│   ├── IMG_6335.JPG
+│   ├── IMG_6384.JPG
+│   ├── IMG_6385.JPG
+│   ├── IMG_6386.JPG
+│   ├── IMG_6387.JPG
+│   ├── IMG_6389.JPG
+│   ├── IMG_6391.JPG
+│   ├── IMG_6393.JPG
+│   ├── IMG_6394.JPG
+│   ├── IMG_6398.JPG
+│   ├── IMG_6399.JPG
+│   ├── IMG_6400.JPG
+│   ├── IMG_6401.JPG
+│   ├── IMG_6403.JPG
+│   ├── IMG_6405.JPG
+│   ├── IMG_6406.JPG
+│   ├── IMG_6408.JPG
+│   ├── IMG_6409.JPG
+│   ├── IMG_6410.JPG
+│   ├── IMG_6450.JPG
+│   ├── IMG_6451.JPG
+│   ├── IMG_6452.JPG
+│   ├── IMG_6453.JPG
+│   ├── IMG_6454.JPG
+│   ├── IMG_6455.JPG
+│   ├── IMG_6457.JPG
+│   ├── IMG_6458.JPG
+│   ├── IMG_6462.JPG
+│   ├── IMG_6463.JPG
+│   ├── IMG_6465.JPG
+│   ├── IMG_6466.JPG
+│   ├── IMG_6467.JPG
+│   ├── IMG_6470.JPG
+│   ├── IMG_6471.JPG
+│   ├── IMG_6472.JPG
+│   ├── IMG_6473.JPG
+│   ├── IMG_6475.JPG
+│   ├── IMG_6476.JPG
+│   ├── IMG_6341.JPG
+│   ├── IMG_6342.jpg
+│   ├── IMG_6345.jpg
+│   ├── IMG_6346.JPG
+│   ├── IMG_6348.jpg
+│   ├── IMG_6349.JPG
+│   ├── IMG_6350.JPG
+│   ├── IMG_6356.JPG
+│   ├── IMG_6358.JPG
+│   ├── IMG_6360.JPG
+│   ├── IMG_6413.JPG
+│   ├── IMG_6415.JPG
+│   ├── IMG_6416.JPG
+│   ├── IMG_6418.JPG
+│   ├── IMG_6422.JPG
+│   ├── IMG_6423.JPG
+│   ├── IMG_6424.JPG
+│   ├── IMG_6425.JPG
+│   ├── IMG_6426.JPG
+│   ├── IMG_6427.JPG
+│   ├── IMG_6428.JPG
+│   ├── IMG_6429.JPG
+│   ├── IMG_6430.JPG
+│   ├── IMG_6431.JPG
+│   ├── IMG_6432.JPG
+│   ├── IMG_6433.JPG
+│   ├── IMG_6434.JPG
+│   ├── IMG_6435.JPG
+│   ├── IMG_6437.JPG
+│   ├── IMG_6438.JPG
+│   ├── IMG_6439.JPG
+│   ├── IMG_6440.JPG
+│   ├── IMG_6441.JPG
+│   ├── IMG_6442.JPG
+│   ├── IMG_6445.JPG
+│   ├── IMG_6447.JPG
+│   ├── IMG_6337.JPG
+│   ├── IMG_6361.JPG
+│   ├── IMG_6383.JPG
+│   ├── IMG_6411.JPG
+│   ├── IMG_6449.JPG
+│   ├── IMG_6477.JPG
+│   ├── IMG_6479.JPG
+│   ├── IMG_6481.JPG
+│   ├── IMG_6482.JPG
+│   ├── IMG_6484.JPG
+│   ├── IMG_6486.JPG
+│   ├── IMG_6487.JPG
+│   ├── IMG_6488.JPG
+│   ├── IMG_6490.JPG
+│   ├── IMG_6491.JPG
+│   ├── IMG_6494.jpg
+│   ├── IMG_6495.JPG
+│   ├── IMG_6497.JPG
+│   ├── IMG_6498.JPG
+│   ├── IMG_6499.jpg
+│   ├── IMG_6500.JPG
+│   ├── IMG_6501.JPG
+│   ├── IMG_6502.JPG
+│   ├── IMG_6504.JPG
+│   ├── IMG_6363.JPG
+│   ├── IMG_6364.JPG
+│   ├── IMG_6367.JPG
+│   ├── IMG_6368.JPG
+│   ├── IMG_6371.JPG
+│   ├── IMG_6373.JPG
+│   ├── IMG_6374.JPG
+│   ├── IMG_6375.JPG
+│   ├── IMG_6377.JPG
+│   ├── IMG_6379.JPG
+│   └── IMG_6380.JPG
+├── EPAmas_001.jpg
+├── EPAmas_002.jpg
+├── EPAmas_003.jpg
+├── EPAmas_004.jpg
+├── EPAmas_005.jpg
+├── EPAmas_006.jpg
+├── EPAmas_007.jpg
+├── EPAmas_099.jpg
+├── EPAmas_100.jpg
+├── EPAmas_101.jpg
+├── EPAmas_102.jpg
+├── EPAmas_103.jpg
+├── EPAmas_104.jpg
+├── EPAmas_105.jpg
+├── EPAmas_106.jpg
+├── EPAmas_107.jpg
+├── EPAmas_108.jpg
+├── EPAmas_109.jpg
+├── EPAmas_110.jpg
+├── EPAmas_111.jpg
+├── EPAmas_112.jpg
+├── EPAmas_113.jpg
+├── EPAmas_114.jpg
+├── EPAmas_115.jpg
+├── EPAmas_117.jpg
+├── EPAmas_118.jpg
+├── EPAmas_119.jpg
+├── EPAmas_120.jpg
+├── EPAmas_121.jpg
+├── EPAmas_122.jpg
+├── EPAmas_123.jpg
+├── EPAmas_124.jpg
+├── EPAmas_125.jpg
+├── EPAmas_126.jpg
+├── EPAmas_127.jpg
+├── EPAmas_128.jpg
+├── EPAmas_129.jpg
+├── EPAmas_130.jpg
+├── EPAmas_131.jpg
+├── EPAmas_132.jpg
+├── EPAmas_133.jpg
+├── EPAmas_135.jpg
+├── EPAmas_136.jpg
+├── EPAmas_137.jpg
+├── EPAmas_138.jpg
+├── EPAmas_139.jpg
+├── EPAmas_140.jpg
+├── EPAmas_141.jpg
+├── EPAmas_142.jpg
+├── EPAmas_143.jpg
+├── EPAmas_144.jpg
+├── EPAmas_145.jpg
+├── EPAmas_146.jpg
+├── EPAmas_147.jpg
+├── EPAmas_148.jpg
+├── EPAmas_149.jpg
+├── EPAmas_150.jpg
+├── EPAmas_151.jpg
+├── EPAmas_153.jpg
+├── EPAmas_154.jpg
+├── EPAmas_155.jpg
+├── EPAmas_156.jpg
+├── EPAmas_157.jpg
+├── EPAmas_158.jpg
+├── EPAmas_159.jpg
+├── EPAmas_160.jpg
+├── EPAmas_161.jpg
+├── EPAmas_162.jpg
+├── EPAmas_163.jpg
+├── EPAmas_164.jpg
+├── EPAmas_165.jpg
+├── EPAmas_166.jpg
+├── EPAmas_167.jpg
+├── EPAmas_168.jpg
+├── EPAmas_169.jpg
+├── EPAmas_171.jpg
+├── EPAmas_172.jpg
+├── EPAmas_173.jpg
+├── EPAmas_174.jpg
+├── EPAmas_175.jpg
+├── EPAmas_176.jpg
+├── EPAmas_177.jpg
+├── EPAmas_178.jpg
+├── EPAmas_179.jpg
+├── EPAmas_180.jpg
+├── EPAmas_181.jpg
+├── EPAmas_182.jpg
+├── EPAmas_183.jpg
+├── EPAmas_184.jpg
+├── EPAmas_185.jpg
+├── EPAmas_186.jpg
+├── EPAmas_187.jpg
+├── EPAmas_188.jpg
+├── EPAmas_189.jpg
+├── EPAmas_190.jpg
+├── EPAmas_191.jpg
+├── EPAmas_192.jpg
+├── EPAmas_193.jpg
+├── EPAmas_194.jpg
+├── EPAmas_195.jpg
+├── EPAmas_196.jpg
+├── EPAmas_197.jpg
+├── EPAmas_198.jpg
+├── EPAmas_199.jpg
+├── EPAmas_200.jpg
+└── EPAmas_201.jpg
+20191226_Philadelphia
+├── .BridgeSort
+├── Philadelphia_03.jpg
+├── Philadelphia_04.jpg
+├── Philadelphia_05.jpg
+├── Philadelphia_06.jpg
+├── Philadelphia_07.jpg
+├── Philadelphia_08.jpg
+├── Philadelphia_09.jpg
+├── Philadelphia_10.jpg
+├── Philadelphia_11.jpg
+├── Philadelphia_12.jpg
+├── Philadelphia_13.jpg
+├── Philadelphia_14.jpg
+├── Philadelphia_15.jpg
+├── Philadelphia_16.jpg
+├── Philadelphia_17.jpg
+├── Philadelphia_18.jpg
+├── Philadelphia_01.jpg
+├── Philadelphia_20.jpg
+├── Philadelphia_21.jpg
+├── Philadelphia_22.jpg
+├── Philadelphia_23.jpg
+├── Philadelphia_24.jpg
+├── Philadelphia_25.jpg
+├── Philadelphia_26.jpg
+├── Philadelphia_27.jpg
+├── Philadelphia_28.jpg
+├── Philadelphia_29.jpg
+├── Philadelphia_30.jpg
+├── Philadelphia_31.jpg
+├── Philadelphia_32.jpg
+├── Philadelphia_33.jpg
+├── Philadelphia_34.jpg
+├── Philadelphia_35.jpg
+├── Philadelphia_36.jpg
+├── Philadelphia_37.jpg
+├── Philadelphia_38.jpg
+├── RAW
+│   ├── IMG_0363.xmp
+│   ├── IMG_0374.xmp
+│   ├── IMG_0389.CR2
+│   ├── IMG_0355.CR2
+│   ├── IMG_0355.xmp
+│   ├── IMG_0356.CR2
+│   ├── IMG_0356.xmp
+│   ├── IMG_0357.CR2
+│   ├── IMG_0357.xmp
+│   ├── IMG_0358.CR2
+│   ├── IMG_0358.xmp
+│   ├── IMG_0359.CR2
+│   ├── IMG_0359.xmp
+│   ├── IMG_0360.CR2
+│   ├── IMG_0360.xmp
+│   ├── IMG_0361.CR2
+│   ├── IMG_0361.xmp
+│   ├── IMG_0362.CR2
+│   ├── IMG_0362.xmp
+│   ├── IMG_0363.CR2
+│   ├── IMG_0364.CR2
+│   ├── IMG_0364.xmp
+│   ├── IMG_0365.CR2
+│   ├── IMG_0365.xmp
+│   ├── IMG_0367.CR2
+│   ├── IMG_0367.xmp
+│   ├── IMG_0368.CR2
+│   ├── IMG_0368.xmp
+│   ├── IMG_0369.CR2
+│   ├── IMG_0369.xmp
+│   ├── IMG_0370.CR2
+│   ├── IMG_0370.xmp
+│   ├── IMG_0371.CR2
+│   ├── IMG_0371.xmp
+│   ├── IMG_0372.CR2
+│   ├── IMG_0372.xmp
+│   ├── IMG_0374.CR2
+│   ├── IMG_0375.CR2
+│   ├── IMG_0375.xmp
+│   ├── IMG_0376.CR2
+│   ├── IMG_0376.xmp
+│   ├── IMG_0377.CR2
+│   ├── IMG_0377.xmp
+│   ├── IMG_0378.CR2
+│   ├── IMG_0378.xmp
+│   ├── IMG_0379.CR2
+│   ├── IMG_0379.xmp
+│   ├── IMG_0380.CR2
+│   ├── IMG_0380.xmp
+│   ├── IMG_0381.CR2
+│   ├── IMG_0381.xmp
+│   ├── IMG_0385-HDR.dng
+│   ├── IMG_0388.CR2
+│   ├── IMG_0388.xmp
+│   ├── IMG_0389.xmp
+│   ├── IMG_0390.CR2
+│   ├── IMG_0390.xmp
+│   ├── IMG_0392.CR2
+│   ├── IMG_0392.xmp
+│   ├── IMG_0394.CR2
+│   ├── IMG_0394.xmp
+│   ├── IMG_0395.CR2
+│   ├── IMG_0395.xmp
+│   ├── IMG_0396.CR2
+│   ├── IMG_0396.xmp
+│   ├── IMG_0397.CR2
+│   ├── IMG_0397.xmp
+│   ├── IMG_0398.CR2
+│   ├── IMG_0398.xmp
+│   ├── IMG_0399.CR2
+│   ├── IMG_0399.xmp
+│   ├── IMG_0401.CR2
+│   ├── IMG_0401.xmp
+│   ├── IMG_0402.CR2
+│   └── IMG_0402.xmp
+├── Philadelphia_02.jpg
+└── Philadelphia_19.jpg
+20191228_NiagaraAnontella
+├── Niagara_07.jpg
+├── Niagara_08.jpg
+├── Niagara_09.jpg
+├── Niagara_10.jpg
+├── Niagara_11.jpg
+├── Niagara_12.jpg
+├── Niagara_13.jpg
+├── Niagara_14.jpg
+├── Niagara_15.jpg
+├── Niagara_16.jpg
+├── Niagara_17.jpg
+├── Niagara_18.jpg
+├── Niagara_19.jpg
+├── Niagara_20.jpg
+├── Niagara_21.jpg
+├── Niagara_22.jpg
+├── Niagara_23.jpg
+├── Niagara_25.jpg
+├── Niagara_26.jpg
+├── Niagara_27.jpg
+├── Niagara_28.jpg
+├── Niagara_29.jpg
+├── Niagara_30.jpg
+├── Niagara_31.jpg
+├── Niagara_32.jpg
+├── Niagara_33.jpg
+├── Niagara_34.jpg
+├── Niagara_35.jpg
+├── Niagara_36.jpg
+├── Niagara_37.jpg
+├── Niagara_38.jpg
+├── Niagara_39.jpg
+├── Niagara_40.jpg
+├── Niagara_41.jpg
+├── Niagara_06.jpg
+├── Niagara_24.jpg
+├── Niagara_42.jpg
+├── Niagara_01.jpg
+├── Niagara_02.jpg
+├── Niagara_03.jpg
+├── Niagara_04.jpg
+├── Niagara_05.jpg
+├── Niagara_43.jpg
+├── Niagara_44.jpg
+├── Niagara_45.jpg
+├── Niagara_46.jpg
+└── RAW
+    ├── IMG_0417.xmp
+    ├── IMG_0429.xmp
+    ├── IMG_0440.xmp
+    ├── IMG_0450.xmp
+    ├── IMG_0403.CR2
+    ├── IMG_0403.xmp
+    ├── IMG_0405.CR2
+    ├── IMG_0405.xmp
+    ├── IMG_0406.CR2
+    ├── IMG_0406.xmp
+    ├── IMG_0407.CR2
+    ├── IMG_0407.xmp
+    ├── IMG_0409.CR2
+    ├── IMG_0409.xmp
+    ├── IMG_0410.CR2
+    ├── IMG_0410.xmp
+    ├── IMG_0413.CR2
+    ├── IMG_0413.xmp
+    ├── IMG_0414.CR2
+    ├── IMG_0414.xmp
+    ├── IMG_0417.CR2
+    ├── IMG_0420.CR2
+    ├── IMG_0420.xmp
+    ├── IMG_0421.CR2
+    ├── IMG_0421.xmp
+    ├── IMG_0422.CR2
+    ├── IMG_0422.xmp
+    ├── IMG_0424.CR2
+    ├── IMG_0424.xmp
+    ├── IMG_0425.CR2
+    ├── IMG_0425.xmp
+    ├── IMG_0426.CR2
+    ├── IMG_0426.xmp
+    ├── IMG_0427.CR2
+    ├── IMG_0427.xmp
+    ├── IMG_0428.CR2
+    ├── IMG_0428.xmp
+    ├── IMG_0429.CR2
+    ├── IMG_0430.CR2
+    ├── IMG_0430.xmp
+    ├── IMG_0431.CR2
+    ├── IMG_0431.xmp
+    ├── IMG_0432.CR2
+    ├── IMG_0432.xmp
+    ├── IMG_0434.CR2
+    ├── IMG_0434.xmp
+    ├── IMG_0435.CR2
+    ├── IMG_0435.xmp
+    ├── IMG_0436.CR2
+    ├── IMG_0436.xmp
+    ├── IMG_0438.CR2
+    ├── IMG_0438.xmp
+    ├── IMG_0439.CR2
+    ├── IMG_0439.xmp
+    ├── IMG_0440.CR2
+    ├── IMG_0441.CR2
+    ├── IMG_0441.xmp
+    ├── IMG_0442.CR2
+    ├── IMG_0442.xmp
+    ├── IMG_0443.CR2
+    ├── IMG_0443.xmp
+    ├── IMG_0445.CR2
+    ├── IMG_0445.xmp
+    ├── IMG_0446.CR2
+    ├── IMG_0446.xmp
+    ├── IMG_0447.CR2
+    ├── IMG_0447.xmp
+    ├── IMG_0448.CR2
+    ├── IMG_0448.xmp
+    ├── IMG_0449.CR2
+    ├── IMG_0449.xmp
+    ├── IMG_0450.CR2
+    ├── IMG_0451.CR2
+    ├── IMG_0451.xmp
+    ├── IMG_0452.CR2
+    ├── IMG_0452.xmp
+    ├── IMG_0453.CR2
+    ├── IMG_0453.xmp
+    ├── IMG_0454.CR2
+    ├── IMG_0454.xmp
+    ├── IMG_0455.CR2
+    ├── IMG_0455.xmp
+    ├── IMG_0456.CR2
+    ├── IMG_0456.xmp
+    ├── IMG_0457.CR2
+    ├── IMG_0457.xmp
+    ├── IMG_0458.CR2
+    ├── IMG_0458.xmp
+    ├── IMG_0459.CR2
+    ├── IMG_0459.xmp
+    ├── IMG_0460.CR2
+    ├── IMG_0460.xmp
+    └── M0100.CTG
+20191231_Happy2020
+├── .BridgeSort
+├── Happy2020_009.jpg
+├── Happy2020_010.jpg
+├── Happy2020_011.jpg
+├── Happy2020_012.jpg
+├── Happy2020_013.jpg
+├── Happy2020_014.jpg
+├── Happy2020_015.jpg
+├── Happy2020_016.jpg
+├── Happy2020_017.jpg
+├── Happy2020_018.jpg
+├── Happy2020_019.jpg
+├── Happy2020_020.jpg
+├── Happy2020_021.jpg
+├── Happy2020_022.jpg
+├── Happy2020_023.jpg
+├── Happy2020_024.jpg
+├── RAW
+│   ├── IMG_0461.CR2
+│   ├── IMG_0461.xmp
+│   ├── IMG_0462.CR2
+│   ├── IMG_0462.xmp
+│   ├── IMG_0463.CR2
+│   ├── IMG_0463.xmp
+│   ├── IMG_0465.CR2
+│   ├── IMG_0465.xmp
+│   ├── IMG_0466.CR2
+│   ├── IMG_0466.xmp
+│   ├── IMG_0468.CR2
+│   ├── IMG_0468.xmp
+│   ├── IMG_0469.CR2
+│   ├── IMG_0469.xmp
+│   ├── IMG_0471.CR2
+│   ├── IMG_0471.xmp
+│   ├── IMG_0472.CR2
+│   ├── IMG_0476.CR2
+│   ├── IMG_0476.xmp
+│   ├── IMG_0477.CR2
+│   ├── IMG_0477.xmp
+│   ├── IMG_0478.CR2
+│   ├── IMG_0478.xmp
+│   ├── IMG_0479.CR2
+│   ├── IMG_0479.xmp
+│   ├── IMG_0480.CR2
+│   ├── IMG_0480.xmp
+│   ├── IMG_0482.CR2
+│   ├── IMG_0482.xmp
+│   ├── IMG_0484.CR2
+│   ├── IMG_0484.xmp
+│   ├── IMG_0486.CR2
+│   ├── IMG_0486.xmp
+│   ├── IMG_0487.CR2
+│   ├── IMG_0488.CR2
+│   ├── IMG_0488.xmp
+│   ├── IMG_0489.CR2
+│   ├── IMG_0489.xmp
+│   ├── IMG_0490.CR2
+│   ├── IMG_0490.xmp
+│   ├── IMG_0492.CR2
+│   ├── IMG_0492.xmp
+│   ├── IMG_0494.CR2
+│   ├── IMG_0494.xmp
+│   ├── IMG_0495.CR2
+│   ├── IMG_0495.xmp
+│   ├── IMG_0496.CR2
+│   ├── IMG_0496.xmp
+│   ├── IMG_0497.CR2
+│   ├── IMG_0497.xmp
+│   ├── IMG_0498.CR2
+│   ├── IMG_0499.CR2
+│   ├── IMG_0499.xmp
+│   ├── IMG_0503.CR2
+│   ├── IMG_0503.xmp
+│   ├── IMG_0505.CR2
+│   ├── IMG_0505.xmp
+│   ├── IMG_0507.CR2
+│   ├── IMG_0507.xmp
+│   ├── IMG_0508.CR2
+│   ├── IMG_0508.xmp
+│   ├── IMG_0510.CR2
+│   ├── IMG_0510.xmp
+│   ├── IMG_0511.CR2
+│   ├── IMG_0511.xmp
+│   ├── IMG_0517.CR2
+│   ├── IMG_0517.xmp
+│   ├── IMG_0519.CR2
+│   ├── IMG_0521.CR2
+│   ├── IMG_0521.xmp
+│   ├── IMG_0523.CR2
+│   ├── IMG_0523.xmp
+│   ├── IMG_0525.CR2
+│   ├── IMG_0525.xmp
+│   ├── IMG_0527.CR2
+│   ├── IMG_0527.xmp
+│   ├── IMG_0529.CR2
+│   ├── IMG_0529.xmp
+│   ├── IMG_0530.CR2
+│   ├── IMG_0530.xmp
+│   ├── IMG_0531.CR2
+│   ├── IMG_0531.xmp
+│   ├── IMG_0532.CR2
+│   ├── IMG_0532.xmp
+│   ├── IMG_0533.CR2
+│   ├── IMG_0534.CR2
+│   ├── IMG_0534.xmp
+│   ├── IMG_0535.CR2
+│   ├── IMG_0535.xmp
+│   ├── IMG_0536.CR2
+│   ├── IMG_0536.xmp
+│   ├── IMG_0537.CR2
+│   ├── IMG_0537.xmp
+│   ├── IMG_0538.CR2
+│   ├── IMG_0538.xmp
+│   ├── IMG_0542.CR2
+│   ├── IMG_0542.xmp
+│   ├── IMG_0544.CR2
+│   ├── IMG_0544.xmp
+│   ├── IMG_0545.CR2
+│   ├── IMG_0545.xmp
+│   ├── IMG_0547.CR2
+│   ├── IMG_0472.xmp
+│   ├── IMG_0487.xmp
+│   ├── IMG_0498.xmp
+│   ├── IMG_0519.xmp
+│   ├── IMG_0533.xmp
+│   ├── IMG_0547.xmp
+│   ├── IMG_0563.xmp
+│   ├── IMG_0575.xmp
+│   ├── IMG_0590.xmp
+│   ├── IMG_0612.xmp
+│   ├── IMG_0625.xmp
+│   ├── IMG_0646.xmp
+│   ├── IMG_0660.xmp
+│   ├── IMG_0674.xmp
+│   ├── IMG_0548.CR2
+│   ├── IMG_0548.xmp
+│   ├── IMG_0549.CR2
+│   ├── IMG_0549.xmp
+│   ├── IMG_0552.CR2
+│   ├── IMG_0552.xmp
+│   ├── IMG_0553.CR2
+│   ├── IMG_0553.xmp
+│   ├── IMG_0554.CR2
+│   ├── IMG_0554.xmp
+│   ├── IMG_0556.CR2
+│   ├── IMG_0556.xmp
+│   ├── IMG_0558.CR2
+│   ├── IMG_0558.xmp
+│   ├── IMG_0559.CR2
+│   ├── IMG_0559.xmp
+│   ├── IMG_0563.CR2
+│   ├── IMG_0564.CR2
+│   ├── IMG_0564.xmp
+│   ├── IMG_0565.CR2
+│   ├── IMG_0565.xmp
+│   ├── IMG_0566.CR2
+│   ├── IMG_0566.xmp
+│   ├── IMG_0567.CR2
+│   ├── IMG_0567.xmp
+│   ├── IMG_0571.CR2
+│   ├── IMG_0571.xmp
+│   ├── IMG_0572.CR2
+│   ├── IMG_0572.xmp
+│   ├── IMG_0573.CR2
+│   ├── IMG_0573.xmp
+│   ├── IMG_0574.CR2
+│   ├── IMG_0574.xmp
+│   ├── IMG_0575.CR2
+│   ├── IMG_0576.CR2
+│   ├── IMG_0576.xmp
+│   ├── IMG_0577.CR2
+│   ├── IMG_0577.xmp
+│   ├── IMG_0578.CR2
+│   ├── IMG_0578.xmp
+│   ├── IMG_0582.CR2
+│   ├── IMG_0582.xmp
+│   ├── IMG_0583.CR2
+│   ├── IMG_0583.xmp
+│   ├── IMG_0585.CR2
+│   ├── IMG_0585.xmp
+│   ├── IMG_0588.CR2
+│   ├── IMG_0588.xmp
+│   ├── IMG_0589.CR2
+│   ├── IMG_0589.xmp
+│   ├── IMG_0590.CR2
+│   ├── IMG_0591.CR2
+│   ├── IMG_0591.xmp
+│   ├── IMG_0592.CR2
+│   ├── IMG_0592.xmp
+│   ├── IMG_0594.CR2
+│   ├── IMG_0594.xmp
+│   ├── IMG_0596.CR2
+│   ├── IMG_0596.xmp
+│   ├── IMG_0600.CR2
+│   ├── IMG_0600.xmp
+│   ├── IMG_0604.CR2
+│   ├── IMG_0604.xmp
+│   ├── IMG_0605.CR2
+│   ├── IMG_0605.xmp
+│   ├── IMG_0610.CR2
+│   ├── IMG_0610.xmp
+│   ├── IMG_0612.CR2
+│   ├── IMG_0613.CR2
+│   ├── IMG_0613.xmp
+│   ├── IMG_0615.CR2
+│   ├── IMG_0615.xmp
+│   ├── IMG_0617.CR2
+│   ├── IMG_0617.xmp
+│   ├── IMG_0618.CR2
+│   ├── IMG_0618.xmp
+│   ├── IMG_0619.CR2
+│   ├── IMG_0619.xmp
+│   ├── IMG_0620.CR2
+│   ├── IMG_0620.xmp
+│   ├── IMG_0622.CR2
+│   ├── IMG_0622.xmp
+│   ├── IMG_0624.CR2
+│   ├── IMG_0624.xmp
+│   ├── IMG_0625.CR2
+│   ├── IMG_0628.CR2
+│   ├── IMG_0628.xmp
+│   ├── IMG_0629.CR2
+│   ├── IMG_0629.xmp
+│   ├── IMG_0631.CR2
+│   ├── IMG_0631.xmp
+│   ├── IMG_0635.CR2
+│   ├── IMG_0635.xmp
+│   ├── IMG_0636.CR2
+│   ├── IMG_0636.xmp
+│   ├── IMG_0642.CR2
+│   ├── IMG_0642.xmp
+│   ├── IMG_0643.CR2
+│   ├── IMG_0643.xmp
+│   ├── IMG_0644.CR2
+│   ├── IMG_0644.xmp
+│   ├── IMG_0646.CR2
+│   ├── IMG_0649.CR2
+│   ├── IMG_0649.xmp
+│   ├── IMG_0650.CR2
+│   ├── IMG_0650.xmp
+│   ├── IMG_0651.CR2
+│   ├── IMG_0651.xmp
+│   ├── IMG_0654.CR2
+│   ├── IMG_0654.xmp
+│   ├── IMG_0655.CR2
+│   ├── IMG_0655.xmp
+│   ├── IMG_0656.CR2
+│   ├── IMG_0656.xmp
+│   ├── IMG_0657.CR2
+│   ├── IMG_0657.xmp
+│   ├── IMG_0659.CR2
+│   ├── IMG_0659.xmp
+│   ├── IMG_0660.CR2
+│   ├── IMG_0661.CR2
+│   ├── IMG_0661.xmp
+│   ├── IMG_0662.CR2
+│   ├── IMG_0662.xmp
+│   ├── IMG_0663.CR2
+│   ├── IMG_0663.xmp
+│   ├── IMG_0664.CR2
+│   ├── IMG_0664.xmp
+│   ├── IMG_0666.CR2
+│   ├── IMG_0666.xmp
+│   ├── IMG_0668.CR2
+│   ├── IMG_0668.xmp
+│   ├── IMG_0669.CR2
+│   ├── IMG_0669.xmp
+│   ├── IMG_0672.CR2
+│   ├── IMG_0672.xmp
+│   ├── IMG_0674.CR2
+│   ├── IMG_0675.CR2
+│   ├── IMG_0675.xmp
+│   ├── IMG_0676.CR2
+│   ├── IMG_0676.xmp
+│   ├── IMG_0677.CR2
+│   ├── IMG_0677.xmp
+│   ├── IMG_0678.CR2
+│   ├── IMG_0678.xmp
+│   ├── IMG_0679.CR2
+│   ├── IMG_0679.xmp
+│   ├── IMG_0680.CR2
+│   ├── IMG_0680.xmp
+│   ├── IMG_0681.CR2
+│   ├── IMG_0681.xmp
+│   ├── IMG_0682.CR2
+│   ├── IMG_0682.xmp
+│   ├── IMG_0683.CR2
+│   ├── IMG_0683.xmp
+│   ├── IMG_0685.CR2
+│   ├── IMG_0685.xmp
+│   ├── IMG_0687.CR2
+│   ├── IMG_0687.xmp
+│   ├── IMG_0688.CR2
+│   ├── IMG_0688.xmp
+│   ├── IMG_0690.CR2
+│   ├── IMG_0690.xmp
+│   ├── IMG_0693.CR2
+│   └── IMG_0693.xmp
+├── Happy2020_026.jpg
+├── Happy2020_027.jpg
+├── Happy2020_028.jpg
+├── Happy2020_029.jpg
+├── Happy2020_030.jpg
+├── Happy2020_031.jpg
+├── Happy2020_032.jpg
+├── Happy2020_033.jpg
+├── Happy2020_034.jpg
+├── Happy2020_035.jpg
+├── Happy2020_036.jpg
+├── Happy2020_037.jpg
+├── Happy2020_038.jpg
+├── Happy2020_039.jpg
+├── Happy2020_040.jpg
+├── Happy2020_041.jpg
+├── Happy2020_008.jpg
+├── Happy2020_025.jpg
+├── Happy2020_042.jpg
+├── Happy2020_059.jpg
+├── Happy2020_076.jpg
+├── Happy2020_093.jpg
+├── Happy2020_110.jpg
+├── Happy2020_127.jpg
+├── Happy2020_043.jpg
+├── Happy2020_044.jpg
+├── Happy2020_045.jpg
+├── Happy2020_046.jpg
+├── Happy2020_047.jpg
+├── Happy2020_048.jpg
+├── Happy2020_049.jpg
+├── Happy2020_050.jpg
+├── Happy2020_051.jpg
+├── Happy2020_052.jpg
+├── Happy2020_053.jpg
+├── Happy2020_054.jpg
+├── Happy2020_055.jpg
+├── Happy2020_056.jpg
+├── Happy2020_057.jpg
+├── Happy2020_058.jpg
+├── Happy2020_060.jpg
+├── Happy2020_061.jpg
+├── Happy2020_062.jpg
+├── Happy2020_063.jpg
+├── Happy2020_064.jpg
+├── Happy2020_065.jpg
+├── Happy2020_066.jpg
+├── Happy2020_067.jpg
+├── Happy2020_068.jpg
+├── Happy2020_069.jpg
+├── Happy2020_070.jpg
+├── Happy2020_071.jpg
+├── Happy2020_072.jpg
+├── Happy2020_073.jpg
+├── Happy2020_074.jpg
+├── Happy2020_075.jpg
+├── Happy2020_001.jpg
+├── Happy2020_002.jpg
+├── Happy2020_003.jpg
+├── Happy2020_004.jpg
+├── Happy2020_005.jpg
+├── Happy2020_006.jpg
+├── Happy2020_007.jpg
+├── Happy2020_077.jpg
+├── Happy2020_078.jpg
+├── Happy2020_079.jpg
+├── Happy2020_080.jpg
+├── Happy2020_081.jpg
+├── Happy2020_082.jpg
+├── Happy2020_083.jpg
+├── Happy2020_084.jpg
+├── Happy2020_085.jpg
+├── Happy2020_086.jpg
+├── Happy2020_087.jpg
+├── Happy2020_088.jpg
+├── Happy2020_089.jpg
+├── Happy2020_090.jpg
+├── Happy2020_091.jpg
+├── Happy2020_092.jpg
+├── Happy2020_094.jpg
+├── Happy2020_095.jpg
+├── Happy2020_096.jpg
+├── Happy2020_097.jpg
+├── Happy2020_098.jpg
+├── Happy2020_099.jpg
+├── Happy2020_100.jpg
+├── Happy2020_101.jpg
+├── Happy2020_102.jpg
+├── Happy2020_103.jpg
+├── Happy2020_104.jpg
+├── Happy2020_105.jpg
+├── Happy2020_106.jpg
+├── Happy2020_107.jpg
+├── Happy2020_108.jpg
+├── Happy2020_109.jpg
+├── Happy2020_111.jpg
+├── Happy2020_112.jpg
+├── Happy2020_113.jpg
+├── Happy2020_114.jpg
+├── Happy2020_115.jpg
+├── Happy2020_116.jpg
+├── Happy2020_117.jpg
+├── Happy2020_118.jpg
+├── Happy2020_119.jpg
+├── Happy2020_120.jpg
+├── Happy2020_121.jpg
+├── Happy2020_122.jpg
+├── Happy2020_123.jpg
+├── Happy2020_124.jpg
+├── Happy2020_125.jpg
+├── Happy2020_126.jpg
+├── Happy2020_128.jpg
+├── Happy2020_129.jpg
+├── Happy2020_130.jpg
+├── Happy2020_131.jpg
+├── Happy2020_132.jpg
+├── Happy2020_133.jpg
+├── Happy2020_134.jpg
+├── Happy2020_135.jpg
+├── Happy2020_136.jpg
+├── Happy2020_137.jpg
+└── Happy2020_138.jpg

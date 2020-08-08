@@ -112,18 +112,29 @@ And back
 gpg --decrypt mysecretfile.gpg
 ```
 
-## And compression
+## About archives
+
 
 Compression
 ```bash
 tar -Jcvf mycompressedfiles.tar.xz files... 
 ```
-(or simpler compression)
-```bash
-tar -Jcvf mycompressedfiles.tar.gz files... 
-```
-
 Extraction
 ```bash
 tar -Jxvf mycompressedfiles.tar.xz -c NewFolder/ 
 ```
+(or simpler compression)
+```bash
+tar -zcvf mycompressedfiles.tar.gz files... 
+```
+As a matter of fact I am not really using any compression, it does not seem to matter too much with many JPEG and RAW files.
+But it is useful to add file to archives, as follows
+```bash
+tar -cvf my_archive.tar files... 
+tar -rvf my_archive.tar more_files... 
+```
+Save file tree from tar file (I am using `treeify` which I installed using `cargo`)
+```bash
+tar -tf filename.tar | treeify  >> filenameTree.txt
+```
+
