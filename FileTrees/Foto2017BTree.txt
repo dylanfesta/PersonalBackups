@@ -1,0 +1,1135 @@
+20170601_Antonella1
+├── Antonella_Manhattan_03.JPG
+├── Antonella_Manhattan_01.JPG
+├── Antonella_Manhattan_02.JPG
+├── Antonella_Manhattan_04.JPG
+├── Antonella_Manhattan_05.JPG
+├── Antonella_Manhattan_06.JPG
+├── Antonella_Manhattan_07.JPG
+├── Antonella_Manhattan_08.JPG
+├── Antonella_Manhattan_09.JPG
+├── Antonella_Manhattan_10.JPG
+├── Antonella_Manhattan_11.JPG
+├── Antonella_Manhattan_12.JPG
+├── Antonella_Manhattan_13.JPG
+├── Antonella_Manhattan_14.JPG
+├── Antonella_Manhattan_15.JPG
+├── Antonella_Manhattan_16.JPG
+├── Antonella_Manhattan_17.JPG
+├── Antonella_Manhattan_18.JPG
+├── Antonella_Manhattan_19.JPG
+├── Antonella_Manhattan_20.JPG
+├── Antonella_Manhattan_21.JPG
+├── Antonella_Manhattan_22.JPG
+├── Antonella_Manhattan_23.JPG
+├── Antonella_Manhattan_24.JPG
+├── Antonella_Manhattan_25.JPG
+├── Antonella_Manhattan_26.JPG
+├── Antonella_Manhattan_27.JPG
+├── Antonella_Manhattan_28.JPG
+├── Antonella_Manhattan_29.JPG
+└── RAW
+    ├── 20170601_0996.CR2
+    ├── 20170601_0999.CR2
+    ├── 20170601_0999.xmp
+    ├── 20170601_1001.CR2
+    ├── 20170601_1001.xmp
+    ├── 20170601_1002.CR2
+    ├── 20170601_1002.xmp
+    ├── 20170601_1004.CR2
+    ├── 20170601_1004.xmp
+    ├── 20170601_1006.CR2
+    ├── 20170601_1006.xmp
+    ├── 20170601_1008.CR2
+    ├── 20170601_1008.xmp
+    ├── 20170601_1011.CR2
+    ├── 20170601_1011.xmp
+    ├── 20170601_1014.CR2
+    ├── 20170601_1014.xmp
+    ├── 20170601_1016.CR2
+    ├── 20170601_1016.xmp
+    ├── 20170601_1020.CR2
+    ├── 20170601_1020.xmp
+    ├── 20170601_1025.CR2
+    ├── 20170601_1025.xmp
+    ├── 20170601_1026.CR2
+    ├── 20170601_1026.xmp
+    ├── 20170601_1027.CR2
+    ├── 20170601_1027.xmp
+    ├── 20170601_1029.CR2
+    └── 20170601_1029.xmp
+20170603_Antonella2
+├── Antonella_Manhattan2_01.JPG
+├── Antonella_Manhattan2_02.JPG
+├── Antonella_Manhattan2_03.JPG
+├── Antonella_Manhattan2_04.JPG
+├── Antonella_Manhattan2_05.JPG
+├── Antonella_Manhattan2_06.JPG
+├── Antonella_Manhattan2_07.JPG
+├── Antonella_Manhattan2_08.JPG
+├── Antonella_Manhattan2_09.JPG
+├── Antonella_Manhattan2_10.JPG
+├── Antonella_Manhattan2_11.JPG
+└── RAW
+    ├── 20170603_0976.CR2
+    ├── 20170603_0976.xmp
+    ├── 20170603_0978.CR2
+    ├── 20170603_0978.xmp
+    ├── 20170603_0981.CR2
+    ├── 20170603_0981.xmp
+    ├── 20170603_0982.CR2
+    ├── 20170603_0982.xmp
+    ├── 20170603_0985.CR2
+    ├── 20170603_0985.xmp
+    ├── 20170603_0987.CR2
+    └── 20170603_0987.xmp
+20170604_Antonella3
+├── Antonella_Bengali_1.JPG
+├── Antonella_Bengali_2.JPG
+└── Antonella_Bengali_3.JPG
+20170607_Antonella4
+├── .BridgeSort
+├── Antonella_Ferry_01.JPG
+├── Antonella_Ferry_02.JPG
+├── Antonella_Ferry_03.JPG
+├── Antonella_Ferry_04.JPG
+├── Antonella_Ferry_05.JPG
+├── Antonella_Ferry_06.JPG
+├── Antonella_Ferry_07.JPG
+├── Antonella_Ferry_08.JPG
+├── Antonella_Ferry_09.JPG
+├── Antonella_Ferry_10.JPG
+├── Antonella_Ferry_11.JPG
+├── Antonella_Ferry_12.JPG
+├── Antonella_Ferry_13.JPG
+├── Antonella_Ferry_14.JPG
+├── Antonella_Ferry_15.JPG
+├── Antonella_Ferry_16.JPG
+├── Antonella_Ferry_17.JPG
+├── Antonella_Ferry_18.JPG
+└── Antonella_Ferry_19.JPG
+20170608_Antonella5_WashingtonDC
+├── Antonella_Washington_16.JPG
+├── Antonella_Washington_31.JPG
+├── Antonella_Washington_46.JPG
+├── Antonella_Washington_61.JPG
+├── Antonella_Washington_76.JPG
+├── Antonella_Washington_01.JPG
+├── Antonella_Washington_02.JPG
+├── Antonella_Washington_03.JPG
+├── Antonella_Washington_04.JPG
+├── Antonella_Washington_05.JPG
+├── Antonella_Washington_06.JPG
+├── Antonella_Washington_07.JPG
+├── Antonella_Washington_08.JPG
+├── Antonella_Washington_09.JPG
+├── Antonella_Washington_10.JPG
+├── Antonella_Washington_11.JPG
+├── Antonella_Washington_12.JPG
+├── Antonella_Washington_13.JPG
+├── Antonella_Washington_14.JPG
+├── Antonella_Washington_15.JPG
+├── Antonella_Washington_17.JPG
+├── Antonella_Washington_18.JPG
+├── Antonella_Washington_19.JPG
+├── Antonella_Washington_20.JPG
+├── Antonella_Washington_21.JPG
+├── Antonella_Washington_22.JPG
+├── Antonella_Washington_23.JPG
+├── Antonella_Washington_24.JPG
+├── Antonella_Washington_25.JPG
+├── Antonella_Washington_26.JPG
+├── Antonella_Washington_27.JPG
+├── Antonella_Washington_28.JPG
+├── Antonella_Washington_29.JPG
+├── Antonella_Washington_30.JPG
+├── Antonella_Washington_32.JPG
+├── Antonella_Washington_33.JPG
+├── Antonella_Washington_34.JPG
+├── Antonella_Washington_35.JPG
+├── Antonella_Washington_36.JPG
+├── Antonella_Washington_37.JPG
+├── Antonella_Washington_38.JPG
+├── Antonella_Washington_39.JPG
+├── Antonella_Washington_40.JPG
+├── Antonella_Washington_41.JPG
+├── Antonella_Washington_42.JPG
+├── Antonella_Washington_43.JPG
+├── Antonella_Washington_44.JPG
+├── Antonella_Washington_45.JPG
+├── Antonella_Washington_47.JPG
+├── Antonella_Washington_48.JPG
+├── Antonella_Washington_49.JPG
+├── Antonella_Washington_50.JPG
+├── Antonella_Washington_51.JPG
+├── Antonella_Washington_52.JPG
+├── Antonella_Washington_53.JPG
+├── Antonella_Washington_54.JPG
+├── Antonella_Washington_55.JPG
+├── Antonella_Washington_56.JPG
+├── Antonella_Washington_57.JPG
+├── Antonella_Washington_58.JPG
+├── Antonella_Washington_59.JPG
+├── Antonella_Washington_60.JPG
+├── Antonella_Washington_62.JPG
+├── Antonella_Washington_63.JPG
+├── Antonella_Washington_64.JPG
+├── Antonella_Washington_65.JPG
+├── Antonella_Washington_66.JPG
+├── Antonella_Washington_67.JPG
+├── Antonella_Washington_68.JPG
+├── Antonella_Washington_69.JPG
+├── Antonella_Washington_70.JPG
+├── Antonella_Washington_71.JPG
+├── Antonella_Washington_72.JPG
+├── Antonella_Washington_73.JPG
+├── Antonella_Washington_74.JPG
+├── Antonella_Washington_75.JPG
+├── Antonella_Washington_77.JPG
+├── Antonella_Washington_78.JPG
+├── Antonella_Washington_79.JPG
+├── Antonella_Washington_80.JPG
+├── Antonella_Washington_81.JPG
+├── Antonella_Washington_82.JPG
+├── Antonella_Washington_83.JPG
+├── Antonella_Washington_84.JPG
+├── Antonella_Washington_85.JPG
+├── Antonella_Washington_86.JPG
+├── Antonella_Washington_87.JPG
+├── Antonella_Washington_88.JPG
+├── Antonella_Washington_89.JPG
+├── Antonella_Washington_90.JPG
+├── Antonella_Washington_91.JPG
+├── Antonella_Washington_92.JPG
+├── Antonella_Washington_93.JPG
+├── Antonella_Washington_94.JPG
+├── Antonella_Washington_95.JPG
+└── RAW
+    ├── 20170608_1088.CR2
+    ├── 20170608_1088.xmp
+    ├── 20170608_1089.CR2
+    ├── 20170608_1089.xmp
+    ├── 20170608_1091.CR2
+    ├── 20170608_1091.xmp
+    ├── 20170608_1092.CR2
+    ├── 20170608_1092.xmp
+    ├── 20170608_1098.CR2
+    ├── 20170608_1098.xmp
+    ├── 20170608_1101.CR2
+    ├── 20170608_1101.xmp
+    ├── 20170608_1104.CR2
+    ├── 20170608_1104.xmp
+    ├── 20170608_1106.CR2
+    ├── 20170608_1106.xmp
+    ├── 20170608_1108.xmp
+    ├── 20170608_1111.CR2
+    ├── 20170608_1111.xmp
+    ├── 20170608_1112.CR2
+    ├── 20170608_1112.xmp
+    ├── 20170608_1113.CR2
+    ├── 20170608_1113.xmp
+    ├── 20170608_1116.CR2
+    ├── 20170608_1116.xmp
+    ├── 20170608_1118.CR2
+    ├── 20170608_1118.xmp
+    ├── 20170608_1121.CR2
+    ├── 20170608_1121.xmp
+    ├── 20170608_1123.CR2
+    ├── 20170608_1123.xmp
+    ├── 20170608_1124.CR2
+    ├── 20170608_1125.CR2
+    ├── 20170608_1125.xmp
+    ├── 20170608_1127.CR2
+    ├── 20170608_1127.xmp
+    ├── 20170608_1129.CR2
+    ├── 20170608_1129.xmp
+    ├── 20170608_1130.CR2
+    ├── 20170608_1130.xmp
+    ├── 20170608_1131.CR2
+    ├── 20170608_1131.xmp
+    ├── 20170608_1136.CR2
+    ├── 20170608_1136.xmp
+    ├── 20170608_1137.CR2
+    ├── 20170608_1137.xmp
+    ├── 20170608_1141.CR2
+    ├── 20170608_1141.xmp
+    ├── 20170608_1142.xmp
+    ├── 20170608_1145.CR2
+    ├── 20170608_1145.xmp
+    ├── 20170608_1147.CR2
+    ├── 20170608_1147.xmp
+    ├── 20170608_1148.CR2
+    ├── 20170608_1148.xmp
+    ├── 20170608_1150.CR2
+    ├── 20170608_1150.xmp
+    ├── 20170608_1152.CR2
+    ├── 20170608_1152.xmp
+    ├── 20170608_1154.CR2
+    ├── 20170608_1154.xmp
+    ├── 20170608_1157.CR2
+    ├── 20170608_1157.xmp
+    ├── 20170608_1160.CR2
+    ├── 20170608_1161.CR2
+    ├── 20170608_1161.xmp
+    ├── 20170608_1162.CR2
+    ├── 20170608_1162.xmp
+    ├── 20170608_1163.CR2
+    ├── 20170608_1163.xmp
+    ├── 20170608_1164.CR2
+    ├── 20170608_1164.xmp
+    ├── 20170608_1165.CR2
+    ├── 20170608_1165.xmp
+    ├── 20170608_1166.CR2
+    ├── 20170608_1166.xmp
+    ├── 20170609_1038.CR2
+    ├── 20170609_1038.xmp
+    ├── 20170609_1040.CR2
+    ├── 20170609_1040.xmp
+    ├── 20170609_1041.xmp
+    ├── 20170609_1042.CR2
+    ├── 20170609_1042.xmp
+    ├── 20170609_1043.CR2
+    ├── 20170609_1043.xmp
+    ├── 20170609_1044.CR2
+    ├── 20170609_1044.xmp
+    ├── 20170609_1045.CR2
+    ├── 20170609_1045.xmp
+    ├── 20170609_1046.CR2
+    ├── 20170609_1046.xmp
+    ├── 20170609_1048.CR2
+    ├── 20170609_1048.xmp
+    ├── 20170609_1049.CR2
+    ├── 20170609_1049.xmp
+    ├── 20170609_1050.CR2
+    ├── 20170608_1108.CR2
+    ├── 20170608_1124.xmp
+    ├── 20170608_1142.CR2
+    ├── 20170608_1160.xmp
+    ├── 20170609_1041.CR2
+    ├── 20170609_1050.xmp
+    ├── 20170609_1065.CR2
+    ├── 20170609_1051.CR2
+    ├── 20170609_1051.xmp
+    ├── 20170609_1052.CR2
+    ├── 20170609_1052.xmp
+    ├── 20170609_1055.CR2
+    ├── 20170609_1055.xmp
+    ├── 20170609_1056.CR2
+    ├── 20170609_1056.xmp
+    ├── 20170609_1057.CR2
+    ├── 20170609_1057.xmp
+    ├── 20170609_1059.CR2
+    ├── 20170609_1059.xmp
+    ├── 20170609_1061.CR2
+    ├── 20170609_1061.xmp
+    ├── 20170609_1064.CR2
+    ├── 20170609_1064.xmp
+    ├── 20170609_1065.xmp
+    ├── 20170609_1068.CR2
+    ├── 20170609_1068.xmp
+    ├── 20170609_1069.CR2
+    ├── 20170609_1069.xmp
+    ├── 20170609_1070.CR2
+    ├── 20170609_1070.xmp
+    ├── 20170609_1071.CR2
+    ├── 20170609_1071.xmp
+    ├── 20170609_1072.CR2
+    ├── 20170609_1072.xmp
+    ├── 20170609_1073.CR2
+    ├── 20170609_1073.xmp
+    ├── 20170609_1074.CR2
+    ├── 20170609_1074.xmp
+    ├── 20170609_1075.CR2
+    ├── 20170609_1075.xmp
+    ├── 20170609_1076.CR2
+    ├── 20170609_1076.xmp
+    ├── 20170609_1078.CR2
+    ├── 20170609_1078.xmp
+    ├── 20170609_1079.CR2
+    ├── 20170609_1079.xmp
+    ├── 20170609_1080.CR2
+    ├── 20170609_1080.xmp
+    ├── 20170609_1081.CR2
+    ├── 20170609_1081.xmp
+    ├── 20170609_1082.CR2
+    ├── 20170609_1082.xmp
+    ├── 20170609_1084.CR2
+    └── 20170609_1084.xmp
+20170610_Antonella6
+├── Gospel_1.JPG
+├── Gospel_2.JPG
+├── Gospel_3.JPG
+├── Gospel_4.JPG
+├── Gospel_5.JPG
+└── Gospel_6.JPG
+20170613_Antonella7
+├── dinner_01.JPG
+├── dinner_02.JPG
+├── dinner_03.JPG
+├── dinner_04.JPG
+├── dinner_05.JPG
+├── dinner_06.JPG
+├── dinner_07.JPG
+├── dinner_08.JPG
+└── RAW
+    ├── 20170613_1210.CR2
+    ├── 20170613_1210.xmp
+    ├── 20170614_1199.CR2
+    ├── 20170614_1199.xmp
+    ├── 20170614_1200.CR2
+    ├── 20170614_1200.xmp
+    ├── 20170614_1201.CR2
+    ├── 20170614_1201.xmp
+    ├── 20170614_1203.CR2
+    └── 20170614_1203.xmp
+20170615_Antonella8
+├── Antonella_Day7_01.JPG
+├── Antonella_Day7_02.JPG
+├── Antonella_Day7_03.JPG
+├── Antonella_Day7_04.JPG
+├── Antonella_Day7_05.JPG
+├── Antonella_Day7_06.JPG
+├── Antonella_Day7_07.JPG
+├── Antonella_Day7_08.JPG
+├── Antonella_Day7_09.JPG
+├── Antonella_Day7_10.JPG
+├── Antonella_Day7_12.JPG
+├── Antonella_Day7_13.JPG
+├── Antonella_Day7_14.JPG
+├── Antonella_Day7_15.JPG
+├── Antonella_Day7_16.JPG
+├── Antonella_Day7_17.JPG
+├── Antonella_Day7_18.JPG
+├── Antonella_Day7_19.JPG
+├── Antonella_Day7_20.JPG
+├── Antonella_Day7_21.JPG
+├── Antonella_Day7_22.JPG
+├── Antonella_Day7_23.JPG
+├── Antonella_Day7_24.JPG
+├── Antonella_Day7_25.JPG
+├── Antonella_Day7_26.JPG
+├── Antonella_Day7_27.JPG
+├── Antonella_Day7_28.JPG
+├── Antonella_Day7_29.JPG
+├── RAW
+│   ├── 20170615_1180.CR2
+│   ├── 20170615_1168.CR2
+│   ├── 20170615_1168.xmp
+│   ├── 20170615_1170.CR2
+│   ├── 20170615_1170.xmp
+│   ├── 20170615_1172.CR2
+│   ├── 20170615_1172.xmp
+│   ├── 20170615_1173.CR2
+│   ├── 20170615_1173.xmp
+│   ├── 20170615_1174.CR2
+│   ├── 20170615_1174.xmp
+│   ├── 20170615_1175.CR2
+│   ├── 20170615_1175.xmp
+│   ├── 20170615_1176.CR2
+│   ├── 20170615_1176.xmp
+│   ├── 20170615_1179.CR2
+│   ├── 20170615_1179.xmp
+│   ├── 20170615_1180.xmp
+│   ├── 20170615_1181.CR2
+│   ├── 20170615_1181.xmp
+│   ├── 20170615_1182.CR2
+│   ├── 20170615_1182.xmp
+│   ├── 20170615_1183.CR2
+│   ├── 20170615_1183.xmp
+│   ├── 20170615_1187.CR2
+│   ├── 20170615_1187.xmp
+│   ├── 20170615_1189.CR2
+│   ├── 20170615_1189.xmp
+│   ├── 20170615_1191.CR2
+│   ├── 20170615_1191.xmp
+│   ├── 20170615_1193.CR2
+│   ├── 20170615_1193.xmp
+│   ├── 20170615_1194.CR2
+│   ├── 20170615_1194.xmp
+│   ├── 20170615_1195.CR2
+│   ├── 20170615_1195.xmp
+│   ├── 20170615_1197.CR2
+│   └── 20170615_1197.xmp
+└── Antonella_Day7_11.JPG
+20170616_Antonella9_Boston
+├── Antonella_Boston_07.JPG
+├── Antonella_Boston_23.JPG
+├── Antonella_Boston_39.JPG
+├── Antonella_Boston_01.JPG
+├── Antonella_Boston_02.JPG
+├── Antonella_Boston_03.JPG
+├── Antonella_Boston_04.JPG
+├── Antonella_Boston_05.JPG
+├── Antonella_Boston_06.JPG
+├── Antonella_Boston_08.JPG
+├── Antonella_Boston_09.JPG
+├── Antonella_Boston_10.JPG
+├── Antonella_Boston_11.JPG
+├── Antonella_Boston_12.JPG
+├── Antonella_Boston_13.JPG
+├── Antonella_Boston_14.JPG
+├── Antonella_Boston_15.JPG
+├── Antonella_Boston_16.JPG
+├── Antonella_Boston_17.JPG
+├── Antonella_Boston_18.JPG
+├── Antonella_Boston_19.JPG
+├── Antonella_Boston_20.JPG
+├── Antonella_Boston_21.JPG
+├── Antonella_Boston_22.JPG
+├── Antonella_Boston_24.JPG
+├── Antonella_Boston_25.JPG
+├── Antonella_Boston_26.JPG
+├── Antonella_Boston_27.JPG
+├── Antonella_Boston_28.JPG
+├── Antonella_Boston_29.JPG
+├── Antonella_Boston_30.JPG
+├── Antonella_Boston_31.JPG
+├── Antonella_Boston_32.JPG
+├── Antonella_Boston_33.JPG
+├── Antonella_Boston_34.JPG
+├── Antonella_Boston_35.JPG
+├── Antonella_Boston_36.JPG
+├── Antonella_Boston_37.JPG
+├── Antonella_Boston_38.JPG
+├── Antonella_Boston_40.JPG
+├── Antonella_Boston_41.JPG
+├── Antonella_Boston_42.JPG
+├── Antonella_Boston_43.JPG
+├── Antonella_Boston_44.JPG
+├── Antonella_Boston_45.JPG
+├── Antonella_Boston_46.JPG
+├── Antonella_Boston_47.JPG
+├── Antonella_Boston_48.JPG
+├── Antonella_Boston_49.JPG
+├── Antonella_Boston_50.JPG
+├── Antonella_Boston_51.JPG
+├── Antonella_Boston_52.JPG
+├── Antonella_Boston_53.JPG
+├── Antonella_Boston_54.JPG
+├── Antonella_Boston_55.JPG
+├── Antonella_Boston_56.JPG
+├── Antonella_Boston_57.JPG
+├── Antonella_Boston_58.JPG
+├── Antonella_Boston_59.JPG
+└── RAW
+    ├── 20170616_1233.xmp
+    ├── 20170616_1247.CR2
+    ├── 20170616_1256.xmp
+    ├── 20170616_1214.CR2
+    ├── 20170616_1214.xmp
+    ├── 20170616_1215.CR2
+    ├── 20170616_1215.xmp
+    ├── 20170616_1217.CR2
+    ├── 20170616_1217.xmp
+    ├── 20170616_1221.CR2
+    ├── 20170616_1221.xmp
+    ├── 20170616_1222.CR2
+    ├── 20170616_1222.xmp
+    ├── 20170616_1226.CR2
+    ├── 20170616_1228.CR2
+    ├── 20170616_1228.xmp
+    ├── 20170616_1231.CR2
+    ├── 20170616_1231.xmp
+    ├── 20170616_1233.CR2
+    ├── 20170616_1237.CR2
+    ├── 20170616_1237.xmp
+    ├── 20170616_1239.CR2
+    ├── 20170616_1239.xmp
+    ├── 20170616_1241.CR2
+    ├── 20170616_1241.xmp
+    ├── 20170616_1242.CR2
+    ├── 20170616_1242.xmp
+    ├── 20170616_1243.CR2
+    ├── 20170616_1243.xmp
+    ├── 20170616_1244.CR2
+    ├── 20170616_1244.xmp
+    ├── 20170616_1245.CR2
+    ├── 20170616_1245.xmp
+    ├── 20170616_1246.CR2
+    ├── 20170616_1246.xmp
+    ├── 20170616_1247.xmp
+    ├── 20170616_1248.CR2
+    ├── 20170616_1248.xmp
+    ├── 20170616_1249.CR2
+    ├── 20170616_1249.xmp
+    ├── 20170616_1251.CR2
+    ├── 20170616_1251.xmp
+    ├── 20170616_1252.CR2
+    ├── 20170616_1252.xmp
+    ├── 20170616_1253.CR2
+    ├── 20170616_1253.xmp
+    ├── 20170616_1254.CR2
+    ├── 20170616_1254.xmp
+    ├── 20170616_1255.CR2
+    ├── 20170616_1255.xmp
+    ├── 20170616_1256.CR2
+    ├── 20170616_1257.CR2
+    ├── 20170616_1257.xmp
+    ├── 20170616_1258.CR2
+    ├── 20170616_1258.xmp
+    ├── 20170616_1259.CR2
+    ├── 20170616_1259.xmp
+    ├── 20170616_1260.CR2
+    ├── 20170616_1260.xmp
+    ├── 20170616_1261.CR2
+    ├── 20170616_1261.xmp
+    ├── 20170616_1263.CR2
+    ├── 20170616_1263.xmp
+    ├── 20170616_1266.CR2
+    ├── 20170616_1266.xmp
+    ├── 20170616_1271.CR2
+    ├── 20170616_1274.CR2
+    ├── 20170616_1274.xmp
+    ├── 20170616_1275.CR2
+    ├── 20170616_1275.xmp
+    ├── 20170616_1276.CR2
+    ├── 20170616_1276.xmp
+    ├── 20170616_1278.CR2
+    ├── 20170616_1278.xmp
+    ├── 20170616_1279.CR2
+    ├── 20170616_1279.xmp
+    ├── 20170616_1282.CTG
+    ├── HDR1.dng
+    └── HDR2.dng
+20170617_Antonella10_LibertyBrooklyn
+├── Antonella_Brooklyn_12.JPG
+├── Antonella_Brooklyn_27.JPG
+├── Antonella_Liberty_02.JPG
+├── Antonella_Brooklyn_01.JPG
+├── Antonella_Brooklyn_02.JPG
+├── Antonella_Brooklyn_03.JPG
+├── Antonella_Brooklyn_04.JPG
+├── Antonella_Brooklyn_05.JPG
+├── Antonella_Brooklyn_06.JPG
+├── Antonella_Brooklyn_07.JPG
+├── Antonella_Brooklyn_08.JPG
+├── Antonella_Brooklyn_09.JPG
+├── Antonella_Brooklyn_10.JPG
+├── Antonella_Brooklyn_11.JPG
+├── Antonella_Brooklyn_13.JPG
+├── Antonella_Brooklyn_14.JPG
+├── Antonella_Brooklyn_15.JPG
+├── Antonella_Brooklyn_16.JPG
+├── Antonella_Brooklyn_17.JPG
+├── Antonella_Brooklyn_18.JPG
+├── Antonella_Brooklyn_19.JPG
+├── Antonella_Brooklyn_20.JPG
+├── Antonella_Brooklyn_21.JPG
+├── Antonella_Brooklyn_22.JPG
+├── Antonella_Brooklyn_23.JPG
+├── Antonella_Brooklyn_24.JPG
+├── Antonella_Brooklyn_25.JPG
+├── Antonella_Brooklyn_26.JPG
+├── Antonella_Brooklyn_28.JPG
+├── Antonella_Brooklyn_29.JPG
+├── Antonella_Brooklyn_30.JPG
+├── Antonella_Brooklyn_31.JPG
+├── Antonella_Brooklyn_32.JPG
+├── Antonella_Brooklyn_33.JPG
+├── Antonella_Brooklyn_34.JPG
+├── Antonella_Brooklyn_35.JPG
+├── Antonella_Brooklyn_36.JPG
+├── Antonella_Brooklyn_37.JPG
+├── Antonella_Brooklyn_38.JPG
+├── Antonella_Brooklyn_39.JPG
+├── Antonella_Brooklyn_40.JPG
+├── Antonella_Liberty_01.JPG
+├── Antonella_Liberty_03.JPG
+├── Antonella_Liberty_04.JPG
+├── Antonella_Liberty_05.JPG
+├── Antonella_Liberty_06.JPG
+├── Antonella_Liberty_07.JPG
+├── Antonella_Liberty_08.JPG
+├── Antonella_Liberty_09.JPG
+├── Antonella_Liberty_10.JPG
+├── Antonella_Liberty_11.JPG
+├── Antonella_Liberty_12.JPG
+├── Antonella_Liberty_13.JPG
+├── Antonella_Liberty_14.JPG
+├── Antonella_Liberty_15.JPG
+├── Antonella_Liberty_16.JPG
+├── Antonella_Liberty_17.JPG
+├── Antonella_Liberty_18.JPG
+├── Antonella_Liberty_19.JPG
+├── Antonella_Liberty_20.JPG
+├── Antonella_Liberty_21.JPG
+├── Antonella_Liberty_22.JPG
+└── RAW
+    ├── 20170617_1294.CR2
+    ├── 20170617_1294.xmp
+    ├── 20170617_1295.CR2
+    ├── 20170617_1295.xmp
+    ├── 20170617_1297.CR2
+    ├── 20170617_1297.xmp
+    ├── 20170617_1300.CR2
+    ├── 20170617_1300.xmp
+    ├── 20170617_1303.CR2
+    ├── 20170617_1303.xmp
+    ├── 20170617_1304.CR2
+    ├── 20170617_1304.xmp
+    ├── 20170617_1306.CR2
+    ├── 20170617_1306.xmp
+    ├── 20170617_1311.CR2
+    ├── 20170617_1311.xmp
+    ├── 20170617_1312.xmp
+    ├── 20170617_1313.CR2
+    ├── 20170617_1313.xmp
+    ├── 20170617_1314.CR2
+    ├── 20170617_1314.xmp
+    ├── 20170617_1316.CR2
+    ├── 20170617_1316.xmp
+    ├── 20170617_1318.CR2
+    ├── 20170617_1318.xmp
+    ├── 20170617_1319.CR2
+    ├── 20170617_1319.xmp
+    ├── 20170617_1320.CR2
+    ├── 20170617_1320.xmp
+    ├── 20170617_1322.CR2
+    ├── 20170617_1322.xmp
+    ├── 20170617_1323.CR2
+    ├── 20170617_1325.CR2
+    ├── 20170617_1325.xmp
+    ├── 20170617_1329.CR2
+    ├── 20170617_1329.xmp
+    ├── 20170617_1331.CR2
+    ├── 20170617_1331.xmp
+    ├── 20170617_1333.CR2
+    ├── 20170617_1333.xmp
+    ├── 20170617_1334.CR2
+    ├── 20170617_1334.xmp
+    ├── 20170617_1335.CR2
+    ├── 20170617_1335.xmp
+    ├── 20170617_1336.CR2
+    ├── 20170617_1336.xmp
+    ├── 20170617_1337.CR2
+    ├── 20170617_1337.xmp
+    ├── 20170617_1340.xmp
+    ├── 20170617_1341.CR2
+    ├── 20170617_1341.xmp
+    ├── 20170617_1342.CR2
+    ├── 20170617_1342.xmp
+    ├── 20170617_1343.CR2
+    ├── 20170617_1343.xmp
+    ├── 20170617_1344.CR2
+    ├── 20170617_1344.xmp
+    ├── 20170617_1345.CR2
+    ├── 20170617_1345.xmp
+    ├── 20170617_1346.CR2
+    ├── 20170617_1346.xmp
+    ├── 20170617_1347.CR2
+    ├── 20170617_1347.xmp
+    ├── 20170617_1348.CR2
+    ├── 20170617_1349.CR2
+    ├── 20170617_1349.xmp
+    ├── 20170617_1350.CR2
+    ├── 20170617_1350.xmp
+    ├── 20170617_1351.CR2
+    ├── 20170617_1351.xmp
+    ├── 20170617_1352.CR2
+    ├── 20170617_1352.xmp
+    ├── 20170617_1354.CR2
+    ├── 20170617_1354.xmp
+    ├── 20170617_1355.CR2
+    ├── 20170617_1355.xmp
+    ├── 20170617_1357.CR2
+    ├── 20170617_1357.xmp
+    ├── 20170617_1359.CR2
+    ├── 20170617_1359.xmp
+    ├── 20170617_1362.xmp
+    ├── 20170617_1364.CR2
+    ├── 20170617_1364.xmp
+    ├── 20170617_1365.CR2
+    ├── 20170617_1365.xmp
+    ├── 20170617_1376.CR2
+    ├── 20170617_1376.xmp
+    ├── 20170617_1377.CR2
+    ├── 20170617_1377.xmp
+    ├── 20170617_1379.CR2
+    ├── 20170617_1379.xmp
+    ├── 20170617_1380.CR2
+    ├── 20170617_1380.xmp
+    ├── 20170617_1381.CR2
+    ├── 20170617_1381.xmp
+    ├── 20170617_1383.CR2
+    ├── 20170617_1383.xmp
+    ├── 20170617_1385.CR2
+    ├── 20170617_1385.xmp
+    ├── 20170617_1312.CR2
+    ├── 20170617_1323.xmp
+    ├── 20170617_1340.CR2
+    ├── 20170617_1348.xmp
+    └── 20170617_1362.CR2
+20170714_BoatTrip
+├── JPG
+│   ├── Boat_trip_001.JPG
+│   ├── Boat_trip_002.JPG
+│   ├── Boat_trip_003.JPG
+│   ├── Boat_trip_004.JPG
+│   ├── Boat_trip_005.JPG
+│   ├── Boat_trip_006.JPG
+│   ├── Boat_trip_007.JPG
+│   ├── Boat_trip_008.JPG
+│   ├── Boat_trip_009.JPG
+│   ├── Boat_trip_010.JPG
+│   ├── Boat_trip_011.JPG
+│   ├── Boat_trip_012.JPG
+│   ├── Boat_trip_013.JPG
+│   ├── Boat_trip_014.JPG
+│   ├── Boat_trip_015.JPG
+│   ├── Boat_trip_016.JPG
+│   ├── Boat_trip_018.JPG
+│   ├── Boat_trip_019.JPG
+│   ├── Boat_trip_020.JPG
+│   ├── Boat_trip_021.JPG
+│   ├── Boat_trip_022.JPG
+│   ├── Boat_trip_023.JPG
+│   ├── Boat_trip_024.JPG
+│   ├── Boat_trip_025.JPG
+│   ├── Boat_trip_026.JPG
+│   ├── Boat_trip_027.JPG
+│   ├── Boat_trip_028.JPG
+│   ├── Boat_trip_029.JPG
+│   ├── Boat_trip_030.JPG
+│   ├── Boat_trip_031.JPG
+│   ├── Boat_trip_032.JPG
+│   ├── Boat_trip_033.JPG
+│   ├── Boat_trip_035.JPG
+│   ├── Boat_trip_036.JPG
+│   ├── Boat_trip_037.JPG
+│   ├── Boat_trip_038.JPG
+│   ├── Boat_trip_039.JPG
+│   ├── Boat_trip_040.JPG
+│   ├── Boat_trip_041.JPG
+│   ├── Boat_trip_042.JPG
+│   ├── Boat_trip_043.JPG
+│   ├── Boat_trip_044.JPG
+│   ├── Boat_trip_045.JPG
+│   ├── Boat_trip_046.JPG
+│   ├── Boat_trip_047.JPG
+│   ├── Boat_trip_048.JPG
+│   ├── Boat_trip_049.JPG
+│   ├── Boat_trip_050.JPG
+│   ├── Boat_trip_052.JPG
+│   ├── Boat_trip_053.JPG
+│   ├── Boat_trip_054.JPG
+│   ├── Boat_trip_055.JPG
+│   ├── Boat_trip_056.JPG
+│   ├── Boat_trip_057.JPG
+│   ├── Boat_trip_058.JPG
+│   ├── Boat_trip_059.JPG
+│   ├── Boat_trip_060.JPG
+│   ├── Boat_trip_061.JPG
+│   ├── Boat_trip_062.JPG
+│   ├── Boat_trip_063.JPG
+│   ├── Boat_trip_064.JPG
+│   ├── Boat_trip_065.JPG
+│   ├── Boat_trip_066.JPG
+│   ├── Boat_trip_067.JPG
+│   ├── Boat_trip_017.JPG
+│   ├── Boat_trip_034.JPG
+│   ├── Boat_trip_051.JPG
+│   ├── Boat_trip_068.JPG
+│   ├── Boat_trip_069.JPG
+│   ├── Boat_trip_070.JPG
+│   ├── Boat_trip_071.JPG
+│   ├── Boat_trip_072.JPG
+│   ├── Boat_trip_073.JPG
+│   ├── Boat_trip_074.JPG
+│   ├── Boat_trip_075.JPG
+│   ├── Boat_trip_076.JPG
+│   ├── Boat_trip_077.JPG
+│   ├── Boat_trip_078.JPG
+│   ├── Boat_trip_079.JPG
+│   ├── Boat_trip_080.JPG
+│   ├── Boat_trip_081.JPG
+│   ├── Boat_trip_082.JPG
+│   ├── Boat_trip_083.JPG
+│   ├── Boat_trip_084.JPG
+│   ├── Boat_trip_085.JPG
+│   ├── Boat_trip_086.JPG
+│   ├── Boat_trip_087.JPG
+│   ├── Boat_trip_088.JPG
+│   ├── Boat_trip_089.JPG
+│   └── Boat_trip_090.JPG
+└── RAW
+    ├── 20170714_1387.CR2
+    ├── 20170714_1387.xmp
+    ├── 20170714_1388.CR2
+    ├── 20170714_1388.xmp
+    ├── 20170714_1390.CR2
+    ├── 20170714_1390.xmp
+    ├── 20170714_1391.CR2
+    ├── 20170714_1391.xmp
+    ├── 20170714_1392.CR2
+    ├── 20170714_1392.xmp
+    ├── 20170714_1393.CR2
+    ├── 20170714_1393.xmp
+    ├── 20170714_1394.CR2
+    ├── 20170714_1394.xmp
+    ├── 20170714_1396.CR2
+    ├── 20170714_1396.xmp
+    ├── 20170714_1397.xmp
+    ├── 20170714_1398.CR2
+    ├── 20170714_1398.xmp
+    ├── 20170714_1399.CR2
+    ├── 20170714_1399.xmp
+    ├── 20170714_1402.CR2
+    ├── 20170714_1402.xmp
+    ├── 20170714_1403.CR2
+    ├── 20170714_1403.xmp
+    ├── 20170714_1404.CR2
+    ├── 20170714_1404.xmp
+    ├── 20170714_1405.CR2
+    ├── 20170714_1405.xmp
+    ├── 20170714_1406.CR2
+    ├── 20170714_1406.xmp
+    ├── 20170714_1409.CR2
+    ├── 20170714_1410.CR2
+    ├── 20170714_1410.xmp
+    ├── 20170714_1411.CR2
+    ├── 20170714_1411.xmp
+    ├── 20170714_1412.CR2
+    ├── 20170714_1412.xmp
+    ├── 20170714_1415.CR2
+    ├── 20170714_1415.xmp
+    ├── 20170714_1417.CR2
+    ├── 20170714_1417.xmp
+    ├── 20170714_1418.CR2
+    ├── 20170714_1418.xmp
+    ├── 20170714_1420.CR2
+    ├── 20170714_1420.xmp
+    ├── 20170714_1423.CR2
+    ├── 20170714_1423.xmp
+    ├── 20170714_1426.xmp
+    ├── 20170714_1427.CR2
+    ├── 20170714_1427.xmp
+    ├── 20170714_1430.CR2
+    ├── 20170714_1430.xmp
+    ├── 20170714_1434.CR2
+    ├── 20170714_1434.xmp
+    ├── 20170714_1435.CR2
+    ├── 20170714_1435.xmp
+    ├── 20170714_1436.CR2
+    ├── 20170714_1436.xmp
+    ├── 20170714_1437.CR2
+    ├── 20170714_1437.xmp
+    ├── 20170714_1439.CR2
+    ├── 20170714_1439.xmp
+    ├── 20170714_1440.CR2
+    ├── 20170714_1441.CR2
+    ├── 20170714_1441.xmp
+    ├── 20170714_1442.CR2
+    ├── 20170714_1442.xmp
+    ├── 20170714_1443.CR2
+    ├── 20170714_1443.xmp
+    ├── 20170714_1444.CR2
+    ├── 20170714_1444.xmp
+    ├── 20170714_1446.CR2
+    ├── 20170714_1446.xmp
+    ├── 20170714_1447.CR2
+    ├── 20170714_1447.xmp
+    ├── 20170714_1448.CR2
+    ├── 20170714_1448.xmp
+    ├── 20170714_1449.CR2
+    ├── 20170714_1449.xmp
+    ├── 20170714_1451.xmp
+    ├── 20170714_1452.CR2
+    ├── 20170714_1452.xmp
+    ├── 20170714_1453.CR2
+    ├── 20170714_1453.xmp
+    ├── 20170714_1456.CR2
+    ├── 20170714_1456.xmp
+    ├── 20170714_1457.CR2
+    ├── 20170714_1457.xmp
+    ├── 20170714_1461.CR2
+    ├── 20170714_1461.xmp
+    ├── 20170714_1462.CR2
+    ├── 20170714_1462.xmp
+    ├── 20170714_1463.CR2
+    ├── 20170714_1463.xmp
+    ├── 20170714_1464.CR2
+    ├── 20170714_1397.CR2
+    ├── 20170714_1409.xmp
+    ├── 20170714_1426.CR2
+    ├── 20170714_1440.xmp
+    ├── 20170714_1451.CR2
+    ├── 20170714_1464.xmp
+    ├── 20170714_1486.CR2
+    ├── 20170714_1523.xmp
+    ├── 20170714_1465.CR2
+    ├── 20170714_1465.xmp
+    ├── 20170714_1466.CR2
+    ├── 20170714_1466.xmp
+    ├── 20170714_1468.CR2
+    ├── 20170714_1468.xmp
+    ├── 20170714_1469.CR2
+    ├── 20170714_1469.xmp
+    ├── 20170714_1471.CR2
+    ├── 20170714_1471.xmp
+    ├── 20170714_1472.CR2
+    ├── 20170714_1472.xmp
+    ├── 20170714_1477.CR2
+    ├── 20170714_1477.xmp
+    ├── 20170714_1483.CR2
+    ├── 20170714_1483.xmp
+    ├── 20170714_1486.xmp
+    ├── 20170714_1489.CR2
+    ├── 20170714_1489.xmp
+    ├── 20170714_1495.CR2
+    ├── 20170714_1495.xmp
+    ├── 20170714_1501.CR2
+    ├── 20170714_1501.xmp
+    ├── 20170714_1502.CR2
+    ├── 20170714_1502.xmp
+    ├── 20170714_1507.CR2
+    ├── 20170714_1507.xmp
+    ├── 20170714_1510.CR2
+    ├── 20170714_1510.xmp
+    ├── 20170714_1522.CR2
+    ├── 20170714_1522.xmp
+    ├── 20170714_1523.CR2
+    ├── 20170714_1524.CR2
+    ├── 20170714_1524.xmp
+    ├── 20170714_1525.CR2
+    ├── 20170714_1525.xmp
+    ├── 20170714_1526.CR2
+    ├── 20170714_1526.xmp
+    ├── 20170714_1527.CR2
+    ├── 20170714_1527.xmp
+    ├── 20170714_1529.CR2
+    ├── 20170714_1529.xmp
+    ├── 20170714_1530.CR2
+    ├── 20170714_1530.xmp
+    ├── 20170714_1531.CR2
+    ├── 20170714_1531.xmp
+    ├── 20170714_1532.CR2
+    ├── 20170714_1532.xmp
+    ├── 20170714_1534.CR2
+    ├── 20170714_1534.xmp
+    ├── Test1-HDR.dng
+    ├── Test3-HDR.dng
+    ├── Test4-HDR.dng
+    ├── Test5-HDR.dng
+    └── Test6-HDR.dng
+20170715_Brooklyn
+├── JPG
+│   ├── Brooklyn_01.JPG
+│   ├── Brooklyn_02.JPG
+│   ├── Brooklyn_03.JPG
+│   ├── Brooklyn_04.JPG
+│   ├── Brooklyn_05.JPG
+│   ├── Brooklyn_06.JPG
+│   ├── Brooklyn_07.JPG
+│   ├── Brooklyn_08.JPG
+│   ├── Brooklyn_09.JPG
+│   ├── Brooklyn_10.JPG
+│   ├── Brooklyn_11.JPG
+│   ├── Brooklyn_12.JPG
+│   ├── Brooklyn_13.JPG
+│   ├── Brooklyn_14.JPG
+│   ├── Brooklyn_15.JPG
+│   ├── Brooklyn_16.JPG
+│   ├── Brooklyn_17.JPG
+│   ├── Brooklyn_18.JPG
+│   ├── Brooklyn_19.JPG
+│   ├── Brooklyn_20.JPG
+│   ├── Brooklyn_21.JPG
+│   ├── Brooklyn_22.JPG
+│   ├── Brooklyn_23.JPG
+│   ├── Brooklyn_24.JPG
+│   ├── Brooklyn_25.JPG
+│   ├── Brooklyn_26.JPG
+│   ├── Brooklyn_27.JPG
+│   ├── Brooklyn_28.JPG
+│   ├── Brooklyn_29.JPG
+│   ├── Brooklyn_30.JPG
+│   ├── Brooklyn_31.JPG
+│   ├── Brooklyn_32.JPG
+│   └── Brooklyn_33.JPG
+└── RAW
+    ├── 20170715_1558.CR2
+    ├── 20170715_1568.xmp
+    ├── 20170715_1547.CR2
+    ├── 20170715_1547.xmp
+    ├── 20170715_1548.CR2
+    ├── 20170715_1548.xmp
+    ├── 20170715_1549.CR2
+    ├── 20170715_1549.xmp
+    ├── 20170715_1550.CR2
+    ├── 20170715_1550.xmp
+    ├── 20170715_1554.CR2
+    ├── 20170715_1554.xmp
+    ├── 20170715_1555.CR2
+    ├── 20170715_1555.xmp
+    ├── 20170715_1556.CR2
+    ├── 20170715_1556.xmp
+    ├── 20170715_1557.CR2
+    ├── 20170715_1557.xmp
+    ├── 20170715_1558.xmp
+    ├── 20170715_1559.CR2
+    ├── 20170715_1559.xmp
+    ├── 20170715_1560.CR2
+    ├── 20170715_1560.xmp
+    ├── 20170715_1561.CR2
+    ├── 20170715_1561.xmp
+    ├── 20170715_1562.CR2
+    ├── 20170715_1562.xmp
+    ├── 20170715_1564.CR2
+    ├── 20170715_1564.xmp
+    ├── 20170715_1565.CR2
+    ├── 20170715_1565.xmp
+    ├── 20170715_1567.CR2
+    ├── 20170715_1567.xmp
+    ├── 20170715_1568.CR2
+    ├── 20170715_1569.CR2
+    ├── 20170715_1569.xmp
+    ├── 20170715_1570.CR2
+    ├── 20170715_1570.xmp
+    ├── 20170715_1571.CR2
+    ├── 20170715_1571.xmp
+    ├── 20170715_1573.CR2
+    ├── 20170715_1573.xmp
+    ├── 20170715_1574.CR2
+    ├── 20170715_1574.xmp
+    ├── 20170715_1575.CR2
+    ├── 20170715_1575.xmp
+    ├── 20170715_1578.CR2
+    ├── 20170715_1578.xmp
+    ├── 20170715_1579.CR2
+    ├── 20170715_1579.xmp
+    ├── 20170715_1580.CR2
+    ├── 20170715_1580.xmp
+    ├── 20170715_1581.CR2
+    ├── 20170715_1581.xmp
+    ├── 20170715_1583.CR2
+    ├── 20170715_1583.xmp
+    ├── 20170715_1584.CR2
+    ├── 20170715_1584.xmp
+    ├── 20170715_1586.CR2
+    └── 20170715_1586.xmp
+20170716_ByeMichele
+├── MicheleLeaving_01.JPG
+├── MicheleLeaving_02.JPG
+├── MicheleLeaving_03.JPG
+├── MicheleLeaving_04.JPG
+├── MicheleLeaving_05.JPG
+├── MicheleLeaving_06.JPG
+├── MicheleLeaving_07.JPG
+├── MicheleLeaving_08.JPG
+└── RAW
+    ├── 20170716_1536.CR2
+    ├── 20170716_1536.xmp
+    ├── 20170716_1537.CR2
+    ├── 20170716_1537.xmp
+    ├── 20170716_1538.CR2
+    ├── 20170716_1538.xmp
+    ├── 20170716_1540.CR2
+    ├── 20170716_1540.xmp
+    ├── 20170716_1541.CR2
+    ├── 20170716_1541.xmp
+    ├── 20170716_1542.CR2
+    ├── 20170716_1542.xmp
+    ├── 20170716_1543.CR2
+    ├── 20170716_1543.xmp
+    ├── 20170716_1545.CR2
+    └── 20170716_1545.xmp
