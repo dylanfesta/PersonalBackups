@@ -14,6 +14,7 @@ pip install git+https://github.com/basak/glacier-cli.git
 sudo ln -s $(which glacier-cli) /usr/local/bin/glacier 
 ```
 
+The keys are where you keep all the passwords. Search for AWS.
 ```bash
 export AWS_ACCESS_KEY_ID="08TJMT99S3511WOZEP91"
 export AWS_SECRET_ACCESS_KEY="s3kr1t"
@@ -28,10 +29,15 @@ git push origin master git-annex
 ```
 
 On the new compter, also have annex, and glacier-cli 
+
+IMPORTANT:  you need a conda Python 2.7 environment :-(
+
 ```bash
 pip install git+https://github.com/basak/glacier-cli.git
-sudo ln -s $(which glacier-cli) /usr/local/bin/glacier 
 ```
+
+If there is a glacier executable, replace it with glacier-cli, at the path `which glacier-cli` 
+
 
 Then clone the repository, and **reconstruct the inventory** 
 
@@ -40,6 +46,9 @@ git annex sync
 glacier vault list
 glacier vault sync <vaultname>
 ```
+
+WARNING: sync requires some time! Use `glacier job list` to see if the job is still ongoing.
+
 The name I am using is `FotoDylanAnn` , make sure it is there.
 
 Then finally
